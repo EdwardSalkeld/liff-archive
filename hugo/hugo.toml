@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+title = 'My New Hugo Site'
+languageCode = 'en-gb'
+theme = 'liffstyle'
+timezone = 'Europe/London'
