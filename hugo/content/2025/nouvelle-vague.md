@@ -1,5 +1,12 @@
 +++
 title = "Nouvelle Vague"
+director = "Richard Linklater"
+running-time = "106 mins"
+production-year = "2025"
+country = "France, USA"
+language = "French, English"
+courtesy-of = "Altitude"
+premiere-status = "Northern Premiere"
 +++
 In his much-anticipated latest feature, indie auteur Richard Linklater crafts a stylish, black-and-white homage to the French New Wave. 
 

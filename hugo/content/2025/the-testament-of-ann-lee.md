@@ -1,5 +1,12 @@
 +++
 title = "The Testament of Ann Lee"
+director = "Mona Fastvold"
+running-time = "135 mins"
+production-year = "2025"
+country = "UK, USA"
+language = "English"
+courtesy-of = "Disney"
+premiere-status = "Northern Premiere"
 +++
 In this sweeping, lyrical epic, writer-director Mona Fastvold (The Brutalist) reimagines the life of Ann Lee, the visionary founder of the Shakers, who proclaimed herself the female incarnation of Christ.
  

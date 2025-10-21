@@ -1,5 +1,11 @@
 +++
 title = "Lowland Kids"
+director = "Sandra Winther"
+running-time = "92 mins"
+production-year = "2025"
+country = "USA, Denmark"
+language = "English"
+courtesy-of = "Together Films"
 +++
 A timely debut, focusing on the resettlement of a community, dubbed the United States’ first climate refugees.
 

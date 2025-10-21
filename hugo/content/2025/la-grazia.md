@@ -1,5 +1,12 @@
 +++
 title = "La Grazia"
+director = "Paolo Sorrentino"
+running-time = "131 mins"
+production-year = "2025"
+country = "Italy"
+language = "Italian"
+courtesy-of = "MUBI"
+premiere-status = "Northern Premiere"
 +++
 The great Paolo Sorrentino’s latest film reunites him with his favourite leading actor Toni Servillo (The Great Beauty, Il Divo), who gives a sublime performance as a fictional Italian president. 
 

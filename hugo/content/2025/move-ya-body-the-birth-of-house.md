@@ -1,5 +1,11 @@
 +++
 title = "Move Ya Body: The Birth of House"
+director = "Elegance Bratton"
+running-time = "92 mins"
+production-year = "2025"
+country = "USA, UK"
+language = "English"
+courtesy-of = "Chester Algernal Gordon"
 +++
 House music has a fascinating history and in Move Ya Body director Elegance Bratton takes us from its conception in late 70s Chicago to its huge influence on pop superstars like Lady Gaga and Beyoncé. 
 

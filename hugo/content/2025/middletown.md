@@ -1,5 +1,12 @@
 +++
 title = "Middletown"
+director = "Amanda McBaine, Jesse Moss"
+running-time = "95 mins"
+production-year = "2025"
+country = "USA"
+language = "English"
+courtesy-of = "Page 1 Entertainment"
+premiere-status = "English Premiere"
 +++
 Idealistic teenagers really do change the world in Middletown, a fascinating documentary about a high school project that became a genuinely groundbreaking work of investigative journalism. 
 

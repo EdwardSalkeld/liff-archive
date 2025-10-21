@@ -1,5 +1,12 @@
 +++
 title = "We Believe You"
+director = "Charlotte Deville, Arnaud Dufeys"
+running-time = "78 mins"
+production-year = "2025"
+country = "Belgium"
+language = "French"
+courtesy-of = "The Party Film Sales"
+premiere-status = "UK Premiere"
 +++
 An unbearably tense courtroom drama, We Believe You is an extraordinary debut feature by Belgian filmmakers Charlotte Devillers and Arnaud Dufeys. 
 
