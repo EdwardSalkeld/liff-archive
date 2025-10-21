@@ -7,6 +7,7 @@ country = "Poland, Lithuania"
 language = "Polish"
 courtesy-of = "Drygas Film Production"
 premiere-status = "UK Premiere"
+strand = "Cinema Versa"
 +++
 Elegantly compiled from wordless black and white archive footage, Trains is a sweeping history of people, industry and conflict in twentieth century Europe, all focussed on one piece of life changing technology: the locomotive. 
 

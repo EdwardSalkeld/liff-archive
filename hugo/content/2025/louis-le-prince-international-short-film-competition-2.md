@@ -1,5 +1,6 @@
 +++
 title = "Louis le Prince  International Short Film Competition 2"
+strand = "LIFF Shorts"
 +++
 The second of five programmes in our prestigious international competition for short films, with selections from Mexico, France, Greece, Palestine, Spain, and Cambodia.
  

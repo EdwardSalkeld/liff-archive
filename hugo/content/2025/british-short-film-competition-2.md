@@ -1,5 +1,6 @@
 +++
 title = "British Short Film Competition 2"
+strand = "LIFF Shorts"
 +++
 Our competition for British short films features two programmes screening back to back on 8 November at Everyman Leeds, followed by the LIFF SHORTS 2025 Awards event at Howard Assembly Room.
  

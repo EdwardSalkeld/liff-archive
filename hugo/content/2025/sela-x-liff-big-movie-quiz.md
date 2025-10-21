@@ -1,5 +1,6 @@
 +++
 title = "Sela X LIFF Big Movie Quiz"
+strand = "LIFF Social"
 +++
 Grab your film loving friends and test your knowledge at our fun movie quiz.
 £2 each to play - 4 max per team.

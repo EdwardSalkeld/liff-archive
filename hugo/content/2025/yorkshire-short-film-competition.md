@@ -1,5 +1,6 @@
 +++
 title = "Yorkshire Short Film Competition"
+strand = "LIFF Shorts"
 +++
 One of the annual highlights of the LIFF SHORTS selection, the Yorkshire Short Film Competition celebrates filmmaking from across this incredible region.
  

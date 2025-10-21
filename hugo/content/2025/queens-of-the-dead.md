@@ -6,6 +6,7 @@ production-year = "2025"
 country = "USA"
 language = "English"
 courtesy-of = "Charades"
+strand = "Night of the Dead"
 +++
 The Night of the Dead headline film and Fanomenon closing film is Tina Romeo’s outrageous horror-comedy about a zombie apocalypse during a queer warehouse party in Brooklyn. 
 Drag queens, club kids, "token straights" and frenemies have to battle the undead battling both the undead and their own personal conflicts. Featuring queer icons Nina West, Dominique Jackson, Margaret Cho and Cheyenne Jackson, this gloriously trashy yet heartfelt romp honours the Romero family tradition.

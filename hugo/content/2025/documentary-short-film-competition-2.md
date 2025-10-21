@@ -1,5 +1,6 @@
 +++
 title = "Documentary Short Film Competition 2"
+strand = "LIFF Shorts"
 +++
 Our competition for documentary short films expands this year, with two programmes featuring selections from France, South Africa, Democratic Republic of Congo, Slovenia, USA, Canada, Mexico, Spain, China, and Costa Rica.
  

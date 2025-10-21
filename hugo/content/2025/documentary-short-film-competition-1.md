@@ -1,5 +1,6 @@
 +++
 title = "Documentary Short Film Competition 1"
+strand = "LIFF Shorts"
 +++
 The first of two competition programmes for documentary short films at LIFF, offering an expansive view of what documentaries can be.
  

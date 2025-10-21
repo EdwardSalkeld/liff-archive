@@ -1,5 +1,6 @@
 +++
 title = "Fanomenon Short Film Competition 2"
+strand = "LIFF Shorts"
 +++
 The very popular fantastic genre shorts selection at LIFF is now a competition, with three programmes of fantasy, horror, comedy, sci-fi and more.
  

@@ -7,6 +7,7 @@ country = "Brazil"
 language = "Portuguese, English"
 courtesy-of = "Cineteca"
 certificate = "BBFC 18"
+strand = "LIFF Spotlights - Deslocamentos: Brazilian Cinema on the Move"
 +++
 Hector Babenco’s 1980 masterpiece is both a gripping crime drama and a devastating exposé of how political corruption and police brutality drive street kids into the São Paulo underworld. 
 Pixote, a ten year old homeless boy is thrown into a juvenile prison, eventually breaking into a life of drugs and street crime. With incredible performances from a cast of non-professionals, all from similar backgrounds to the characters, the film is immediate, shocking and heartrendingly moving.

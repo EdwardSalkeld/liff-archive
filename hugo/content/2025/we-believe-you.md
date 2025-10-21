@@ -7,6 +7,7 @@ country = "Belgium"
 language = "French"
 courtesy-of = "The Party Film Sales"
 premiere-status = "UK Premiere"
+strand = "Constellation"
 +++
 An unbearably tense courtroom drama, We Believe You is an extraordinary debut feature by Belgian filmmakers Charlotte Devillers and Arnaud Dufeys. 
 

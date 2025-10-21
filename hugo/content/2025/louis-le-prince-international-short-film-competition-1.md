@@ -1,5 +1,6 @@
 +++
 title = "Louis le Prince  International Short Film Competition 1"
+strand = "LIFF Shorts"
 +++
 The first of five programmes in our prestigious international competition for short films, with selections from Hungary, Canada, Colombia, Ukraine, Netherlands, and Senegal.
  

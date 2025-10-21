@@ -7,6 +7,7 @@ country = "USA"
 language = "English"
 courtesy-of = "Page 1 Entertainment"
 premiere-status = "English Premiere"
+strand = "Cinema Versa"
 +++
 Idealistic teenagers really do change the world in Middletown, a fascinating documentary about a high school project that became a genuinely groundbreaking work of investigative journalism. 
 

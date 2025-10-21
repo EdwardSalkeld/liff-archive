@@ -1,5 +1,6 @@
 +++
 title = "Louis le Prince  International Short Film Competition 4"
+strand = "LIFF Shorts"
 +++
 The fourth of five programmes in our prestigious international competition for short films, with selections from Haiti, Bangladesh, Lebanon, Puerto Rico, Norway, and Sweden.
  

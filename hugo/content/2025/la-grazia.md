@@ -7,6 +7,7 @@ country = "Italy"
 language = "Italian"
 courtesy-of = "MUBI"
 premiere-status = "Northern Premiere"
+strand = "Constellation"
 +++
 The great Paolo Sorrentino’s latest film reunites him with his favourite leading actor Toni Servillo (The Great Beauty, Il Divo), who gives a sublime performance as a fictional Italian president. 
 

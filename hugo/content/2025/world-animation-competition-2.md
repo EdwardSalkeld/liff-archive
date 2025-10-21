@@ -1,5 +1,6 @@
 +++
 title = "World Animation Competition 2"
+strand = "LIFF Shorts"
 +++
 The second programme in our competition dedicated to short animations includes selections from Czech Republic, Croatia, Argentina, Canada, UK, Switzerland, South Korea, France, Brazil, and Netherlands.
  

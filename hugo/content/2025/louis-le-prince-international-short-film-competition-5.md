@@ -1,5 +1,6 @@
 +++
 title = "Louis le Prince  International Short Film Competition 5"
+strand = "LIFF Shorts"
 +++
 The finale of five programmes in our prestigious international competition for short films, with selections from Denmark, Bangladesh, Indonesia, France, and USA.
  

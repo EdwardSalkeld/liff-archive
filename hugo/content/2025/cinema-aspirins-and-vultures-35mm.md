@@ -6,6 +6,7 @@ production-year = "2005"
 country = "Brazil"
 language = "Portuguese, German"
 courtesy-of = "Funny Balloons: ezinggeler@hotmail.com"
+strand = "LIFF Spotlights - Deslocamentos: Brazilian Cinema on the Move"
 +++
 Far from Europe’s darkest hour at the peak of the Second World War, two men meet in the Brazilian outback in this bewitching Brazilian road movie. 
 

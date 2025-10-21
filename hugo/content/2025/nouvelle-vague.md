@@ -7,6 +7,7 @@ country = "France, USA"
 language = "French, English"
 courtesy-of = "Altitude"
 premiere-status = "Northern Premiere"
+strand = "Constellation"
 +++
 In his much-anticipated latest feature, indie auteur Richard Linklater crafts a stylish, black-and-white homage to the French New Wave. 
 

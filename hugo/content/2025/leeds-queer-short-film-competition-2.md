@@ -1,5 +1,6 @@
 +++
 title = "Leeds Queer Short Film Competition 2"
+strand = "LIFF Shorts"
 +++
 The second of two competition programmes for queer shorts this year includes films from Canada, UK, India, USA, and Aotearoa.
 Told seamlessly over decades, we watch Hamed grow up and navigate his queer, Afghan, and Muslim identities, as well as a difficult relationship with his father. Beautiful storytelling that does so much with so little; an exultation of the short film genre.Yorkshire Premiere | Alexander Farah | Canada | 2024 | 18 mins | Dari/Farsi, English

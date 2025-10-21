@@ -6,6 +6,7 @@ production-year = "2025"
 country = "USA, Denmark"
 language = "English"
 courtesy-of = "Together Films"
+strand = "Cinema Versa"
 +++
 A timely debut, focusing on the resettlement of a community, dubbed the United States’ first climate refugees.
 

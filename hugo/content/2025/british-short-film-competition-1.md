@@ -1,5 +1,6 @@
 +++
 title = "British Short Film Competition 1"
+strand = "LIFF Shorts"
 +++
 We’re screening 46 short films by filmmakers based across the UK at LIFF 2025, and this competition is at the heart of the selection, with two packed programmes celebrating new British filmmaking talent.
  

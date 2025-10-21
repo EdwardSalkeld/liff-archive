@@ -1,5 +1,6 @@
 +++
 title = "Leeds Queer Short Film Competition 1"
+strand = "LIFF Shorts"
 +++
 The first of two competition programmes for queer shorts this year includes films from UK, Ecuador, Palestine, USA, and India.
  

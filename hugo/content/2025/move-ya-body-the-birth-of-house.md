@@ -6,6 +6,7 @@ production-year = "2025"
 country = "USA, UK"
 language = "English"
 courtesy-of = "Chester Algernal Gordon"
+strand = "Cinema Versa"
 +++
 House music has a fascinating history and in Move Ya Body director Elegance Bratton takes us from its conception in late 70s Chicago to its huge influence on pop superstars like Lady Gaga and Beyoncé. 
 

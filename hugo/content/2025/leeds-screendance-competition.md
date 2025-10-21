@@ -1,5 +1,6 @@
 +++
 title = "Leeds Screendance Competition"
+strand = "LIFF Shorts"
 +++
 Screendance is one of the most innovative and exciting genres of short films, and our competition is one of the highlights of the LIFF SHORTS selection.
  

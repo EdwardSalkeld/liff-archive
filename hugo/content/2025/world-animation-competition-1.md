@@ -1,5 +1,6 @@
 +++
 title = "World Animation Competition 1"
+strand = "LIFF Shorts"
 +++
 We love animation at LIFF and we have a whole competition dedicated to short animated wonders. This first programme includes animations from Poland, Portugal, Egypt, Germany, Finland, Ecuador, Palestine, Switzerland, Estonia, Bulgaria, and Ireland.
  

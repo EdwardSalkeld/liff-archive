@@ -1,5 +1,6 @@
 +++
 title = "Night of the Dead"
+strand = "Fanomenon"
 +++
 Night of the Dead returns for an all-night horror marathon at Hyde Park Picture House, with a new mix of outrageous horror, cult carnage and Midnight Mayhem.
 UK's longest-running all-night film marathon returns with Tina Romero’s queer zombie romp Queens of the Dead, the darkly comic French thriller Flush, and the 50s creature features spoof Zombie Vampires from Space. The night closes with Stephen Kostanski’s riotous remake of the cult swords-and-sorcery epic Deathstalker - a guaranteed crowd-pleaser and not to be missed.Do you have what it takes to survive the whole night? Book early to get your favourite seats. Individual tickets are not available for Night of The Dead. 

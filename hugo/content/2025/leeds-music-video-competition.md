@@ -1,5 +1,6 @@
 +++
 title = "Leeds Music Video Competition"
+strand = "LIFF Shorts"
 +++
 A selection of some of the best new independent music videos from the UK and around the world.
  
