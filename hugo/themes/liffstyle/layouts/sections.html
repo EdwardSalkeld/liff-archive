@@ -2,8 +2,8 @@
   <h1>{{ .Title }}</h1>
 
   {{ .Content }}
-  {{ range .Pages.ByTitle }}
-    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ .Kind }} {{ .Section }} {{ .Type }}</h3>
+  {{ range site.Sections.ByTitle }}
+    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
     <ul>
       {{ range .Pages.ByTitle }}
       <li>{{ .LinkTitle }}</li>
@@ -11,3 +11,4 @@
     </ul>
     {{ end }}
   {{ end }}
+

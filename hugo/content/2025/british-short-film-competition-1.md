@@ -1,0 +1,14 @@
++++
+title = "British Short Film Competition 1"
+strand = "LIFF Shorts"
++++
+We’re screening 46 short films by filmmakers based across the UK at LIFF 2025, and this competition is at the heart of the selection, with two packed programmes celebrating new British filmmaking talent.
+ 
+Seeking the source of a mysterious metallic sound that haunts a rural village, local boy Peter meets an old woman, sparking memories of a strange bear that once roamed the hills of her childhood. An atmospheric and gentle folk tale of reminiscence and loss.Yorkshire Premiere | Zhang + Knight | UK | 2024 | 20 mins | English
+Dancing on Road follows a London based rollerskating community run by and for black women. Faced with societal issues like colourism and oversexualisation, watch how these women keep their heritage alive and find liberation, kinship and peace on four wheels.Yorkshire Premiere | Lauren Gee | UK | 2025 | 8 mins | English
+Curtis and Grace are navigating growing up and discovering a complicated adult world of influence and identity. Elegantly portraying a family's dynamic and routines, small, meaningful details come together effortlessly in a thoughtful and intimate narrative.Fenn O'Meally | UK | 2025 | 14 mins | English
+Barber Dustin’s sanity is tested when he’s given the absurd task of cutting the ears off a politician that’s slowly turning into a donkey. Party Animal perfectly captures the disillusionment of modern-day politics and the gaslighting methods of the media.Yorkshire Premiere | Ali Gill | UK | 2025 | 13 mins | English
+Focusing on the tight-knit bond between skaters Marlon and Murry, we see how their different upbringings and circumstances weigh on their friendship and adult lives. Murewa is a love letter lamenting lost time whilst celebrating future connection.Ché Scott-Heron Newton | UK | 2025 | 14 mins | English
+In this sensuous animation, identical figures eat, move and look the same. But everything will change for a woman, gifted an orange, that transports her to a realm where lichen and slugs become symbols of nature, in all of its glorious growth and potential.Yorkshire Premiere | May Kindred-Boothby | UK | 2024 | 7 mins | English
+Two boys sit in an empty cul-de-sac sharing gum. It feels like a beginning, but it isn’t. A haunting tale of complicity, repression and silent moments that betray us, Ritual fractures time to unearth a devastating truth: sometimes the horror is yet to come.Yorkshire Premiere | Cameron Cut | UK | 2025 | 6 mins | No dialogue
+Everyone knows Neil Armstrong went to the Moon, but it wasn’t until three years later, when visiting the tiny Scottish town of Langholm, that he finally got home. A wry and beautiful slice of Scottish life and a lesser-known tale of one of America's most famous sons.Yorkshire Premiere | Duncan Cowles | UK | 2025 | 18 mins | English
