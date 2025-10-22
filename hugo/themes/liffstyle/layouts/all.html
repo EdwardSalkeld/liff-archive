@@ -1,10 +1,10 @@
 {{ define "main" }}
-  <h2>{{ .Title }}</h1>
-  {{ .Content }}
   <h2>All films by title</h2>
+  {{ .Content }}
   <ul>
-    {{ range .Pages.ByTitle }}
+    {{ range site.RegularPages.ByTitle }}
       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}
   </ul>
 {{ end }}
+
