@@ -1,0 +1,15 @@
+- Page 06 - skipped, partners and sponsorship information
+- Page 07 - skipped, advertisement-
+- Page 08 - extracted Earth with New Score Live, The Ties That Bind Us, All We Imagine As Light, All the Long Nights
+- Page 09 - skipped, no film descriptions
+- Page 10 - extracted A Real Pain, All Shall Be Well, Anora, Betânia, Bird, Nightbitch
+- Page 11 - extracted Christmas Eve in Miller's Point, The Code, East of Noon, The Editorial Office, Conclave, Don't Cry Butterfly, The Fable, Familiar Touch^[[B
+- Page 12 - extracted Flow, The Girl with the Needle, Grand Tour, Hard Truths, Gloria!, Good One, How to Make Millions Before Grandma Dies, I’m Still Here
+- Page 13 - extracted Ivo, Julie Keeps Quiet, Loveable, Matt and Mara, La Cocina, Layla, Nickel Boys, On Becoming a Guinea Fowl
+- Page 14 - extracted The Other Way Around, Paul and Paulette Take a Bath, Pierce, Rent Free, Rumours, The Seed Of The Sacred Fig, Sex, Simon of the Mountain
+- Page 15 - extracted Stranger Eyes, Toxic, Universal Language, When The Light Breaks
+- Page 16 - skipped, introduction to Cinema Versa and advertisements
+- Page 17 - extracted Trans Memoria, Billy, Grand Theft Hamlet, It Was All a Dream, How to Build a Truth Engine, No Other Land
+- Page 18 - extracted Pavements, Rising Up at Night, The Stimming Pool, Union, Witches
+- Page 19 - skipped, introduction to Fanomenon and advertisements
+
