@@ -33,16 +33,16 @@
 - Page 30 - skipped, introduction to LIFF SHORTS
 - Page 31 - extracted LIFF SHORTS 2024: Opening Selection, LIFF SHORTS 2024: The Award Winners, Documentary Short Film Competition: Vantage Points, Documentary Short Film Panorama: Movements, British Competition 1, British Competition 2, Leeds Music Video Competition, Leeds Queer Short Film Competition 1
 - Page 32 - extracted Leeds Queer Short Film Competition 2, Leeds Screendance Competition, Louis le Prince International Short Film Competition 1, Louis le Prince International Short Film Competition 2, Louis le Prince International Short Film Competition 3, Louis le Prince International Short Film Competition 4, Ukraine, Displaced, World Animation Competition 1
+- Page 33 - extracted World Animation Competition 2, Yorkshire Short Film Competition
+- Page 34 - skipped, film schedule (no new descriptions)
+- Page 35 - extracted Chidambaram, The Churning, Debshishu, In Search of Famine, Mirch Masala
+- Page 36 - skipped, introduction to Stuart Croft spotlight and advertisement
+- Page 37 - extracted The Saragossa Manuscript, The Draughtsman’s Contract, Le Samouraï + HIT, Symbiopsychotaxiplasm: Take One + Death Waltz, The Exterminating Angel + Century City, Singin’ in the Rain, The Breakfast Club
+- Page 38 - skipped, advertisement and already extracted film reference
+- Page 39 - skipped, references to already extracted films
+- Page 40 - skipped, film schedule (no new descriptions)
 
 ## TODO Pages
-- Page 33
-- Page 34
-- Page 35
-- Page 36
-- Page 37
-- Page 38
-- Page 39
-- Page 40
 - Page 41
 - Page 42
 - Page 43
