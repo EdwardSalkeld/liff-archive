@@ -1,0 +1,10 @@
++++
+title = "Leeds Screendance Competition"
+director = "12 short films"
+running-time = "67 mins"
+production-year = "2023/24"
+country = "Canada, Denmark, Estonia, France, Lebanon, USA"
+strand = "LIFF SHORTS"
+screenings = "Everyman Screen 4, Fri 8 Nov 20:30 & Mon 11 Nov 12:15"
++++
+Celebrating its 10th anniversary, LIFF’s Screendance competition spotlights international dance films that navigate the countless ways a moving body can drive a narrative: from the softness of a solo male negotiating his brutalist urban location to the eco-rage of a solo woman battling an underwater plastic-waste monster. Whether explicitly narrative or more abstract in perspective, these innovative shorts all share a particular engagement with choreography, offering an alternative take on this experimental form. A panel discussion with filmmakers will follow the screening on 8 November.

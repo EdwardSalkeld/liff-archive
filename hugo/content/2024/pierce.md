@@ -1,0 +1,12 @@
++++
+title = "Pierce"
+director = "Nelicia Low"
+running-time = "109 mins"
+production-year = "2024"
+country = "Singapore, Thailand, Poland"
+language = "Mandarin Chinese"
+premiere-status = "UK Premiere"
+strand = "Constellation Competition"
+screenings = "Vue Screen 11, Thu 7 Nov 20:30 & Sat 9 Nov 16:00 & Tue 12 Nov 16:00"
++++
+In Nelicia Low’s unsettling and gripping thriller, the question of guilt lurks in every frame. Against his mother’s advice, Jie excitedly anticipates the release of his older brother Han, who has served seven years in prison for brutally murdering his fencing opponent. Jie has always wrestled with his brother’s innocence, conflicted between his idolisation and evidence of the crime. As Han supports Jie’s exploration of his sexuality and coaches his fencing, Jie duels with his commitment to his brother and his family’s safety as the story lunges towards an explosive finale.

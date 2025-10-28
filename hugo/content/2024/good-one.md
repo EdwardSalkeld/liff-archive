@@ -1,0 +1,11 @@
++++
+title = "Good One"
+director = "India Donaldson"
+running-time = "89 mins"
+production-year = "2024"
+country = "USA"
+language = "English"
+strand = "Constellation"
+screenings = "Vue Screen 12, Fri 8 Nov 16:30 & Wed 13 Nov 16:30 & Fri 15 Nov 18:30 | Hyde Park Screen One, Mon 11 Nov 20:45"
++++
+One of the most acclaimed breakout films of the year, India Donaldson’s debut feature is an unconventional coming of age story that shows an intuition and maturity which matches its 17-year-old protagonist. Sam (Lily Collias) embarks on a threeday backpacking trip in the Catskills with her dad, Chris (James Le Gros) and his oldest friend, Matt (Danny McCarthy). The two men bicker and ruminate over mid-life crises leaving Sam to mediate the dueling egos until lines are crossed. Three beautifully modulated performances, a witty and insightful script and lovely cinematography combine to create a relatable drama with real emotional resonance.

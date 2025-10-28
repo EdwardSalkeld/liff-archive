@@ -1,0 +1,12 @@
++++
+title = "I’m Still Here"
+director = "Walter Salles"
+running-time = "136 mins"
+production-year = "2024"
+country = "Brazil, France, Spain"
+language = "Portuguese"
+bbfc-rating = "12A"
+strand = "Constellation"
+screenings = "Vue Screen 12, Thu 14 Nov 20:15 & Fri 15 Nov 13:30 & Sat 16 Nov 15:15"
++++
+Acclaimed director Walter Salles (Central Station, The Motorcycle Diaries) returns with a compassionate drama depicting the devastating true story of a family torn apart under the Brazilian military dictatorship. When leftist congressman Rubens Paiva is kidnapped by the military junta, his wife Eunice must find the strength to guide her family in the fight for justice. Fernanda Torres gives a phenomenal performance as the tenacious yet dignified Paiva matriarch. Adapted from Marcelo Rubens Paiva’s best-selling memoir, Salles’ film offers a deeply emotional and powerful portrait of resilience in the face of injustice.

@@ -1,0 +1,10 @@
++++
+title = "Leeds Queer Short Film Competition 2"
+director = "8 short films"
+running-time = "106 mins"
+production-year = "2023/24"
+country = "Canada, Cuba, France, Iran, Netherlands, UK, USA"
+strand = "LIFF SHORTS"
+screenings = "Hyde Park Screen One, Thu 7 Nov 18:30"
++++
+The second programme of the best queer short films from around the world, selected by Leeds Queer Film Festival (LQFF), presents remarkable tales of queer resilience in the most challenging circumstances. A beautiful cinematic romance between two incarcerated women in The Blurring of Trees, a non-binary child who just wants to play football in Inside and concluding with the feminised and emotional labour that a black trans woman gives to her community in Blue Pandora. Queer film lovers can find more amazing LGBTQ+ cinema at LQFF’s 20th Anniversary festival in March 2025.

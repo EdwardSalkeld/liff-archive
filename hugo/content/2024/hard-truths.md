@@ -1,0 +1,11 @@
++++
+title = "Hard Truths"
+director = "Mike Leigh"
+running-time = "97 mins"
+production-year = "2024"
+country = "UK, Spain"
+language = "English"
+strand = "Constellation"
+screenings = "Hyde Park Screen One, Wed 13 Nov 18:00, Vue Screen 12, Fri 15 Nov 16:15 & Sun 17 Nov 16:15"
++++
+Mike Leigh returns with an unflinching and darkly humorous portrait of a woman full of fury and teetering on the edge. Marianne Jean-Baptiste (Oscar-nominated for Secrets & Lies) gives an outstanding central performance as Pansy, a woman whose emotional and physical health issues have spiralled into deep, uncontrollable anger. This rage affects everyone around her—from her husband and grown-up son to her doctor, dentist and supermarket cashier. In contrast, Pansy’s sister Chantelle is a compassionate spirit who balances her struggles with the ability to find and embrace joy. Hard Truths is a candid yet moving and empathetic portrayal of untreated suffering.
