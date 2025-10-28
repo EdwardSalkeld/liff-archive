@@ -1,8 +1,7 @@
 +++
 title = "Louis le Prince International Short Film Competition 4"
-director = "5 short films"
 running-time = "83 mins"
-production-year = "2023/24"
+production-year = "2023"
 country = "Austria, Canada, China, Malaysia, Slovenia"
 strand = "LIFF SHORTS"
 screenings = "Everyman Screen 4, Fri 8 Nov 13:45"

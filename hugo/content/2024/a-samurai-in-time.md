@@ -1,6 +1,5 @@
 +++
 title = "A Samurai in Time"
-director = "Jun’ichi Yasuda"
 running-time = "131 mins"
 production-year = "2023"
 country = "Japan"

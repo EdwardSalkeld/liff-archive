@@ -1,6 +1,5 @@
 +++
 title = "Fantastic Planet"
-director = "René Laloux"
 running-time = "72 mins"
 production-year = "1973"
 country = "France, Czechoslovakia"

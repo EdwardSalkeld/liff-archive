@@ -1,9 +1,11 @@
 +++
 title = "Monkey’s Magic Merry Go Round"
-director = "World Premiere"
-production-year = "USA"
-country = "Aidan Leary"
-language = "91 minutes"
+director = "Aidan Leary"
+running-time = "91 mins"
+production-year = "2024"
+country = "USA"
+language = "English"
+premiere-status = "World Premiere"
 strand = "Night of the Dead"
 screenings = "Hyde Park Screen One, Fri 15 Nov (part of Night of the Dead – limited individual tickets available)"
 +++

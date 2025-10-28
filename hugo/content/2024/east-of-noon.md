@@ -1,9 +1,8 @@
 +++
 title = "East of Noon"
 director = "Hala Elkoussy"
-production-year = "Arabic with English subtitles"
-country = "Egypt, Netherlands, Qatar
-2024 109 minutes"
+running-time = "109 mins"
+language = "Arabic"
 premiere-status = "UK Premiere"
 strand = "Constellation"
 screenings = "Constellation Competition

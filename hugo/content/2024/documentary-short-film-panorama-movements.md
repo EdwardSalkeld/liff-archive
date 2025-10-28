@@ -1,8 +1,7 @@
 +++
 title = "Documentary Short Film Panorama: Movements"
-director = "4 short films"
 running-time = "96 mins"
-production-year = "2023/24"
+production-year = "2023"
 country = "Belgium, Brazil, Iran, UK"
 strand = "LIFF SHORTS"
 screenings = "Everyman Screen 4, Wed 13 Nov 16:45"

@@ -1,10 +1,8 @@
 +++
 title = "Leeds Music Video Competition"
-director = "15 music videos"
 running-time = "67 mins"
-production-year = "2023/24"
-country = "Canada, Chile, China, France, Germany, Norway, UK, USA"
-language = "Screening on 14 Nov is FREE"
+production-year = "2023"
+language = "Canada, Chile, China, France, Germany, Norway, UK, USA"
 strand = "LIFF SHORTS"
 screenings = "Headrow House, Sat 9 Nov 13:00 | Chapel FM, Thu 14 Nov 19:30"
 +++

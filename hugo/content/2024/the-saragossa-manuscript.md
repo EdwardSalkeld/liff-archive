@@ -1,6 +1,5 @@
 +++
 title = "The Saragossa Manuscript"
-director = "Wojciech J. Has"
 running-time = "175 mins"
 production-year = "1965"
 country = "Poland"

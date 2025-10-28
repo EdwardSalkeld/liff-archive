@@ -2,8 +2,7 @@
 title = "The Code"
 director = "European Premiere"
 running-time = "98 mins"
-production-year = "USA"
-country = "Eugene Kotlyarenko"
+country = "USA"
 strand = "Constellation"
 screenings = "Vue Screen 11, Fri 1 Nov 17:45 & Tue 5 Nov 20:45
 & Thu 7 Nov 11:30"

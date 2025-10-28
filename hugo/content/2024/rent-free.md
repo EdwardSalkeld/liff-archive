@@ -1,9 +1,10 @@
 +++
 title = "Rent Free"
 director = "European Premiere"
-production-year = "USA"
-country = "Fernando Andrés"
-language = "93 minutes"
+running-time = "93 mins"
+production-year = "2024"
+country = "USA"
+language = "English & Spanish"
 strand = "Constellation"
 screenings = "Vue Screen 12, Sat 2 Nov 15:45, Mon 4 Nov 16:00 & Wed 6 Nov 13:00 | Mill Hill Chapel, Thu 14 Nov 18:00"
 +++

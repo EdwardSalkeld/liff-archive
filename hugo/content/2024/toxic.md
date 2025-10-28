@@ -1,9 +1,7 @@
 +++
 title = "Toxic"
-director = "Saulė Bliuvaitė"
 running-time = "99 mins"
 production-year = "2024"
-country = "Lithuania"
 language = "Lithuanian"
 premiere-status = "UK Premiere"
 strand = "Constellation Competition"

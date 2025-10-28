@@ -1,10 +1,8 @@
 +++
 title = "World Animation Competition 1"
-director = "10 short films"
+director = "Belgium, China, Croatia, Czech Republic, Finland, France, Japan, South Korea, Switzerland"
 running-time = "98 mins"
-production-year = "2023/24"
-country = "Belgium, China, Croatia, Czech Republic, Finland, France, Japan, South Korea, Switzerland"
-language = "Screening on 13 November is FREE"
+production-year = "2023"
 strand = "LIFF SHORTS"
 screenings = "Vue Screen 11, Fri 8 Nov 18:00 & Mon 11 Nov 13:45, St Luke’s Cares, Wed 13 Nov 19:30"
 +++

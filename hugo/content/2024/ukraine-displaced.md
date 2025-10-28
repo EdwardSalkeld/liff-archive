@@ -1,9 +1,8 @@
 +++
 title = "Ukraine, Displaced"
-director = "6 short films"
 running-time = "74 mins"
-production-year = "2022-24"
-country = "Ukraine with Belgium, France, Germany, Hungary, Poland, Portugal,"
+production-year = "2022"
+language = "Ukraine with Belgium, France, Germany, Hungary, Poland, Portugal,"
 strand = "LIFF SHORTS"
 screenings = "Everyman Screen 4, Thu 7 Nov 14:00"
 +++

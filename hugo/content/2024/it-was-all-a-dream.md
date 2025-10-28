@@ -1,6 +1,5 @@
 +++
 title = "It Was All a Dream"
-director = "dream hampton"
 running-time = "83 mins"
 production-year = "2024"
 country = "USA"

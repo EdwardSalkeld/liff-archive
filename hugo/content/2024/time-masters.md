@@ -1,9 +1,10 @@
 +++
 title = "Time Masters"
-director = "UK Premiere of 4K Restoration"
-production-year = "France, Switzerland, West Germany, UK, Hungary"
-country = "René Laloux"
-language = "78 minutes"
+running-time = "78 mins"
+production-year = "1982"
+language = "France, Switzerland, West Germany, UK, Hungary"
+premiere-status = "UK Premiere of 4K Restoration"
+bbfc-rating = "PG"
 strand = "Fanomenon Retro: René Laloux"
 screenings = "Vue Screen 11, Fri 8 Nov 13:45 & Sun 10 Nov 21:00 & Fri 15 Nov 18:00"
 +++

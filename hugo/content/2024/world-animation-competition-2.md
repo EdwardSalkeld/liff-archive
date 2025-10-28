@@ -1,10 +1,8 @@
 +++
 title = "World Animation Competition 2"
-director = "10 short films"
 running-time = "94 mins"
-production-year = "2023/24"
+production-year = "2023"
 country = "Austria, Brazil, France, Iran, Jordan, Netherlands, Portugal, Switzerland, USA"
-language = "Screening on 16 November is FREE"
 strand = "LIFF SHORTS"
 screenings = "Vue Screen 11, Fri 8 Nov 20:30 & Mon 11 Nov 16:00, Keighley Creative, Sat 16 Nov 12:30"
 +++

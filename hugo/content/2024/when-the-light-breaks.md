@@ -1,6 +1,5 @@
 +++
 title = "When The Light Breaks"
-director = "Rúnar Rúnarsson"
 running-time = "82 mins"
 production-year = "2024"
 country = "Iceland, Netherlands, Croatia, France"

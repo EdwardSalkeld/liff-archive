@@ -1,8 +1,7 @@
 +++
 title = "Leeds Screendance Competition"
-director = "12 short films"
 running-time = "67 mins"
-production-year = "2023/24"
+production-year = "2023"
 country = "Canada, Denmark, Estonia, France, Lebanon, USA"
 strand = "LIFF SHORTS"
 screenings = "Everyman Screen 4, Fri 8 Nov 20:30 & Mon 11 Nov 12:15"

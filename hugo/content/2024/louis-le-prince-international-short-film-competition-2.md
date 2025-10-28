@@ -1,9 +1,8 @@
 +++
 title = "Louis le Prince International Short Film Competition 2"
-director = "5 short films"
 running-time = "93 mins"
-production-year = "2023/24"
-country = "Belgium, France, Germany, Kosovo, Poland"
+production-year = "2023"
+language = "Belgium, France, Germany, Kosovo, Poland"
 strand = "LIFF SHORTS"
 screenings = "Everyman Screen 4, Thu 7 Nov 11:15"
 +++

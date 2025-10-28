@@ -1,6 +1,5 @@
 +++
 title = "The Girl with the Needle"
-director = "Magnus von Horn"
 running-time = "115 mins"
 production-year = "2024"
 country = "Denmark, Poland, Sweden"

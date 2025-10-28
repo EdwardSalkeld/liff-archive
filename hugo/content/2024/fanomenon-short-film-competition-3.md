@@ -1,8 +1,7 @@
 +++
 title = "Fanomenon Short Film Competition 3"
-director = "7 short films"
 running-time = "87 mins"
-production-year = "2023/24"
+production-year = "2023"
 country = "Netherlands, Spain, UK, USA"
 strand = "Fanomenon X LIFF SHORTS"
 screenings = "Hyde Park Screen One, Sun 3 Nov 13:45"

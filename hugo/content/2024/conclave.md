@@ -4,8 +4,7 @@ director = "Edward Berger"
 running-time = "120 mins"
 production-year = "2024"
 country = "UK, USA"
-language = "English
-BBFC Rating 12A"
+bbfc-rating = "12A"
 strand = "Constellation"
 screenings = "Hyde Park Screen One, Tue 12 Nov 20:15
 Cottage Road, Thu 14 Nov 19:30"

@@ -1,8 +1,7 @@
 +++
 title = "Documentary Short Film Competition: Vantage Points"
-director = "6 short films"
 running-time = "80 mins"
-production-year = "2023/24"
+production-year = "2023"
 country = "Argentina, France, Taiwan, USA"
 strand = "LIFF SHORTS"
 screenings = "Everyman Screen 4, Thu 7 Nov 18:30"

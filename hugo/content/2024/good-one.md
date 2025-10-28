@@ -1,9 +1,8 @@
 +++
 title = "Good One"
-director = "India Donaldson"
 running-time = "89 mins"
 production-year = "2024"
-country = "USA"
+country = "India Donaldson"
 language = "English"
 strand = "Constellation"
 screenings = "Vue Screen 12, Fri 8 Nov 16:30 & Wed 13 Nov 16:30 & Fri 15 Nov 18:30 | Hyde Park Screen One, Mon 11 Nov 20:45"

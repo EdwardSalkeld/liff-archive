@@ -3,10 +3,7 @@ title = "The Editorial Office"
 director = "Roman Bondarchuk"
 running-time = "127 mins"
 production-year = "2024"
-country = "Ukraine, Germany, Slovakia,
-Czech Republic"
-language = "Ukrainian with English
-subtitles & English"
+language = "Ukraine, Germany, Slovakia, Czech Republic"
 premiere-status = "UK Premiere"
 strand = "Constellation"
 screenings = "Constellation Competition

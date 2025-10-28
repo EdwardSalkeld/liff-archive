@@ -1,6 +1,5 @@
 +++
 title = "Billy"
-director = "Lawrence Côté-Collins"
 running-time = "107 mins"
 production-year = "2024"
 country = "Canada"

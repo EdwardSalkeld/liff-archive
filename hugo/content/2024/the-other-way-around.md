@@ -1,6 +1,5 @@
 +++
 title = "The Other Way Around"
-director = "Jonás Trueba"
 running-time = "114 mins"
 production-year = "2024"
 country = "Spain, France"

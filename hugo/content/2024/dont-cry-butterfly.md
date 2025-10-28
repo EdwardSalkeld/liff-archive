@@ -1,9 +1,8 @@
 +++
 title = "Don't Cry Butterfly"
 director = "Duong Dieu Linh"
-production-year = "Vietnamese with English subtitles"
-country = "Vietnam, Singapore, Indonesia, Philippines
-2024 97 minutes"
+running-time = "97 mins"
+language = "Vietnamese"
 strand = "Constellation"
 screenings = "Vue Screen 12, Sat 2 Nov 11:15 & Mon 4 Nov 13:45
 & Thu 7 Nov 18:45"

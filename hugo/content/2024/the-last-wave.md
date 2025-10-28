@@ -1,9 +1,11 @@
 +++
 title = "The Last Wave"
-director = "UK Premiere of 4K Restoration"
-production-year = "Australia"
-country = "Peter Weir"
-language = "106 minutes"
+director = "Peter Weir"
+running-time = "106 mins"
+production-year = "1977"
+country = "Australia"
+language = "English & Pitjantjatjara"
+premiere-status = "UK Premiere of 4K Restoration"
 strand = "Fanomenon Retro: The Weird of Oz"
 screenings = "Everyman Screen 4, Mon 11 Nov 18:30 & Tue 12 Nov 12:00"
 +++

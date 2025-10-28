@@ -1,9 +1,12 @@
 +++
 title = "Wake in Fright"
-director = "UK Premiere of 4K Restoration"
-production-year = "Australia"
-country = "Ted Kotcheff"
-language = "109 minutes"
+director = "Ted Kotcheff"
+running-time = "109 mins"
+production-year = "1971"
+country = "Australia"
+language = "English"
+premiere-status = "UK Premiere of 4K Restoration"
+bbfc-rating = "18"
 strand = "Fanomenon Vault: The Weird of Oz"
 screenings = "Everyman Screen 4, Sun 10 Nov 16:00 & Mon 11 Nov 14:00"
 +++

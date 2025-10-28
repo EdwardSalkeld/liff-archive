@@ -1,10 +1,9 @@
 +++
 title = "Yorkshire Short Film Competition"
-director = "7 short films"
+director = "Local Licensing Rating 12A"
 running-time = "80 mins"
-production-year = "2023/24"
+production-year = "2023"
 country = "UK"
-language = "Local Licensing Rating 12A"
 strand = "LIFF SHORTS"
 screenings = "Howard Assembly Room, Fri 8 Nov 20:15, Chapel FM, Tue 12 Nov 19:30, The Old Fire Station, Fri 15 Nov 20:00, Keighley Creative, Sat 16 Nov 10:30"
 +++

@@ -1,8 +1,7 @@
 +++
 title = "Fanomenon Short Film Competition 2"
-director = "7 short films"
 running-time = "93 mins"
-production-year = "2023/2024"
+production-year = "2023"
 country = "Australia, Canada, France, Spain, UK, USA"
 strand = "Fanomenon X LIFF SHORTS"
 screenings = "Vue Screen 12, Sun 10 Nov 14:00 & Tue 12 Nov 13:00"

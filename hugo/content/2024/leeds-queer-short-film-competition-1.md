@@ -1,8 +1,7 @@
 +++
 title = "Leeds Queer Short Film Competition 1"
-director = "8 short films"
 running-time = "107 mins"
-production-year = "2023/24"
+production-year = "2023"
 country = "China, Colombia, Mexico, Netherlands, Tunisia, USA"
 strand = "LIFF SHORTS"
 screenings = "Hyde Park Screen One, Wed 6 Nov 18:30"

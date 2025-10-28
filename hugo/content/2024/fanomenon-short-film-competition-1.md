@@ -1,8 +1,7 @@
 +++
 title = "Fanomenon Short Film Competition 1"
-director = "5 short films"
 running-time = "86 mins"
-production-year = "2023/2024"
+production-year = "2023"
 country = "France, Netherlands, UK, USA"
 strand = "Fanomenon X LIFF SHORTS"
 screenings = "Vue Screen 12, Sun 10 Nov 11:30 & Mon 11 Nov 13:30"

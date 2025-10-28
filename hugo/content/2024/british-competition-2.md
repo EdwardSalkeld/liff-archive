@@ -1,8 +1,7 @@
 +++
 title = "British Competition 2"
-director = "8 short films"
 running-time = "94 mins"
-production-year = "2023/24"
+production-year = "2023"
 country = "UK"
 strand = "LIFF SHORTS"
 screenings = "Everyman Screen 4, Sat 9 Nov 13:30 & Sun 10 Nov 14:00"

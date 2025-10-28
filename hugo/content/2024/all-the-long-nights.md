@@ -1,6 +1,5 @@
 +++
 title = "All the Long Nights"
-director = "Shô Miyake"
 running-time = "119 mins"
 production-year = "2024"
 country = "Japan"
