@@ -1,9 +1,17 @@
+# Extraction Log
+
+- Page 00 - skipped, no film descriptions
+- Page 01 - skipped, no text content
+- Page 02 - skipped, welcome and contents page
+- Page 03 - skipped, venues and tickets information
+- Page 04 - skipped, pass discount partners and socials
+- Page 05 - skipped, no text content
 - Page 06 - skipped, partners and sponsorship information
-- Page 07 - skipped, advertisement-
+- Page 07 - skipped, advertisement
 - Page 08 - extracted Earth with New Score Live, The Ties That Bind Us, All We Imagine As Light, All the Long Nights
 - Page 09 - skipped, no film descriptions
 - Page 10 - extracted A Real Pain, All Shall Be Well, Anora, Betânia, Bird, Nightbitch
-- Page 11 - extracted Christmas Eve in Miller's Point, The Code, East of Noon, The Editorial Office, Conclave, Don't Cry Butterfly, The Fable, Familiar Touch^[[B
+- Page 11 - extracted Christmas Eve in Miller's Point, The Code, East of Noon, The Editorial Office, Conclave, Don't Cry Butterfly, The Fable, Familiar Touch
 - Page 12 - extracted Flow, The Girl with the Needle, Grand Tour, Hard Truths, Gloria!, Good One, How to Make Millions Before Grandma Dies, I’m Still Here
 - Page 13 - extracted Ivo, Julie Keeps Quiet, Loveable, Matt and Mara, La Cocina, Layla, Nickel Boys, On Becoming a Guinea Fowl
 - Page 14 - extracted The Other Way Around, Paul and Paulette Take a Bath, Pierce, Rent Free, Rumours, The Seed Of The Sacred Fig, Sex, Simon of the Mountain
@@ -12,4 +20,33 @@
 - Page 17 - extracted Trans Memoria, Billy, Grand Theft Hamlet, It Was All a Dream, How to Build a Truth Engine, No Other Land
 - Page 18 - extracted Pavements, Rising Up at Night, The Stimming Pool, Union, Witches
 - Page 19 - skipped, introduction to Fanomenon and advertisements
+- Page 20 - extracted Escape from the 21st Century, The A-Frame, Animalia Paradoxa, The Killers, Chainsaws Were Singing, Chlorophyll
+- Page 21 - extracted Dark Match, Drone, Else, Fanomenon Short Film Competition 1, Fanomenon Short Film Competition 2, Cloud, Dead Mail, Dead Talents Society
+- Page 22 - extracted Fanomenon Short Film Competition 3, Fantastic Planet, Jupiter, Monkey’s Magic Merry Go Round, The Gesuidouz, How to Make a Killing, A Samurai in Time, She Loved Blossoms More
+- Page 23 - extracted Sister Midnight, Tim Travers and the Time Travellers Paradox, Time Masters, U Are the Universe, Vulcanizadora, The Weekend
+- Page 24 - extracted Body Melt, Dream Creep, God’s Anus, Make Me a Pizza, Meat Puppet, Pocketman, We Joined A Cult
+- Page 25 - skipped, advertisement
+- Page 26 - skipped, introduction to Fanomenon Retro: The Weird of Oz
+- Page 27 - extracted Long Weekend, Mad Max 2: The Road Warrior, BeDevil, Celia, The Last Wave, Razorback, Roadgames
+- Page 28 - extracted Wake in Fright, Stone
+- Page 29 - skipped, music events and DJs listings
+- Page 30 - skipped, introduction to LIFF SHORTS
+- Page 31 - extracted LIFF SHORTS 2024: Opening Selection, LIFF SHORTS 2024: The Award Winners, Documentary Short Film Competition: Vantage Points, Documentary Short Film Panorama: Movements, British Competition 1, British Competition 2, Leeds Music Video Competition, Leeds Queer Short Film Competition 1
+- Page 32 - extracted Leeds Queer Short Film Competition 2, Leeds Screendance Competition, Louis le Prince International Short Film Competition 1, Louis le Prince International Short Film Competition 2, Louis le Prince International Short Film Competition 3, Louis le Prince International Short Film Competition 4, Ukraine, Displaced, World Animation Competition 1
 
+## TODO Pages
+- Page 33
+- Page 34
+- Page 35
+- Page 36
+- Page 37
+- Page 38
+- Page 39
+- Page 40
+- Page 41
+- Page 42
+- Page 43
+- Page 44
+- Page 45
+- Page 46
+- Page 47
