@@ -1,9 +1,13 @@
 +++
 title = 'Home'
-date = 2023-01-01T08:00:00-07:00
+date = 2025-10-29
 draft = false
 +++
 
-Laborum voluptate pariatur ex culpa magna nostrud est incididunt fugiat
-pariatur do dolor ipsum enim. Consequat tempor do dolor eu. Non id id anim anim
-excepteur excepteur pariatur nostrud qui irure ullamco.
+This site is an archive of films shown at the Leeds International Film Festival. It's not in any way official, but is a labour of love.
+
+The [official site](https://www.leedsfilm.com) keeps copies of old catalogues and guides, available as PDFs, but it's not easy to simply browse the historical list of films that have been shown.
+
+This site aims to do that. Hunt down a film you remember by festival strand, year or title.
+
+## Site updates

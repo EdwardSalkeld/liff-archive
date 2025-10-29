@@ -1,9 +1,9 @@
 :root {
-  --background-light: #f5f5f5;
-  --text-light: #333;
+  --background-light: #fdfdfd;
+  --text-light: #3a3a3a;
   --primary-light: #007bff;
-  --background-dark: #121212;
-  --text-dark: #f5f5f5;
+  --background-dark: #2a2a2a;
+  --text-dark: #fdfdfd;
   --primary-dark: #007bff;
 }
 
@@ -31,16 +31,26 @@ body {
   font-family: sans-serif;
   margin: 0;
   line-height: 1.6;
-}
-
-p {
-  margin-bottom: 1.25em;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .container {
   max-width: 65ch;
   margin: 0 auto;
   padding: 2rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+}
+
+p {
+  margin-bottom: 1.25em;
 }
 
 header {
@@ -50,9 +60,11 @@ header {
   margin-bottom: 2rem;
 }
 
-.logo {
+.logo a {
   font-weight: bold;
   font-size: 1.5rem;
+  text-decoration: none;
+  color: inherit;
 }
 
 nav ul {
@@ -64,4 +76,27 @@ nav ul {
 
 nav li {
   margin-left: 1.5rem;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 1rem;
+    padding-top: 0;
+  }
+
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+  }
+
+  nav ul {
+    flex-direction: column;
+    margin-top: 1rem;
+  }
+
+  nav li {
+    margin-left: 0;
+    margin-bottom: 0.5rem;
+  }
 }

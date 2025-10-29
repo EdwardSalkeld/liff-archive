@@ -4,6 +4,9 @@ languageCode = 'en-gb'
 theme = 'liffstyle'
 timezone = 'Europe/London'
 
+[frontmatter]
+date = [':filename', 'date']
+
 [taxonomies]
 category = 'categories'
 tag = 'tags'
