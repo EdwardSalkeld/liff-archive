@@ -1,7 +1,6 @@
 {{ define "main" }}
   <h2>{{ .Title }}</h1>
   {{ .Content }}
-  <h2>All films by title</h2>
   <ul>
     {{ range .Pages.ByTitle }}
       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>

@@ -16,7 +16,7 @@ weight = 30
 
 [[menus.main]]
 name = 'By Title'
-pageRef = '/all'
+pageRef = '/films'
 weight = 30
 [module]
 [module.hugoVersion]
