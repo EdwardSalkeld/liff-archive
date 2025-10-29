@@ -1,7 +1,3 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range ( where site.RegularPages "Section" "news" ) }}
-    <h3>{{ .Date.Format "2006-01-02" }}: {{ .LinkTitle }}</h3>
-    {{ .Summary }}
-  {{ end }}
 {{ end }}
