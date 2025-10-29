@@ -3,7 +3,7 @@
   {{ .Content }}
   <ul>
     {{ range (where site.RegularPages "Section" "films").ByTitle }}
-      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+  <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ .CurrentSection.Title }})</a></li>
     {{ end }}
   </ul>
 {{ end }}

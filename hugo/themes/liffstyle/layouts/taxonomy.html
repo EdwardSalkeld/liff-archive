@@ -3,7 +3,7 @@
 
   {{ .Content }}
   {{ range .Pages.ByTitle }}
-    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ .Kind }} {{ .Section }} {{ .Type }}</h3>
+    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
     <ul>
       {{ range .Pages.ByTitle }}
       <li>{{ .LinkTitle }}</li>
