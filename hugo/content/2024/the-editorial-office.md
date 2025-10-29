@@ -6,9 +6,7 @@ production-year = "2024"
 language = "Ukraine, Germany, Slovakia, Czech Republic"
 premiere-status = "UK Premiere"
 strand = "Constellation"
-screenings = "Constellation Competition
-Everyman Screen 4, Wed 6 Nov 20:45
-Vue Screen 12, Tue 12 Nov 15:00"
+screenings = "Constellation Competition, Everyman Screen 4, Wed 6 Nov 20:45, Vue Screen 12, Tue 12 Nov 15:00"
 +++
 Roman Bondarchuk's inventive satirical drama skewers post-truth politics
 in Ukraine in the days before the Russian invasion. Yura, a young biologist

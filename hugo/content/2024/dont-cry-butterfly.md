@@ -4,8 +4,7 @@ director = "Duong Dieu Linh"
 running-time = "97 mins"
 language = "Vietnamese"
 strand = "Constellation"
-screenings = "Vue Screen 12, Sat 2 Nov 11:15 & Mon 4 Nov 13:45
-& Thu 7 Nov 18:45"
+screenings = "Vue Screen 12, Sat 2 Nov 11:15 & Mon 4 Nov 13:45 & Thu 7 Nov 18:45"
 +++
 In the early 2000s in a town near Hanoi in Vietnam, Tam, a
 diligent wedding venue staffer, discovers her husband's affair

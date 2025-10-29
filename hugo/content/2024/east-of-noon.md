@@ -5,8 +5,7 @@ running-time = "109 mins"
 language = "Arabic"
 premiere-status = "UK Premiere"
 strand = "Constellation"
-screenings = "Constellation Competition
-Vue Screen 11, Fri 8 Nov 11:15 & Sun 10 Nov 13:15"
+screenings = "Constellation Competition, Vue Screen 11, Fri 8 Nov 11:15 & Sun 10 Nov 13:15"
 +++
 East of Noon is a vividly imaginative Egyptian fable and a
 clever political satire, beautifully shot in luminous black and

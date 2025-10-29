@@ -6,8 +6,7 @@ production-year = "2024"
 country = "UK, USA"
 bbfc-rating = "12A"
 strand = "Constellation"
-screenings = "Hyde Park Screen One, Tue 12 Nov 20:15
-Cottage Road, Thu 14 Nov 19:30"
+screenings = "Hyde Park Screen One, Tue 12 Nov 20:15, Cottage Road, Thu 14 Nov 19:30"
 +++
 Ralph Fiennes and Stanley Tucci lead a brilliant ensemble
 cast in All Quiet on the Western Front director Edward Berger's

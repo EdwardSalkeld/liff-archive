@@ -4,8 +4,7 @@ director = "European Premiere"
 running-time = "98 mins"
 country = "USA"
 strand = "Constellation"
-screenings = "Vue Screen 11, Fri 1 Nov 17:45 & Tue 5 Nov 20:45
-& Thu 7 Nov 11:30"
+screenings = "Vue Screen 11, Fri 1 Nov 17:45 & Tue 5 Nov 20:45 & Thu 7 Nov 11:30"
 +++
 The paranoia of a sexless couple's relationship is explored through a
 collage of surveillance video in this absurd dark comedy from Eugene
