@@ -2,7 +2,7 @@
   <h2>All films by title</h2>
   {{ .Content }}
   <ul>
-    {{ range site.RegularPages.ByTitle }}
+    {{ range (where site.RegularPages "Section" "films").ByTitle }}
       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}
   </ul>

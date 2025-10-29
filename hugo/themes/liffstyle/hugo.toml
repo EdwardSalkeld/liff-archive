@@ -6,7 +6,7 @@ title = 'My New Hugo Site'
 
 [[menus.main]]
 name = 'By Year'
-pageRef = '/year'
+pageRef = '/films'
 weight = 20
 
 [[menus.main]]
@@ -16,7 +16,7 @@ weight = 30
 
 [[menus.main]]
 name = 'By Title'
-pageRef = '/films'
+pageRef = '/all'
 weight = 30
 [module]
 [module.hugoVersion]

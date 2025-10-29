@@ -4,6 +4,11 @@
   <ul>
     {{ range .Pages.ByTitle }}
       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      <ul>
+        {{ range .Pages.ByTitle }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      </ul>
     {{ end }}
   </ul>
 {{ end }}
