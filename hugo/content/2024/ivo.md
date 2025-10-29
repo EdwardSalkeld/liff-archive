@@ -1,0 +1,11 @@
++++
+title = "Ivo"
+director = "Eva Trobisch"
+running-time = "104 mins"
+production-year = "2024"
+language = "Germany"
+premiere-status = "UK Premiere"
+strand = "Constellation Competition"
+screenings = "Vue Screen 11, Thu 7 Nov 16:00 & Sun 10 Nov 11:00"
++++
+Eva Trobisch’s masterful follow-up to her debut feature All Good (LIFF 2018) is another intimate character study, this time centring on a palliative home-care nurse. Ivo spends her days driving around in her old Skoda visiting patients in their final days. Caring for her close friend Solveigh, their relationship is complicated by the fact that Ivo is having an affair with her husband Franz. Minna Wündrich gives an exceptional lead performance as the complex, empathetic and sometimes chaotic Ivo, struggling to navigate everyday life whilst working in proximity to death.
