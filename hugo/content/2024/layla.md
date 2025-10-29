@@ -1,0 +1,12 @@
++++
+title = "Layla"
+director = "Amrou Al-Kadhi"
+running-time = "100 mins"
+production-year = "2024"
+country = "UK"
+language = "English, Arabic"
+bbfc-rating = "15"
+strand = "Constellation"
+screenings = "Everyman Screen 4, Sat 2 Nov 15:15 & Mon 4 Nov 17:45"
++++
+Captivating audiences at Sundance and BFI Flare, Amrou Al-Kadhi’s debut feature is an exhilarating depiction of selfacceptance set in the vibrant East London queer scene. Layla follows the journey of a struggling British-Palestinian drag queen whose bold exterior masks a deep yearning for love. After a performance at a corporate Pride event, Layla unexpectedly catches the attention of Max, an advertising executive. Swept up in an intoxicating romance, Layla is soon faced with difficult choices, as they begin changing themselves to keep Max’s affection. This semi-autobiographical queer love story marks the arrival of an exciting new filmmaking talent.

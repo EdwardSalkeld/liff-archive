@@ -1,0 +1,11 @@
++++
+title = "All Shall Be Well"
+director = "Ray Yeung"
+running-time = "93 mins"
+production-year = "2024"
+country = "Hong Kong, China"
+language = "Cantonese"
+strand = "Constellation"
+screenings = "Vue Screen 11, Fri 1 Nov 15:45 & Sun 3 Nov 21:00 & Wed 6 Nov 13:30"
++++
+Winner of the Teddy Award for queer filmmaking at this year’s Berlin Film Festival, Ray Yeung’s latest film is a deeply affecting portrait of love and grief. Long-term partners Angie and Pat have lived together for over three decades, sharing Pat’s Hong Kong flat. When Pat dies unexpectedly, Angie is thrown into precarity, discovering that she has no legal right to the home she lives in. As the bond that Angie once shared with Pat’s family begins to disintegrate, Angie must turn to her chosen family for support as she weathers the storm. Yeung’s film is a beautifully crafted and nuanced look at resilience in the older queer community.

@@ -1,0 +1,12 @@
++++
+title = "Le Samouraï + HIT"
+director = "Jean-Pierre Melville"
+running-time = "127 mins"
+production-year = "1967"
+country = "France"
+language = "French"
+bbfc-rating = "12A"
+strand = "LIFF SPOTLIGHT – Stuart Croft: Eternal Return"
+screenings = "Everyman Screen 4, Sun 3 Nov 17:45 & Tue 5 Nov 13:15, Vue Screen 12, Thu 7 Nov 11:15"
++++
+An elegant and exciting tribute to the classic American noir film, transplanted to 60s Paris and boasting an iconic role for the late, great Alain Delon as the samurai-like contract killer Jef Costello. After carrying out a flawlessly planned hit, Jef finds himself caught between a persistent police investigator and a ruthless employer, and not even his armour of fedora and trench coat can protect him. Screening as part of the Stuart Croft season alongside the artist’s short film Hit, where three actors play two shape shifting characters in a circle of noirish revenge.

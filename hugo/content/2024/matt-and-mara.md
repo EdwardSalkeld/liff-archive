@@ -1,0 +1,11 @@
++++
+title = "Matt and Mara"
+director = "Kazik Radwanski"
+running-time = "80 mins"
+production-year = "2024"
+country = "Canada"
+language = "English"
+strand = "Constellation"
+screenings = "Everyman Screen 4, Fri 1 Nov 20:45 & Sat 2 Nov 20:45 & Sun 3 Nov 12:00"
++++
+Working again with creative collaborators Deragh Campbell and Matt Johnson, Kazik Radwanski follows up Anne at 13,000 Ft. (LIFF 2020) with a compelling indie drama about two university friends reconnecting years later. Mara is now a creative writing professor, married with a young child, while Matt is a renowned author. When a chance encounter leads them to rekindle their friendship, the nature of their relationship begins to stray into ambiguous territory, teetering dangerously close to an affair. This light, naturalistic, and nuanced drama has echoes of Éric Rohmer and Hong Sang-Soo, while cleverly subverting romantic comedy tropes.

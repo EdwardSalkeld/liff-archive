@@ -1,0 +1,12 @@
++++
+title = "Else"
+director = "Thibault Emin"
+running-time = "100 mins"
+production-year = "2024"
+country = "France, Belgium"
+language = "French"
+premiere-status = "UK Premiere"
+strand = "Fanomenon Feature Film Competition"
+screenings = "Vue Screen 11, Sun 3 Nov 18:45 & Tue 5 Nov 13:30 & Wed 6 Nov 20:30"
++++
+Anx and Cass’s new relationship is catapulted to the next level when a strange new disease begins to spread that gradually merges living beings into whatever object they come into contact with. When lockdown is imposed, Anx and Cass find themselves confined into Anx’s apartment. As their romance blooms, they become surrounded by a building taking new forms and lives but soon the walls are literally closing in. Thibault Emin’s feature film debut is a psychedelic body-horror like no other.
