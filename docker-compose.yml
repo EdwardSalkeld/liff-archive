@@ -8,3 +8,9 @@ services:
       - ./hugo:/site
     command: ["hugo", "serve", "-s", "/site", "--bind", "0.0.0.0"]
 
+  hugo_build:
+    build:
+      context: .
+    volumes:
+      - ./hugo:/site
+    command: ["hugo", "-s", "/site"]
