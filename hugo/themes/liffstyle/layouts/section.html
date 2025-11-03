@@ -3,12 +3,14 @@
   {{ .Content }}
   <ul>
     {{ range .Pages.ByTitle }}
-      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-      <ul>
-        {{ range .Pages.ByTitle }}
-          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-        {{ end }}
-      </ul>
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        <ul>
+          {{ range .Pages.ByTitle }}
+            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+          {{ end }}
+        </ul>
+      </li>
     {{ end }}
   </ul>
 {{ end }}

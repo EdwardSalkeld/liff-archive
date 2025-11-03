@@ -4,10 +4,12 @@
   {{ partial "head.html" . }}
 </head>
 <body>
-  <div class="container">
-    <header>
+  <header>
+    <div class="header-container">
       {{ partial "header.html" . }}
-    </header>
+    </div>
+  </header>
+  <div class="container">
     <main>
       {{ block "main" . }}{{ end }}
     </main>
