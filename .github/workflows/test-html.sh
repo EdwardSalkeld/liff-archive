@@ -6,8 +6,6 @@
 # - Main page exists and has expected content
 # - About page exists and has expected content
 
-set -e
-
 PUBLIC_DIR="hugo/public"
 FAILED=0
 
