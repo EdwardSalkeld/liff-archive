@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.147.6'
+          extended: true
+          
+      - name: Build Hugo site
+        run: |
+          cd hugo
+          hugo
+          
+      - name: Run HTML validation tests
+        run: |
+          chmod +x .github/workflows/test-html.sh
+          .github/workflows/test-html.sh
