@@ -72,6 +72,28 @@ check_content "$PUBLIC_DIR/index.html" "By Year" "Main page has navigation menu 
 check_content "$PUBLIC_DIR/index.html" "By Strand" "Main page has navigation menu with 'By Strand'"
 check_content "$PUBLIC_DIR/index.html" "By Title" "Main page has navigation menu with 'By Title'"
 
+# Test 8: Check SEO meta tags on main page
+echo ""
+echo "Test 8: SEO meta tags on main page"
+check_content "$PUBLIC_DIR/index.html" '<meta name="description"' "Main page has meta description tag"
+check_content "$PUBLIC_DIR/index.html" "Leeds International Film Festival" "Main page meta description mentions LIFF"
+check_content "$PUBLIC_DIR/index.html" '<meta property="og:title"' "Main page has Open Graph title tag"
+check_content "$PUBLIC_DIR/index.html" '<meta property="og:description"' "Main page has Open Graph description tag"
+check_content "$PUBLIC_DIR/index.html" '<meta name="twitter:card"' "Main page has Twitter Card tag"
+
+# Test 9: Check SEO meta tags on all (listings) page
+echo ""
+echo "Test 9: SEO meta tags on all (listings) page"
+check_content "$PUBLIC_DIR/all/index.html" '<meta name="description"' "All page has meta description tag"
+check_content "$PUBLIC_DIR/all/index.html" "Leeds International Film Festival" "All page meta description mentions LIFF"
+check_content "$PUBLIC_DIR/all/index.html" '<meta property="og:title"' "All page has Open Graph title tag"
+
+# Test 10: Check SEO meta tags on about page
+echo ""
+echo "Test 10: SEO meta tags on about page"
+check_content "$PUBLIC_DIR/about/index.html" '<meta name="description"' "About page has meta description tag"
+check_content "$PUBLIC_DIR/about/index.html" '<meta property="og:description"' "About page has Open Graph description tag"
+
 echo ""
 echo "================================="
 if [ $FAILED -eq 0 ]; then
