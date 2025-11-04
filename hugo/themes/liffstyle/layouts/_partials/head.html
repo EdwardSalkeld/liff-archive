@@ -6,8 +6,6 @@
 {{ $description := "An archive of films shown at the Leeds International Film Festival. Browse historical film listings by year, strand, or title from the LIFF archives." }}
 {{ if .Description }}
   {{ $description = .Description }}
-{{ else if .IsHome }}
-  {{ $description = "An archive of films shown at the Leeds International Film Festival. Browse historical film listings by year, strand, or title from the LIFF archives." }}
 {{ else if eq .Layout "all" }}
   {{ $description = "Browse all films from the Leeds International Film Festival archive, sorted alphabetically by title. A comprehensive listing of LIFF films." }}
 {{ else if .IsSection }}
