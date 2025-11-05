@@ -100,3 +100,49 @@ nav li {
   }
 }
 
+/* Collapsible sections */
+.collapsible-section {
+  margin-bottom: 1rem;
+}
+
+.collapsible-section summary {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding: 0.5rem 0;
+  user-select: none;
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.collapsible-section summary::-webkit-details-marker {
+  display: none;
+}
+
+.collapsible-section summary::before {
+  content: '▼';
+  display: inline-block;
+  margin-right: 0.5rem;
+  transition: transform 0.2s ease;
+  font-size: 0.8em;
+}
+
+.collapsible-section:not([open]) summary::before {
+  transform: rotate(-90deg);
+}
+
+.collapsible-section summary a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.collapsible-section summary a:hover {
+  text-decoration: underline;
+}
+
+.collapsible-section ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+

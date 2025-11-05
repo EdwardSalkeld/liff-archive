@@ -3,11 +3,15 @@
 
   {{ .Content }}
   {{ range .Pages.ByTitle }}
-    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
-    <ul>
-      {{ range .Pages.ByTitle }}
-      <li>{{ .LinkTitle }}</li>
-      {{ end }}
-    </ul>
+    <details class="collapsible-section" open>
+      <summary>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </summary>
+      <ul>
+        {{ range .Pages.ByTitle }}
+        <li>{{ .LinkTitle }}</li>
+        {{ end }}
+      </ul>
+    </details>
     {{ end }}
   {{ end }}
