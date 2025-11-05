@@ -1,5 +1,30 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+{{/* SEO Meta Tags */}}
+{{ $description := "An archive of films shown at the Leeds International Film Festival. Browse historical film listings by year, strand, or title from the LIFF archives." }}
+{{ if .Description }}
+  {{ $description = .Description }}
+{{ else if eq .Layout "all" }}
+  {{ $description = "Browse all films from the Leeds International Film Festival archive, sorted alphabetically by title. A comprehensive listing of LIFF films." }}
+{{ else if .IsSection }}
+  {{ $description = printf "Browse %s films from the Leeds International Film Festival archive." .Title }}
+{{ end }}
+
+<meta name="description" content="{{ $description }}">
+
+{{/* Open Graph Meta Tags */}}
+<meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+
+{{/* Twitter Card Meta Tags */}}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ $description }}">
+
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}

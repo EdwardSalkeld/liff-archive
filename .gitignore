@@ -2,3 +2,4 @@ hugo/public/2025
 hugo/public
 print-media/*-pages
 */.DS_Store
+*.tar.gz
