@@ -5,3 +5,11 @@ print-media/*-pages
 *.tar.gz
 print-media
 .DS_Store
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Playwright
+playwright-report/
+test-results/
