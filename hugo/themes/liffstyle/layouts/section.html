@@ -2,7 +2,7 @@
   <h2>{{ .Title }}</h2>
   {{ .Content }}
   {{ range .Pages.ByTitle }}
-    <details class="collapsible-section" open>
+    <details class="collapsible-section">
       <summary>
         <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
       </summary>

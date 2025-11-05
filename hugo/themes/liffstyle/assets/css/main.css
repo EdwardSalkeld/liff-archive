@@ -144,5 +144,6 @@ nav li {
 .collapsible-section ul {
   margin-top: 0.5rem;
   margin-bottom: 0;
+  padding-left: 1.5rem;
 }
 
