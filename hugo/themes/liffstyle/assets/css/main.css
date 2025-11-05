@@ -53,6 +53,11 @@ p {
   margin-bottom: 1.25em;
 }
 
+ul {
+  padding-left: 0;
+  list-style-position: inside;
+}
+
 header {
 }
 
