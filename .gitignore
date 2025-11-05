@@ -8,7 +8,6 @@ print-media
 
 # Node.js
 node_modules/
-package-lock.json
 
 # Playwright
 playwright-report/
