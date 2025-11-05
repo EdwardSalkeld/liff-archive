@@ -28,25 +28,21 @@
 }
 
 body {
+  max-width: 75ch;
   font-family: sans-serif;
   margin: 0;
   line-height: 1.6;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  margin: 0 auto;
 }
 
 .container {
-  max-width: 65ch;
-  margin: 0 auto;
-  padding: 0 2rem 2rem;
-  flex-grow: 1;
-  display: flex;
-  flex-direction: column;
+  padding: 0 2rem 0 2rem;
 }
 
 main {
-  flex-grow: 1;
 }
 
 p {
@@ -57,9 +53,8 @@ header {
 }
 
 .header-container {
-  max-width: 65ch;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0 2rem 0 2rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -104,3 +99,4 @@ nav li {
     margin-bottom: 0.5rem;
   }
 }
+
