@@ -1,16 +1,16 @@
 {{ define "main" }}
-  <h2>{{ .Title }}</h1>
+  <h2>{{ .Title }}</h2>
   {{ .Content }}
-  <ul>
-    {{ range .Pages.ByTitle }}
-      <li>
+  {{ range .Pages.ByTitle }}
+    <details class="collapsible-section">
+      <summary>
         <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-        <ul>
-          {{ range .Pages.ByTitle }}
-            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-          {{ end }}
-        </ul>
-      </li>
-    {{ end }}
-  </ul>
+      </summary>
+      <ul>
+        {{ range .Pages.ByTitle }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      </ul>
+    </details>
+  {{ end }}
 {{ end }}
