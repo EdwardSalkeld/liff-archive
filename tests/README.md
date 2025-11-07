@@ -4,7 +4,7 @@ This directory contains Playwright tests for visual regression testing of the LI
 
 ## Overview
 
-The visual regression tests take screenshots of key pages on both desktop and mobile viewports, comparing them against golden images stored in the repository. This ensures that UI changes are intentional and can be reviewed before merging.
+The visual regression tests take screenshots of key pages on desktop viewport, comparing them against golden images stored in the repository. This ensures that UI changes are intentional and can be reviewed before merging.
 
 ## Tested Pages
 
@@ -17,7 +17,6 @@ The following pages are tested:
 
 Each page is tested on:
 - **Desktop Chrome** (1280x720 viewport)
-- **Mobile Chrome** (Pixel 5 viewport - 393x851)
 
 ## Running Tests Locally
 
