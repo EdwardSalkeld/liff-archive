@@ -98,7 +98,9 @@ The Playwright configuration is in `playwright.config.js`. Key settings:
 
 - **Base URL**: `http://localhost:1313` (Hugo dev server)
 - **Test timeout**: 30 seconds per test
-- **Screenshot comparison**: Allows up to 100 pixel differences for minor rendering variations
+- **Screenshot comparison**: 
+  - Allows up to 2% of pixels to differ (`maxDiffPixelRatio: 0.02`)
+  - Uses threshold of 0.3 for pixel color differences to account for font rendering and anti-aliasing
 - **Retries**: 2 retries on CI for flaky tests
 - **Reporters**: HTML report + list output
 
@@ -107,4 +109,4 @@ The Playwright configuration is in `playwright.config.js`. Key settings:
 - **Fonts and images**: Tests wait 1 second after page load to ensure fonts and images are loaded
 - **Animations**: Animations are disabled during screenshot capture for consistency
 - **Full page screenshots**: All screenshots capture the full page, not just the viewport
-- **Pixel differences**: A small threshold (100 pixels) is allowed to account for minor rendering differences across environments
+- **Pixel differences**: A percentage-based threshold (2%) is used to account for font rendering differences and anti-aliasing across environments
