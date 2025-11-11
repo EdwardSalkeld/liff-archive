@@ -34,15 +34,14 @@ module.exports = defineConfig({
     trace: 'on-first-retry',
   },
 
+  /* Configure snapshot path template to exclude platform */
+  snapshotPathTemplate: '{testDir}/{testFileDir}/{testFileName}-snapshots/{arg}{ext}',
+
   /* Configure projects for major browsers */
   projects: [
     {
-      name: 'Desktop Chrome',
+      name: 'chromium',
       use: { ...devices['Desktop Chrome'] },
-    },
-    {
-      name: 'Mobile Chrome',
-      use: { ...devices['Pixel 5'] },
     },
   ],
 

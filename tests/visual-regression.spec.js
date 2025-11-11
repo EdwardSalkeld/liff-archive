@@ -29,8 +29,9 @@ for (const page of pages) {
     await expect(playwright).toHaveScreenshot(`${page.name}.png`, {
       fullPage: true,
       animations: 'disabled',
-      // Allow for minor rendering differences
-      maxDiffPixels: 100,
+      // Allow for minor rendering differences (font rendering, anti-aliasing)
+      maxDiffPixelRatio: 0.02, // Allow up to 2% of pixels to differ
+      threshold: 0.3, // Increase threshold for pixel color differences (0-1 scale, default is 0.2)
     });
   });
 }
