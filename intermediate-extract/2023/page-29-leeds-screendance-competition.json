@@ -1,0 +1,32 @@
+{
+  "title": "Leeds Screendance Competition",
+  "page": "page-29.pdf",
+  "section": "LIFF SHORTS",
+  "program": "Panel Discussion",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Thu 9 Nov",
+      "time": "20:30"
+    }
+  ],
+  "countries": [
+    "Estonia",
+    "France",
+    "Ireland",
+    "Norway",
+    "UK",
+    "USA"
+  ],
+  "years": [
+    2022,
+    2023
+  ],
+  "runtime_minutes": 80,
+  "languages": [
+    "English",
+    "Norwegian"
+  ],
+  "subtitles": "English",
+  "synopsis": "Hailing from where cinematography and choreography meet, this compelling collection of international dance films navigates the myriad ways the moving body can propel a story. From the grimy dance floor of a club the day after the night before, to the not-so-subtle touch of strangers on a bus, we survey the landscape of this burgeoning form. Whether explicitly narrative or more abstract in approach these innovative shorts all share a specific engagement with choreography, offering a fascinating take on this experimental film genre."
+}

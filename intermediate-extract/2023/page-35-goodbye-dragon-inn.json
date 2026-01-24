@@ -1,0 +1,29 @@
+{
+  "title": "Goodbye, Dragon Inn",
+  "page": "page-35.pdf",
+  "section": "Cinema Amour",
+  "program": "20th Anniversary Screening",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Fri 10 Nov",
+      "time": "14:00"
+    }
+  ],
+  "countries": [
+    "Taiwan"
+  ],
+  "year": 2003,
+  "runtime_minutes": 82,
+  "languages": [
+    "Mandarin",
+    "Min Nan",
+    "Japanese"
+  ],
+  "subtitles": "English",
+  "certification": "BBFC Cert PG",
+  "synopsis": "Tsai Ming-Liang's modern classic is shot entirely in a crumbling old Taipei cinema that's about to close its doors for the last time. Every perfectly controlled shot follows the odd wandering audience member and sullen staff members going about their daily chores for the last time around the endless corridors and backrooms of the majestic old building. All the while King Hu's wuxia classic Dragon Inn plays in the auditorium. The film uses its odd slow pace, innovative sound design and deadpan humour to create an unforgettable, haunted elegy for cinema.",
+  "directors": [
+    "Tsai Ming-Liang"
+  ]
+}

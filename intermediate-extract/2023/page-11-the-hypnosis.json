@@ -1,0 +1,38 @@
+{
+  "title": "The Hypnosis",
+  "page": "page-11.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sat 4 Nov",
+      "time": "17:30"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Wed 8 Nov",
+      "time": "18:00"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Thu 9 Nov",
+      "time": "15:30"
+    }
+  ],
+  "countries": [
+    "Sweden",
+    "Norway"
+  ],
+  "year": 2023,
+  "runtime_minutes": 98,
+  "languages": [
+    "Swedish",
+    "Norwegian",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "Andre and Vera are a young Swedish entrepreneurial couple who get the chance to pitch their women's health app at a prestigious weekend gathering for start-ups and potential investors. Before going, Vera tries hypnotherapy to help her quit smoking, but it has an unexpected side effect: she loses all her social inhibitions, and the weekend doesn't go to plan for her, Andre and the entire gathering. Ernst De Geer's first feature film is a thought-provoking modern satire about trying to be ourselves amid society's expectations and observations of our behaviour.",
+  "directors": [
+    "Ernst De Geer"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Angel Applicant",
+  "page": "page-17.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Mon 6 Nov",
+      "time": "17:15"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Fri 10 Nov",
+      "time": "12:00"
+    }
+  ],
+  "countries": [
+    "USA"
+  ],
+  "year": 2023,
+  "runtime_minutes": 74,
+  "synopsis": "Winner of the SXSW 2023 Documentary Feature Award, Ken August Meyer directs this autobiographical portrait of living with an incurable disease which is slowly turning him into a 'living doll'. Finding solace in the last works of expressionist painter Paul Klee, whose art drastically shifted as the same illness consumed him, Ken examines how systemic scleroderma is transforming his own life. With ironic wit, colourful visuals and sharp sketches, Angel Applicant is not only an intimate exploration of illness and mortality, but an engaging study of art history, and how creativity can console and inspire us during personal suffering.",
+  "directors": [
+    "Ken August Meyer"
+  ],
+  "languages": [
+    "English"
+  ]
+}

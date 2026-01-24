@@ -1,0 +1,29 @@
+{
+  "title": "Break the Game",
+  "page": "page-17.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen Two",
+      "date_text": "Tue 7 Nov",
+      "time": "18:00"
+    },
+    {
+      "venue": "Hyde Park Screen Two",
+      "date_text": "Thu 9 Nov",
+      "time": "16:15"
+    }
+  ],
+  "countries": [
+    "USA"
+  ],
+  "year": 2023,
+  "runtime_minutes": 72,
+  "synopsis": "Narcissa Wright is one of the world's leading 'speedrunners', live streaming her attempts to break the world record for the fastest completion of the classic Nintendo game, The Legend of Zelda. When she came out as trans, she received love and support from some of her followers but also suffered a great deal of online hostility. Director Jane M. Wagner cleverly uses imagery from the game to reveal Narcissa's frustrations and her eventual bid to break out of her digital isolation and embrace love and adventure in the outside world.",
+  "directors": [
+    "Jane M. Wagner"
+  ],
+  "languages": [
+    "English"
+  ]
+}

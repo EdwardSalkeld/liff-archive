@@ -1,0 +1,32 @@
+{
+  "title": "Rule of Two Walls",
+  "page": "page-19.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sat 4 Nov",
+      "time": "20:45"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Wed 8 Nov",
+      "time": "15:15"
+    }
+  ],
+  "countries": [
+    "Ukraine"
+  ],
+  "year": 2023,
+  "runtime_minutes": 76,
+  "languages": [
+    "Ukrainian",
+    "Russian",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "Rule of Two Walls shows art as an essential survival tool for creative resistance in war torn Ukraine. In a brutal war in which their cultural identity is under threat of erasure, art brings people together. One of our guides is Lyana, director of the Lviv Municipal Arts Center, which has also been used as a shelter for exiles and evacuees. Artists gather there for an exhibition documenting resistance to the Russian invasion, culminating in a performance by Lyana's partner Stepan, a fiercely political rapper.",
+  "directors": [
+    "David Gutnik"
+  ]
+}

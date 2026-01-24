@@ -1,0 +1,34 @@
+{
+  "title": "Robot Dreams",
+  "page": "page-25.pdf",
+  "section": "Fanomenon",
+  "program": "Fanorama",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen Two",
+      "date_text": "Sun 5 Nov",
+      "time": "10:30"
+    },
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Sun 5 Nov",
+      "time": "13:00"
+    }
+  ],
+  "notes": "The 10:30 screening is relaxed.",
+  "countries": [
+    "Spain",
+    "France"
+  ],
+  "year": 2023,
+  "runtime_minutes": 102,
+  "languages": [
+    "Spanish"
+  ],
+  "subtitles": "English",
+  "certification": "BBFC Cert PG",
+  "synopsis": "A new friendship will put a song in our hearts. In a New York City populated, wonderfully, by animals, Dog spends evenings alone until a new robot friend arrives. From day one, Dog and Robot are besties and enjoy the best of an NYC late summer: skating at the park, boating on the lake, swimming at the beach. But swimming and electronics don't mix, and sadly, Dog's buddy is stranded, perhaps until the spring. Based on Sara Varon's graphic novel, this gorgeously relatable ode to friendship's knotty feelings is perfect for pals of any species.",
+  "directors": [
+    "Pablo Berger"
+  ]
+}

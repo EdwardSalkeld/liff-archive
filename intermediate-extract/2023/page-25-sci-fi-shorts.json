@@ -1,0 +1,30 @@
+{
+  "title": "Sci-Fi Shorts",
+  "page": "page-25.pdf",
+  "section": "Fanomenon",
+  "program": "LIFF Shorts X Fanomenon",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sun 12 Nov",
+      "time": "12:45"
+    }
+  ],
+  "countries": [
+    "India",
+    "Netherlands",
+    "UK",
+    "USA"
+  ],
+  "years": [
+    2022,
+    2023
+  ],
+  "runtime_minutes": 98,
+  "languages": [
+    "English",
+    "Dutch"
+  ],
+  "subtitles": "English",
+  "synopsis": "In this year's sci-fi selection, we follow a lone probe as it collects music amongst the infinite fields of sounds, a woman is thwarted by captcha technology and a snow creature tries to protect the last natural ice left in the world. Elsewhere, a man ducks out of ending a relationship by recruiting a clone replacement, meanwhile, a couple instead grapple with rapidly multiplying clones of themselves. And finally, we look to the skies, as a NASA scientist bonds with his son over an accidental discovery and two prisoners share a cell in space."
+}

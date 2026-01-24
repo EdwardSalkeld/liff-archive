@@ -1,0 +1,30 @@
+{
+  "title": "The Zone of Interest",
+  "page": "page-44.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Picture House",
+      "date_text": "Sat 18 Nov",
+      "time": "18:00"
+    }
+  ],
+  "countries": [
+    "USA",
+    "UK",
+    "Poland"
+  ],
+  "year": 2023,
+  "runtime_minutes": 106,
+  "languages": [
+    "German",
+    "Polish",
+    "Yiddish"
+  ],
+  "subtitles": "English",
+  "certification": "BBFC Certificate 12A",
+  "synopsis": "The new film from Jonathan Glazer, director of Sexy Beast and Under the Skin, The Zone of Interest won the Grand Prix at Cannes Film Festival where it was hailed as 'a masterpiece' (BBC) and 'a landmark movie' (The Times). Based on the novel by Martin Amis, and starring Christian Friedel and Sandra Huller, The Zone of Interest is about the commandant of Auschwitz, Rudolf Hoss, and his wife Hedwig, who strive to build a dream life for their family in a house and garden next to the camp.",
+  "directors": [
+    "Jonathan Glazer"
+  ]
+}

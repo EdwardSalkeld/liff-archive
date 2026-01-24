@@ -1,0 +1,36 @@
+{
+  "title": "Snowpiercer",
+  "page": "page-33.pdf",
+  "section": "Thrill Rides",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Wed 8 Nov",
+      "time": "20:30"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Thu 9 Nov",
+      "time": "12:45"
+    }
+  ],
+  "countries": [
+    "South Korea",
+    "Czech Republic"
+  ],
+  "year": 2013,
+  "runtime_minutes": 126,
+  "languages": [
+    "English",
+    "Korean",
+    "French",
+    "Japanese",
+    "Czech",
+    "German"
+  ],
+  "subtitles": "English",
+  "synopsis": "Following an ecological disaster that ushers in a new Ice Age, the remains of humanity occupy an enormous train that traverses the globe, even its oceans. At the front of the train the elite enjoy luxury while at the back the poor suffer in a slum-like prison. This audacious, intelligent adaptation of the 1982 graphic novel Le Transperceneige combines an all-star UK-US-Korean cast (Song Kang-ho, Tilda Swinton, Ewen Bremner, John Hurt, Ed Harris) with biting satire and comic book visual aplomb. A huge cult hit, still travelling on as a Netflix show.",
+  "directors": [
+    "Bong Joon Ho"
+  ]
+}

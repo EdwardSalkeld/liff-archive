@@ -1,0 +1,31 @@
+{
+  "title": "The Monk and the Gun",
+  "page": "page-13.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sat 18 Nov",
+      "time": "13:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sun 19 Nov",
+      "time": "12:00"
+    }
+  ],
+  "countries": [
+    "Bhutan"
+  ],
+  "year": 2023,
+  "runtime_minutes": 107,
+  "languages": [
+    "English",
+    "Dzongkha"
+  ],
+  "subtitles": "English",
+  "synopsis": "Pawo Choyning Dorji's sharply comic satire, The Monk and the Gun tells the story of democracy arriving in the Kingdom of Bhutan in 2006. Bhutan is already undergoing seismic changes as the last country in the world to connect to the internet and television. The authorities organise a mock election to teach the locals how to vote, but there is some confusion and resistance. In a place where religion is more popular than politics, the election supervisor discovers that a monk is planning a mysterious ceremony for the election day.",
+  "directors": [
+    "Pawo Choyning Dorji"
+  ]
+}

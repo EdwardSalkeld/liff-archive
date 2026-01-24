@@ -1,0 +1,31 @@
+{
+  "title": "Fallen Leaves",
+  "page": "page-11.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Thu 16 Nov",
+      "time": "20:30"
+    },
+    {
+      "venue": "Cottage Road",
+      "date_text": "Sat 18 Nov",
+      "time": "13:30"
+    }
+  ],
+  "countries": [
+    "Finland",
+    "Germany"
+  ],
+  "year": 2023,
+  "runtime_minutes": 81,
+  "subtitles": "English",
+  "synopsis": "The great Finnish filmmaker Aki Kaurismaki returns with Fallen Leaves, a sublime love story told with his customary deadpan wit and flawless visual style. Fate brings two lonely souls together one night in a melancholy karaoke bar in Helsinki. Ansa is an exploited supermarket worker who can't stand the food waste created by her employers. Holappa is a construction worker who is struggling with a drinking problem. Despite being drawn to each other, various obstacles stand in their way. A profound and heartwarming drama that doubles as a love letter to cinema.",
+  "directors": [
+    "Aki Kaurismaki"
+  ],
+  "languages": [
+    "Finnish"
+  ]
+}

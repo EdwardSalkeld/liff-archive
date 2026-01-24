@@ -1,0 +1,31 @@
+{
+  "title": "The Hostage Takers",
+  "page": "page-18.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sat 4 Nov",
+      "time": "18:45"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Thu 9 Nov",
+      "time": "12:00"
+    }
+  ],
+  "directors": [
+    "Puk Damsgaard",
+    "Soren Klovborg"
+  ],
+  "countries": [
+    "Denmark"
+  ],
+  "year": 2023,
+  "runtime_minutes": 87,
+  "subtitles": "English",
+  "synopsis": "The Hostage Takers is a searing documentary, deeply moving and troubling in equal measure and as tense and gripping as any thriller. Sean Langan, a war journalist and close friend of the murdered American war correspondent James Foley, managed to track down two members of 'The Beatles' group of Islamic State terrorists who held him and others captive in Syria in 2013/14. A detailed picture of the events emerges from an astonishingly revealing series of interviews and brutally honest accounts from other witnesses leading to the pair's conviction to life sentences for their actions.",
+  "languages": [
+    "Danish"
+  ]
+}

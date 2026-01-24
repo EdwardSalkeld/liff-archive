@@ -1,0 +1,36 @@
+{
+  "title": "Samsara",
+  "page": "page-13.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sun 12 Nov",
+      "time": "19:30"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Tue 14 Nov",
+      "time": "15:15"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Fri 17 Nov",
+      "time": "20:00"
+    }
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "year": 2023,
+  "runtime_minutes": 153,
+  "languages": [
+    "Swahili",
+    "Lao"
+  ],
+  "subtitles": "English",
+  "synopsis": "Winner of a Special Jury Prize at Berlinale 2023, this luminous third feature by filmmaker Lois Patino is a rumination on death and reincarnation, and a spellbinding work of cinema that demands to be seen on the big screen. Beginning in present-day Laos, a young Buddhist visits an elderly woman close to death and reads to her from the Bardo Thodol, the Tibetan Book of the Dead, as she prepares for her next journey. Patino invites us to experience the power of collective viewing, and creates a sensorial, otherworldly and meditative cinematic journey.",
+  "directors": [
+    "Lois Patino"
+  ]
+}

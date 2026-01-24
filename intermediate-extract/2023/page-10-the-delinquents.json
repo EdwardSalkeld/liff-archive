@@ -1,0 +1,33 @@
+{
+  "title": "The Delinquents",
+  "page": "page-10.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sat 4 Nov",
+      "time": "13:30"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Mon 6 Nov",
+      "time": "13:45"
+    }
+  ],
+  "countries": [
+    "Argentina",
+    "Brazil",
+    "Luxembourg",
+    "Chile"
+  ],
+  "year": 2023,
+  "runtime_minutes": 180,
+  "languages": [
+    "Spanish"
+  ],
+  "subtitles": "English",
+  "synopsis": "An inventive and captivating take on the heist genre from Argentine director Rodrigo Moreno. Bank clerk Moran (Daniel Elias) plots the perfect crime - to embezzle enough money to never work again, enlist his colleague Roman (Esteban Bigliardi) to hide the loot, serve a prison sentence, and then retrieve his hidden stash. Drawing inspiration from a classic Argentinian noir, Hugo Fregonese's Hardly a Criminal (1949), The Delinquents takes the original source material and expands it into something wholly original and enthralling. This stylish, slow-burn crime drama is a standout from this year's Cannes film festival.",
+  "directors": [
+    "Rodrigo Moreno"
+  ]
+}

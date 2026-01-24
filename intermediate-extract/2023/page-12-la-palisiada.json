@@ -1,0 +1,33 @@
+{
+  "title": "La Palisiada",
+  "page": "page-12.pdf",
+  "section": "Official Selection",
+  "program": "LIFF 2023 Competition",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Fri 10 Nov",
+      "time": "15:30"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sun 12 Nov",
+      "time": "14:30"
+    }
+  ],
+  "countries": [
+    "Ukraine"
+  ],
+  "year": 2023,
+  "runtime_minutes": 100,
+  "languages": [
+    "Ukrainian",
+    "Azerbaijani",
+    "Russian"
+  ],
+  "subtitles": "English",
+  "synopsis": "Winner of the FIPRESCI award at Rotterdam Film Festival, this thrilling debut by Philip Sotnychenko is an audacious take on the crime thriller, and announces an exciting new voice in Ukrainian cinema. After an enigmatic present-day prologue, the core of the film takes in 1996 in a newly independent Ukraine, and follows two old friends, a police detective and a forensic psychiatrist, as they investigate the murder of a colleague. Sotnychenko masterfully utilises VHS aesthetics to create an evocative snapshot of 1990s post-Soviet Ukraine, while boldly confronting legacies of trauma and violence.",
+  "directors": [
+    "Philip Sotnychenko"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Sira",
+  "page": "page-13.pdf",
+  "section": "Official Selection",
+  "program": "LIFF 2023 Competition",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Fri 10 Nov",
+      "time": "13:00"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sun 12 Nov",
+      "time": "17:00"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Wed 15 Nov",
+      "time": "13:15"
+    }
+  ],
+  "countries": [
+    "Burkina Faso",
+    "Senegal",
+    "France",
+    "Germany"
+  ],
+  "year": 2023,
+  "runtime_minutes": 122,
+  "languages": [
+    "French",
+    "Fulah"
+  ],
+  "subtitles": "English",
+  "synopsis": "Sira is a feminist survival thriller and a visually stunning adventure film set in the sun-baked sands of the Sahel region of North Africa. Seventeen year old Fulani nomad Sira is on the way to meet her intended husband when she is kidnapped in a brutal attack by an Islamist militant group. She is transformed by her fight for survival and Nafissatou Cisse's committed performance commands the screen. Director Apolline Traore has crafted an exciting thriller that critiques male brutality and religious intolerance, a confident bid for international crossover success.",
+  "directors": [
+    "Apolline Traore"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Another Body",
+  "page": "page-17.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Fri 3 Nov",
+      "time": "18:45"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sun 5 Nov",
+      "time": "16:15"
+    }
+  ],
+  "directors": [
+    "Sophie Compton",
+    "Reuben Hamlyn"
+  ],
+  "countries": [
+    "USA"
+  ],
+  "year": 2023,
+  "runtime_minutes": 80,
+  "synopsis": "Sophie Compton and Reuben Hamlyn's superbly inventive documentary explores a new ethical problem arising from rapidly escalating technologies. The film follows an American college student's search for answers and justice after she discovers someone has taken her image and used it to circulate deepfake pornography online. The effects on her personal life are devastating, the perpetrator is hard to identify and legal protection for her is minimal because the concept is so new. The filmmakers use the same technology to protect the identity of their subject, making Another Body a shocking and important film.",
+  "languages": [
+    "English"
+  ]
+}

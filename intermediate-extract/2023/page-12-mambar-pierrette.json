@@ -1,0 +1,32 @@
+{
+  "title": "Mambar Pierrette",
+  "page": "page-12.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sat 4 Nov",
+      "time": "16:45"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Wed 8 Nov",
+      "time": "18:45"
+    }
+  ],
+  "countries": [
+    "Cameroon",
+    "Belgium"
+  ],
+  "year": 2023,
+  "runtime_minutes": 93,
+  "languages": [
+    "French",
+    "Pashtu"
+  ],
+  "subtitles": "English",
+  "synopsis": "A seamstress in Douala, Pierrette raises her children alone and looks after her mother. She is used to living hand to mouth, but she still has to navigate the odd pickpocket and the flooding of her house and workshop. Pierrette stiches together cloth, holding together the film and the fabric of her life, while her clients offload to her about their problems. A fiction film built largely from documentary material, Mambar Pierrette is a moving portrait of fortitude and care, and a reflection of its leading actress (Pierrette Aboheu Njeuthat): valiant, discreet and above all resilient.",
+  "directors": [
+    "Rosine Mfetgo Mbakam"
+  ]
+}

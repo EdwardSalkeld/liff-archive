@@ -1,0 +1,35 @@
+{
+  "title": "Evil Does Not Exist",
+  "page": "page-10.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sat 11 Nov",
+      "time": "17:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Thu 16 Nov",
+      "time": "15:15"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sun 19 Nov",
+      "time": "14:15"
+    }
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "year": 2023,
+  "runtime_minutes": 106,
+  "languages": [
+    "Japanese"
+  ],
+  "subtitles": "English",
+  "synopsis": "Ryusuke Hamaguchi follows up his global arthouse hit Drive My Car with an enigmatic eco-parable, just as thought provoking and elegantly made as its predecessor. In a quiet village close to Tokyo, Takumi and his daughter Hana live a modest life according to the cycles and order of nature. One day, the village inhabitants become aware of a plan to build a glamping site near Takumi's house, offering city residents a comfortable 'escape' to nature. But it soon becomes clear that the plan threatens to disturb this natural equilibrium with problematic consequences for the villagers' lives.",
+  "directors": [
+    "Ryusuke Hamaguchi"
+  ]
+}

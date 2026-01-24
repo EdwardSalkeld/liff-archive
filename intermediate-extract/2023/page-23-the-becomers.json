@@ -1,0 +1,35 @@
+{
+  "title": "The Becomers",
+  "page": "page-23.pdf",
+  "section": "Fanomenon",
+  "program": "Fanorama / Sci-Fi Day",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sat 4 Nov",
+      "time": "18:15"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sun 5 Nov",
+      "time": "17:15"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sun 12 Nov",
+      "time": "15:00"
+    }
+  ],
+  "countries": [
+    "USA"
+  ],
+  "year": 2023,
+  "runtime_minutes": 86,
+  "languages": [
+    "English"
+  ],
+  "synopsis": "A genre-bending highlight of this year's Fanomenon, The Becomers blends sci-fi, horror, road movie, comedy, melodrama and romance in a tale of two body-swapping aliens who come to Earth and try to find their way in a divided modern America. Kitsch-soaked and Star-Trek-inspired, featuring apt lo-fi special effects and a narration by Sparks legend Russell Mael, The Becomers is about love, longing, alienation, and the state of our planet. The latest film from long-admired American indie filmmaker Zach Clark, The Becomers has its UK Premiere at LIFF 2023.",
+  "directors": [
+    "Zach Clark"
+  ]
+}

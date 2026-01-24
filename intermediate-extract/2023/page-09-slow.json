@@ -1,0 +1,39 @@
+{
+  "title": "Slow",
+  "page": "page-09.pdf",
+  "section": "Official Selection",
+  "program": "LIFF 2023 Closing Film",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Sun 19 Nov",
+      "time": "17:30"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sun 19 Nov",
+      "time": "18:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sun 19 Nov",
+      "time": "19:00"
+    }
+  ],
+  "countries": [
+    "Lithuania",
+    "Sweden",
+    "Spain"
+  ],
+  "year": 2023,
+  "runtime_minutes": 108,
+  "languages": [
+    "Lithuanian",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "Winner of Best Director at Sundance Film Festival 2023, Marija Kavtaradze's second feature is a beautifully tender exploration of sexuality, intimacy and communication, and one of this year's standout romantic dramas. When sign language interpreter Dovydas (Kestutis Cicenas) arrives to interpret a dance class that Elena (Greta Grineviciute) is teaching, there is an immediate and undeniable chemistry between the two of them. As their relationship begins to blossom, Dovydas tells Elena that he is asexual, and together they must find ways to navigate their love. Kavtaradze has crafted an exquisite modern-day romance that leaves a lasting emotional impact.",
+  "directors": [
+    "Marija Kavtaradze"
+  ]
+}

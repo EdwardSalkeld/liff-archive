@@ -1,0 +1,40 @@
+{
+  "title": "Animalia",
+  "page": "page-22.pdf",
+  "section": "Fanomenon",
+  "program": "Fanorama / Sci-Fi Day",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Fri 3 Nov",
+      "time": "21:00"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sat 4 Nov",
+      "time": "15:45"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sun 5 Nov",
+      "time": "15:15"
+    }
+  ],
+  "countries": [
+    "France",
+    "Morocco",
+    "Qatar"
+  ],
+  "year": 2023,
+  "runtime_minutes": 90,
+  "languages": [
+    "French",
+    "Arabic",
+    "Berber"
+  ],
+  "subtitles": "English",
+  "synopsis": "Heavily pregnant Itto, a young woman from a modest rural background, is slowly adapting to the Moroccan privileged codes of her husband's family. But when a mysterious state of emergency is declared nationwide, Itto finds herself alone. Meanwhile, increasingly ominous events and strange weather phenomena suggest a supernatural presence is nearing. Sofia Alaoui's first feature film is an original and visually hypnotic sci-fi that explores the tension between faith and purpose, eroding myths and challenging class prejudice to expose how we are more connected than we know.",
+  "directors": [
+    "Sofia Alaoui"
+  ]
+}

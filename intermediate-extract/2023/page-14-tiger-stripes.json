@@ -1,0 +1,42 @@
+{
+  "title": "Tiger Stripes",
+  "page": "page-14.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Fri 10 Nov",
+      "time": "20:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sun 12 Nov",
+      "time": "11:30"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Wed 15 Nov",
+      "time": "16:30"
+    }
+  ],
+  "countries": [
+    "Malaysia",
+    "Taiwan",
+    "France",
+    "Germany",
+    "Netherlands",
+    "Singapore",
+    "Qatar",
+    "Indonesia"
+  ],
+  "year": 2023,
+  "runtime_minutes": 95,
+  "subtitles": "English",
+  "synopsis": "Winner of the Critics' Week Grand Prize at Cannes, this coming-of-age body horror from debut director Amanda Nell Eu is a hallucinatory dive into puberty and the female body. Set in a Muslim girls' school in Malaysia, rebellious Zaffan is the first to get her period and is ostracised for her changing body. But something stranger is happening, an unbelievable rage consumes her and supernatural beings surround her in the jungle. A brutal depiction of the horrors of being a teenage girl, which is sure to shock as Zaffan transforms into the monster her bullies say she is.",
+  "directors": [
+    "Amanda Nell Eu"
+  ],
+  "languages": [
+    "Malay"
+  ]
+}

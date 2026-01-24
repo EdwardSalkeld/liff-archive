@@ -1,0 +1,28 @@
+{
+  "title": "Cinema Laika",
+  "page": "page-35.pdf",
+  "section": "Cinema Amour",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Fri 10 Nov",
+      "time": "16:00"
+    }
+  ],
+  "countries": [
+    "France",
+    "Finland"
+  ],
+  "year": 2023,
+  "runtime_minutes": 81,
+  "languages": [
+    "English",
+    "Finnish",
+    "French"
+  ],
+  "subtitles": "English",
+  "synopsis": "Cinema Laika is a beautiful documentary about a cinematic passion project. In a small village 45 miles north of Helsinki, the Finnish film director Aki Kaurismaki and his friend, the poet and writer, Mika Latti construct their own cinema within an old foundry. Kino Laika is a collaborative project involving residents of Karkkila and using recycled wood, metal, and pre-owned furniture. The venue has bars with cool retro rock music and Cadillacs and motorcycles parked outside. It also has a dream setting amid the awe-inspiring beauty of nature, encapsulating the very essence of cinema's enchantment.",
+  "directors": [
+    "Veljko Vidak"
+  ]
+}

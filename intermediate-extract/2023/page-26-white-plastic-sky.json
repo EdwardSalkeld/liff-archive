@@ -1,0 +1,38 @@
+{
+  "title": "White Plastic Sky",
+  "page": "page-26.pdf",
+  "section": "Fanomenon",
+  "program": "Fanorama",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Fri 3 Nov",
+      "time": "15:45"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Thu 9 Nov",
+      "time": "12:30"
+    },
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Sun 5 Nov",
+      "time": "15:30"
+    }
+  ],
+  "directors": [
+    "Tibor Banoczki",
+    "Sarolta Szabo"
+  ],
+  "countries": [
+    "Hungary",
+    "Slovakia"
+  ],
+  "year": 2023,
+  "runtime_minutes": 110,
+  "languages": [
+    "Hungarian"
+  ],
+  "subtitles": "English",
+  "synopsis": "White Plastic Sky is a deeply moving dystopian epic that deals head-on with the climate emergency threatening life on Earth while also marvelling at the beauty of the world we might lose. It's 2123. Faced with diminishing resources, humanity can only survive through a trade-off: at the age of 50, every citizen is gradually turned into a tree which will provide oxygen and food for those remaining. When Stefan discovers that his beloved wife Nora has voluntarily signed up for donating her own body before her time, he decides to break the rules to save her at all costs."
+}

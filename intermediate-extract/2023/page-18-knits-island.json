@@ -1,0 +1,33 @@
+{
+  "title": "Knit's Island",
+  "page": "page-18.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen Two",
+      "date_text": "Mon 6 Nov",
+      "time": "18:00"
+    },
+    {
+      "venue": "Hyde Park Screen Two",
+      "date_text": "Thu 9 Nov",
+      "time": "14:00"
+    }
+  ],
+  "directors": [
+    "Quentin L'helgoualc'h",
+    "Ekiem Barbier",
+    "Guilhem Causse"
+  ],
+  "countries": [
+    "France"
+  ],
+  "year": 2023,
+  "runtime_minutes": 95,
+  "languages": [
+    "French",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "Winner of the Burning Lights Prize at Visions du Reel film festival, this visually audacious documentary is an immersive and unique experience. Shot entirely within the open-world survival computer game DayZ, where the goal is to stay alive by scavenging, hunting, and avoiding the infected. Using avatars, three intrepid filmmakers enter the virtual landscape and begin interviewing players, uncovering the many communities and factions that exist within. The results are fascinating and surprisingly poignant, while some players revel in chaos they can create, others seek refuge, escapism, or moments contemplation, and the game becomes a space where deep friendships are forged."
+}

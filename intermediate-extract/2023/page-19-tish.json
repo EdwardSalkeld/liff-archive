@@ -1,0 +1,30 @@
+{
+  "title": "Tish",
+  "page": "page-19.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Chapel FM",
+      "date_text": "Sat 4 Nov",
+      "time": "19:00"
+    },
+    {
+      "venue": "Howard Assembly Room",
+      "date_text": "Sun 12 Nov",
+      "time": "15:45"
+    }
+  ],
+  "notes": "Free at Chapel FM.",
+  "countries": [
+    "UK"
+  ],
+  "year": 2023,
+  "runtime_minutes": 90,
+  "synopsis": "A vital new documentary about the great photographer, Tish Murtha, who is only now starting to get the recognition she deserves as one of the most important British artists of her generation. Tish grew up in the vibrant working class communities of the Northeast and captured this in images like no-one else, particularly committed to documenting the impact of Thatcherism and deindustrialisation in the 70s and 80s. Tragically she died in poverty aged only 56 and Paul Sng's essential film follows a journey of discovery about her led by her daughter Ella.",
+  "directors": [
+    "Paul Sng"
+  ],
+  "languages": [
+    "English"
+  ]
+}

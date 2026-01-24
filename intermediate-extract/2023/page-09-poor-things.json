@@ -1,0 +1,37 @@
+{
+  "title": "Poor Things",
+  "page": "page-09.pdf",
+  "section": "Official Selection",
+  "program": "LIFF 2023 Opening Film",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Fri 3 Nov",
+      "time": "19:00"
+    },
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Sat 4 Nov",
+      "time": "20:30"
+    },
+    {
+      "venue": "Cottage Road",
+      "date_text": "Wed 8 Nov",
+      "time": "19:30"
+    }
+  ],
+  "countries": [
+    "Ireland",
+    "UK",
+    "USA"
+  ],
+  "year": 2023,
+  "runtime_minutes": 141,
+  "languages": [
+    "English"
+  ],
+  "synopsis": "Visionary director Yorgos Lanthimos (The Favourite, Dogtooth) invites audiences on an absurdist global odyssey celebrating female pleasure and liberation. This is the extraordinary tale of Bella Baxter (Emma Stone), a woman brought back to life by eccentric scientist Dr. Godwin Baxter (Willem Dafoe). With no knowledge of the world or societal norms, Bella's insatiable curiosity and voracious sexual appetite drives her to run away on a madcap adventure with playboy Duncan Wedderburn (Mark Ruffalo). Lanthimos masterfully crafts an outlandish and opulent world that took home the prestigious Golden Lion at Venice Film Festival.",
+  "directors": [
+    "Yorgos Lanthimos"
+  ]
+}

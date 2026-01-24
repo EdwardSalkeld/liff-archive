@@ -1,0 +1,33 @@
+{
+  "title": "Yudo: The Way of the Bath",
+  "page": "page-26.pdf",
+  "section": "Fanomenon",
+  "program": "Planet Japan",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sun 5 Nov",
+      "time": "12:30"
+    },
+    {
+      "venue": "Cottage Road",
+      "date_text": "Sat 11 Nov",
+      "time": "13:00"
+    }
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "year": 2023,
+  "runtime_minutes": 126,
+  "short_title": "Sen Toe",
+  "short_runtime_minutes": 7,
+  "languages": [
+    "Japanese"
+  ],
+  "subtitles": "English",
+  "synopsis": "Winner of the audience award at the Far East Film Festival in Italy, Yudo: The Way of the Bath is a charming, humorous, and gently meandering tale of a community trying to save its local bathhouse. Shiro Miura returns to his hometown after his father's death and decides to close the family business, Marukin Hot Springs. But when one day the boiler breaks and Shiro has to step in to help, he starts to discover how much the bathhouse means to its loyal customers. Screening with delightful musical short Sen Toe set in a Japanese bathhouse, first screened at LIFF 2017.",
+  "directors": [
+    "Masayuki Suzuki"
+  ]
+}

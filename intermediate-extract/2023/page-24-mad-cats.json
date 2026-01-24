@@ -1,0 +1,32 @@
+{
+  "title": "Mad Cats",
+  "page": "page-24.pdf",
+  "section": "Fanomenon",
+  "program": "Planet Japan",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Wed 15 Nov",
+      "time": "20:45"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Thu 16 Nov",
+      "time": "15:45"
+    }
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "year": 2023,
+  "runtime_minutes": 86,
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "Taka is an aimless slacker on the hunt for clues surrounding his brothers' disappearance. A mysterious message soon leads him to the headquarters of the Mad Cats, a murderous cult of cats in human form, hell-bent on taking revenge against unsavoury pet shop owners. After stealing a priceless artifact, he finds himself being pursued by a succession of vicious cat-like women who will stop at nothing to get back what was taken from them in this purr-fectly absurd action-comedy from Japanese director Reiki Tsuno.",
+  "directors": [
+    "Reiki Tsuno"
+  ]
+}

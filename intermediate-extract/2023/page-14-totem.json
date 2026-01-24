@@ -1,0 +1,37 @@
+{
+  "title": "Totem",
+  "page": "page-14.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Wed 15 Nov",
+      "time": "20:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Fri 17 Nov",
+      "time": "13:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sat 18 Nov",
+      "time": "18:30"
+    }
+  ],
+  "countries": [
+    "Mexico",
+    "Denmark",
+    "France"
+  ],
+  "year": 2023,
+  "runtime_minutes": 95,
+  "subtitles": "English",
+  "synopsis": "Lila Aviles' follow up to The Chambermaid is a richly drawn family ensemble set on a day of bittersweet celebration and farewell. Seven-year-old Sol is dropped off at her grandfather's house as her aunts prepare a birthday party for her dad Tona, but she doesn't understand why she can't see him yet. Out of sight for most of the film, Tona is in another room being cared for by his nurse Cruz, struggling to make himself presentable for a party that is likely his last. Naima Senties gives a magical performance as the young lead, in this beautifully crafted and profoundly moving family drama.",
+  "directors": [
+    "Lila Aviles"
+  ],
+  "languages": [
+    "Spanish"
+  ]
+}

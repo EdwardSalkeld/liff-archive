@@ -1,0 +1,25 @@
+{
+  "title": "Coconut Head Generation",
+  "page": "page-35.pdf",
+  "section": "Cinema Amour",
+  "program": "Panel Discussion",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen Two",
+      "date_text": "Mon 13 Nov",
+      "time": "18:00"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "year": 2023,
+  "runtime_minutes": 89,
+  "languages": [
+    "English"
+  ],
+  "synopsis": "'Coconut Head Generation' is a scornful expression for a stubborn and empty-headed youth, transformed by Alain Kassanda's patiently observed documentary. Every Thursday, a group of students from the University of Ibadan, the oldest in Nigeria, organises a movie club, transforming a small lecture hall into a political agora where the viewer's gaze is sharpened and a critical mind is developed. The film elegantly questions assumptions and encourages debate and freedom of thought. Screening with a panel on film and education presented in partnership with the University of Leeds.",
+  "directors": [
+    "Alain Kassanda"
+  ]
+}

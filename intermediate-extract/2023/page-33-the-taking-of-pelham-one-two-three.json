@@ -1,0 +1,32 @@
+{
+  "title": "The Taking of Pelham One Two Three",
+  "page": "page-33.pdf",
+  "section": "Thrill Rides",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Tue 7 Nov",
+      "time": "18:15"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Mon 13 Nov",
+      "time": "15:15"
+    }
+  ],
+  "countries": [
+    "USA"
+  ],
+  "year": 1974,
+  "runtime_minutes": 104,
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "subtitles": "English",
+  "certification": "BBFC Cert 15",
+  "synopsis": "An evocative crime film set on the grimy, pre-gentrified New York subway. Four men dressed identically and with colour-coded codenames board the IRT Dyre Avenue Line from The Bronx's Pelham Parkway at different stops. Revealing machine guns, they announce the hijacking and stop the train between stations, demanding $1,000,000 cash or else they start killing hostages. In a race against time, Transit Police Lieutenant Garber (Walter Matthau) attempts to outsmart the criminals. A tense, spry and bracingly no-nonsense film, and a snapshot of midcentury NYC at its most fecund.",
+  "directors": [
+    "Joseph Sargent"
+  ]
+}

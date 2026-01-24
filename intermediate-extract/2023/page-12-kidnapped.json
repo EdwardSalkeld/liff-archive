@@ -1,0 +1,39 @@
+{
+  "title": "Kidnapped",
+  "page": "page-12.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Fri 3 Nov",
+      "time": "15:15"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Mon 6 Nov",
+      "time": "20:15"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Wed 8 Nov",
+      "time": "15:00"
+    }
+  ],
+  "countries": [
+    "Italy",
+    "France",
+    "Germany"
+  ],
+  "year": 2023,
+  "runtime_minutes": 134,
+  "languages": [
+    "Italian",
+    "Hebrew",
+    "Latin"
+  ],
+  "subtitles": "English",
+  "synopsis": "In Bologna, 1858, ordinary citizens were ruled directly by Pope Pius IX. In the middle of the night, a small Jewish child is suddenly taken from his family to Rome by an agent of the Catholic Church. The reason? Some years before he was baptised in secret by the family's Catholic maid, and he is therefore irretrievably Catholic. This extraordinary true story is brought to the screen with brio, emotional force and just a dash of mordant humour by writer-director Marco Bellocchio, Italian cinema's great surveyor of power.",
+  "directors": [
+    "Marco Bellocchio"
+  ]
+}

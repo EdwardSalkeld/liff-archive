@@ -1,0 +1,35 @@
+{
+  "title": "Conann",
+  "page": "page-23.pdf",
+  "section": "Fanomenon",
+  "program": "Fanorama",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Tue 14 Nov",
+      "time": "20:45"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Thu 16 Nov",
+      "time": "20:45"
+    }
+  ],
+  "countries": [
+    "Belgium",
+    "France",
+    "Luxembourg"
+  ],
+  "year": 2023,
+  "runtime_minutes": 105,
+  "languages": [
+    "German",
+    "French",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "Travelling through the abyss, underworld dog Rainer (Elina Lowensohn) recounts the six lives of Conann, a fierce shape shifter who is perpetually put to death by her own future, across eras, myths and ages. We see her childhood, her time as slave to a barbarian horde and her accession to the summits of cruelty at the doors of our world. A transgressive masterpiece in the making, Conann is a blood-soaked and queer-edged chaos epic of reinvention and resurrection. A feast for the eyes, but not for the faint of heart (or stomach), Conann will devour you whole.",
+  "directors": [
+    "Bertrand Mandico"
+  ]
+}

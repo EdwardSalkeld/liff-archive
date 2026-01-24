@@ -1,0 +1,29 @@
+{
+  "title": "Holding Up the Sky",
+  "page": "page-18.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sun 5 Nov",
+      "time": "14:30"
+    }
+  ],
+  "countries": [
+    "Belgium",
+    "Netherlands",
+    "Brazil"
+  ],
+  "year": 2023,
+  "runtime_minutes": 82,
+  "languages": [
+    "Portuguese",
+    "French",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "The Yanomami of Brazil know that if shamans stop dancing and life in the rainforest loses its balance, the sky will fall and crush everything beneath it. But gold diggers pollute rivers, shamans die, the rainforest perishes and the earth warms up. Davi Kopenawa - shaman, chief and well-known spokesperson for the Yanomami - has been fighting these threats for more than 40 years. Travelling the world defending his people against colonization, he warns the West that the falling sky will not only crush the Yanomami. But will anyone listen?",
+  "directors": [
+    "Pieter Van Eecke"
+  ]
+}

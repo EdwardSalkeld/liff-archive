@@ -1,0 +1,35 @@
+{
+  "title": "Hundreds of Beavers",
+  "page": "page-24.pdf",
+  "section": "Fanomenon",
+  "program": "Fanorama",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Mon 13 Nov",
+      "time": "20:30"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Wed 15 Nov",
+      "time": "18:15"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sat 18 Nov",
+      "time": "12:45"
+    }
+  ],
+  "countries": [
+    "USA"
+  ],
+  "year": 2023,
+  "runtime_minutes": 108,
+  "languages": [
+    "English"
+  ],
+  "synopsis": "An inexperienced 19th century hunter, Jean Kayak has to work his way up from nothing to become the greatest fur trapper in the world. The only thing standing in his way? Hundreds of Beavers. Director Mike Cheslik's (Lake Michigan Monster) second feature is a wonderfully absurd, epic slapstick comedy that pays homage to silent era cinema, Saturday morning cartoons and retro video games, while still feeling completely new. A unique, laugh-out-loud cinema experience that is already shaping up to be a future cult classic.",
+  "directors": [
+    "Mike Cheslik"
+  ]
+}
