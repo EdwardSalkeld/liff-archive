@@ -1,7 +1,8 @@
 +++
 title = "LIFF SHORTS 2023: The Winners"
 running-time = "90 mins"
-strand = "LIFF SHORTS: Closing Event"
+strand = "LIFF SHORTS"
+substrand = "LIFF SHORTS: Closing Event"
 notes = "Winning films also stream on Leeds Film Player from 13 to 19 November."
 runtime-notes = "Duration depends on the length of the winning films, but it is normally around 90 minutes."
 screenings = "Howard Assembly Room, Sat 11 Nov 20:00"

@@ -90,7 +90,8 @@ function buildFrontmatter(data, screenings, notesField) {
   const runningTime = runningTimeBase && data.runtime_notes === 'approx'
     ? `${runningTimeBase} (approx)`
     : runningTimeBase;
-  const strand = data.program || data.section || null;
+  const strand = data.section || null;
+  const substrand = data.program || null;
   const bbfcRating = parseBbfc(data.certification);
   const subtitles = data.subtitles || null;
   const presenter = data.presenter || null;
@@ -108,6 +109,7 @@ function buildFrontmatter(data, screenings, notesField) {
     ['subtitles', subtitles],
     ['presenter', presenter],
     ['strand', strand],
+    ['substrand', substrand],
     ['bbfc-rating', bbfcRating],
     ['notes', notesField],
     ['runtime-notes', runtimeNotes],

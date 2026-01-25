@@ -20,7 +20,8 @@ country = "Country A, Country B"
 language = "Language A, Language B"
 subtitles = "English"
 presenter = "Presenter Name"
-strand = "Program / Section"
+strand = "Section"
+substrand = "Program"
 bbfc-rating = "15"
 notes = "Additional notes"
 runtime-notes = "Additional runtime context"
@@ -35,7 +36,8 @@ Synopsis text...
 - `languages` -> `language` (comma-joined).
 - `year` or `years` -> `production-year` (max of `years` when only array exists).
 - `runtime_minutes` -> `running-time` (append `(approx)` when `runtime_notes` is `"approx"`).
-- `section` / `program` -> `strand` (prefer `program`).
+- `section` -> `strand`.
+- `program` -> `substrand`.
 - `certification` -> `bbfc-rating` (normalized from `Cert`/`BBFC Certificate` variants).
 - `venue_screenings` -> `screenings` (grouped by venue with `&`, venues separated by ` | `; `notes` starting with “Free” become `FREE` segments).
 - `subtitles`, `presenter`, `notes`, and `runtime-notes` are preserved as extra frontmatter fields when present.

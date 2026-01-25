@@ -30,3 +30,6 @@ Step 7 notes:
 
 Step 8 notes:
 - Updated cert parsing in `workbench/convert-2023.js` to normalize `Cert`/`BBFC Certificate` variants to clean ratings (e.g., `PG`, `15`, `12A`).
+
+Update:
+- `section` now maps to `strand`, and `program` maps to `substrand` in `workbench/convert-2023.js`.
