@@ -8,23 +8,20 @@ This repository uses Playwright visual regression tests with golden screenshots 
 - Chromium installed for Playwright: `npx playwright install chromium --with-deps`
 
 ## Update Goldens
-1. Start the Hugo server via Docker (matches repo tooling):
+1. Start the Hugo server locally in another terminal:
    ```bash
-   docker-compose up -d website
+   hugo serve -D -s hugo
    ```
 2. Run the snapshot update:
    ```bash
    npm run test:update
    ```
-3. Verify new snapshots in `tests/visual-regression.spec.js-snapshots/`.
+3. Verify new snapshots in `tests/visual-regression.spec.js-snapshots/{Desktop-Chrome,Mobile-Chrome}/`.
 4. Optionally review with the HTML report:
    ```bash
    npx playwright show-report
    ```
-5. Stop the Docker server when finished:
-   ```bash
-   docker-compose down
-   ```
+5. Stop the Hugo server when finished.
 6. Commit updated snapshots alongside any content changes.
 
 ## Troubleshooting
@@ -32,5 +29,6 @@ This repository uses Playwright visual regression tests with golden screenshots 
   ```bash
   npx playwright install chromium --with-deps
   ```
+- If Hugo isn't installed locally, install it or use an existing running server and set `PLAYWRIGHT_SKIP_WEB_SERVER=1`.
 - If the web server already exists, Playwright will reuse it automatically.
 - If there are unexpected diffs, review the report diffs before committing.

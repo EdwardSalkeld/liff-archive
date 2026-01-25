@@ -4,6 +4,17 @@ const { defineConfig, devices } = require('@playwright/test');
 /**
  * @see https://playwright.dev/docs/test-configuration
  */
+const baseURL = process.env.PLAYWRIGHT_BASE_URL || 'http://localhost:1313';
+const skipWebServer = process.env.PLAYWRIGHT_SKIP_WEB_SERVER === '1';
+const webServer = skipWebServer
+  ? undefined
+  : {
+      command: 'cd hugo && hugo serve -D',
+      url: baseURL,
+      reuseExistingServer: !process.env.CI,
+      timeout: 120 * 1000,
+    };
+
 module.exports = defineConfig({
   testDir: './tests',
   
@@ -28,28 +39,26 @@ module.exports = defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Base URL to use in actions like `await page.goto('/')`. */
-    baseURL: 'http://localhost:1313',
+    baseURL,
     
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
   },
 
-  /* Configure snapshot path template to exclude platform */
-  snapshotPathTemplate: '{testDir}/{testFileDir}/{testFileName}-snapshots/{arg}{ext}',
-
   /* Configure projects for major browsers */
   projects: [
     {
-      name: 'chromium',
+      name: 'Desktop-Chrome',
       use: { ...devices['Desktop Chrome'] },
+    },
+    {
+      name: 'Mobile-Chrome',
+      use: { ...devices['Pixel 5'] },
     },
   ],
 
   /* Run your local dev server before starting the tests */
-  webServer: {
-    command: 'cd hugo && hugo serve -D',
-    url: 'http://localhost:1313',
-    reuseExistingServer: !process.env.CI,
-    timeout: 120 * 1000,
-  },
+  webServer,
+
+  snapshotPathTemplate: '{testDir}/visual-regression.spec.js-snapshots/{projectName}/{arg}',
 });
