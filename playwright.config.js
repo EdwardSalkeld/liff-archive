@@ -59,6 +59,5 @@ module.exports = defineConfig({
 
   /* Run your local dev server before starting the tests */
   webServer,
-
-  snapshotPathTemplate: '{testDir}/visual-regression.spec.js-snapshots/{projectName}/{arg}',
+  snapshotPathTemplate: '{testDir}/visual-regression.spec.js-snapshots/{projectName}/{arg}{ext}',
 });

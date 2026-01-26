@@ -16,7 +16,7 @@ This repository uses Playwright visual regression tests with golden screenshots 
    ```bash
    npm run test:update
    ```
-3. Verify new snapshots in `tests/visual-regression.spec.js-snapshots/{Desktop-Chrome,Mobile-Chrome}/`.
+3. Verify new snapshots in `tests/visual-regression.spec.js-snapshots/{Desktop-Chrome,Mobile-Chrome}/` (e.g., `home.png`, `about.png`).
 4. Optionally review with the HTML report:
    ```bash
    npx playwright show-report
