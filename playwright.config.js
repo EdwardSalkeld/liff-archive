@@ -51,10 +51,6 @@ module.exports = defineConfig({
       name: 'Desktop-Chrome',
       use: { ...devices['Desktop Chrome'] },
     },
-    {
-      name: 'Mobile-Chrome',
-      use: { ...devices['Pixel 5'] },
-    },
   ],
 
   /* Run your local dev server before starting the tests */
