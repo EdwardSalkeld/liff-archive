@@ -55,7 +55,7 @@ npm run test:update
 
 This will:
 1. Take new screenshots of all pages
-2. Update the golden images in `tests/visual-regression.spec.js-snapshots/`
+2. Update the golden images in `tests/visual-regression.spec.js-snapshots/Desktop-Chrome/` (e.g., `home.png`, `about.png`)
 3. You must commit the updated snapshots to your branch
 
 ### Viewing Test Reports

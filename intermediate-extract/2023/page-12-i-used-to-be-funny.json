@@ -1,0 +1,35 @@
+{
+  "title": "I Used to Be Funny",
+  "page": "page-12.pdf",
+  "section": "Official Selection",
+  "program": "LIFF 2023 Competition",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Thu 9 Nov",
+      "time": "15:15"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Mon 13 Nov",
+      "time": "13:30"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Fri 17 Nov",
+      "time": "15:15"
+    }
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "year": 2023,
+  "runtime_minutes": 105,
+  "synopsis": "An exceptional filmmaking debut from writer/director Ally Pankiw (Feel Good, The Great), featuring a knockout leading performance from rising star Rachel Sennott (Shiva Baby, Bottoms). Sennott stars as Sam Cowell, a stand-up comedian and nanny struggling with PTSD in the aftermath of a trauma. When she learns that Brooke (Olga Petsa), the teenage girl she used to care for has gone missing, Sam's past memories begin to flood her present. Pankiw effectively uses a non-linear narrative to unfold the friendship between Sam and Brooke, and gradually brings Sam's trauma to the surface.",
+  "directors": [
+    "Ally Pankiw"
+  ],
+  "languages": [
+    "English"
+  ]
+}

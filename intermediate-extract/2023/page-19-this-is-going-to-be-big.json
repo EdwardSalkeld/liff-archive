@@ -1,0 +1,36 @@
+{
+  "title": "This is Going to be Big",
+  "page": "page-19.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Fri 3 Nov",
+      "time": "16:30"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sat 4 Nov",
+      "time": "12:30"
+    },
+    {
+      "venue": "Hyde Park Screen Two",
+      "date_text": "Sun 12 Nov",
+      "time": "10:30"
+    }
+  ],
+  "notes": "The 10:30 screening is relaxed.",
+  "countries": [
+    "Australia"
+  ],
+  "year": 2023,
+  "runtime_minutes": 100,
+  "certification": "Cert PG",
+  "synopsis": "A funny and heartwarming documentary following a cast of neurodivergent teens as they prepare to hit the stage in their school's time-travelling musical, dedicated to the doyen of the 80s Aussie power ballad, John Farnham. For expressive overachiever Halle, it will be an opportunity to honour her late aunt, who loved to sing. For methodical Josh, it will be a challenge to take seriously, while wide-eyed Elyse is just happy to be involved. And for charismatic Chelsea, it will be a chance to wow an audience with her undeniable comedic skill.",
+  "directors": [
+    "Thomas Charles Hyland"
+  ],
+  "languages": [
+    "English"
+  ]
+}

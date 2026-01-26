@@ -1,0 +1,39 @@
+{
+  "title": "Leeds Music Video Competition",
+  "page": "page-29.pdf",
+  "section": "LIFF SHORTS",
+  "venue_screenings": [
+    {
+      "venue": "Howard Assembly Room",
+      "date_text": "Sat 11 Nov",
+      "time": "13:30"
+    },
+    {
+      "venue": "Chapel FM",
+      "date_text": "Wed 15 Nov",
+      "time": "19:00"
+    }
+  ],
+  "notes": "Free at Chapel FM.",
+  "countries": [
+    "Australia",
+    "Canada",
+    "France",
+    "Netherlands",
+    "UK",
+    "USA"
+  ],
+  "years": [
+    2022,
+    2023
+  ],
+  "runtime_minutes": 72,
+  "languages": [
+    "English",
+    "Dutch",
+    "French",
+    "Latin"
+  ],
+  "subtitles": "English",
+  "synopsis": "This year's Leeds Music Video Competition might be the most eclectic yet. Fantastic songs from a range of genres are set to an incredible variety of music videos, each of which invites you into its own unique visual world. Featuring tracks from OSEES, Madison McFerrin, Mawaan Rizwan, Cecile McLorin Salvant, foxwedding, Water From Your Eyes, Zombie Zombie, Sahara Beck, Santino Browne and more. A perfect balance between pop and experimental approaches, you'll find impressively intricate animation alongside live action with elements of social satire, contemporary dance and powerful narrative storytelling."
+}

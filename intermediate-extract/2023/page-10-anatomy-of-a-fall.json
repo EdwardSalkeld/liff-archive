@@ -1,0 +1,37 @@
+{
+  "title": "Anatomy of a Fall",
+  "page": "page-10.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sat 4 Nov",
+      "time": "20:00"
+    },
+    {
+      "venue": "Cottage Road",
+      "date_text": "Sun 5 Nov",
+      "time": "13:15"
+    },
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Mon 6 Nov",
+      "time": "20:00"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "year": 2023,
+  "runtime_minutes": 150,
+  "languages": [
+    "French",
+    "German",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "In the snowy French Alps a man falls to his death from an upper-storey window. There are no apparent witnesses but some evidence that suggests foul play. Novelist Sandra (Sandra Huller), the man's wife, is the only suspect. Sandra defends herself and her life, personality, sexuality, even her art are put under increasing scrutiny. What emerges in Anatomy of a Fall is a gripping, brainy and dynamic courtroom drama that explores performance, gender, and the ways we use language in relationships. Winner of the Palme d'Or at the 2023 Cannes Film Festival.",
+  "directors": [
+    "Justine Triet"
+  ]
+}

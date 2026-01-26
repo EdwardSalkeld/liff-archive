@@ -1,0 +1,37 @@
+{
+  "title": "The Queen of My Dreams",
+  "page": "page-13.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Fri 10 Nov",
+      "time": "16:00"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sat 11 Nov",
+      "time": "11:00"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Tue 14 Nov",
+      "time": "18:00"
+    }
+  ],
+  "countries": [
+    "Canada",
+    "Pakistan"
+  ],
+  "year": 2023,
+  "runtime_minutes": 97,
+  "languages": [
+    "Urdu",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "Azra, a Pakistani woman living in Toronto, is worlds apart from her conservative Muslim mother. When her father suddenly dies on a trip home to Pakistan, Azra finds herself on a Bollywood-inspired journey through memories, both real and imagined, from her mother's youth in Karachi to her own coming-of-age in rural Canada. Fawzia Mirza's vibrant, energetic first feature film explores the chasm between individual desires and cultural expectations, fluidly slipping between the textures of Indian cinema and the concerns of a coming-of-age film.",
+  "directors": [
+    "Fawzia Mirza"
+  ]
+}

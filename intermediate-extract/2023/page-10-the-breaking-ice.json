@@ -1,0 +1,36 @@
+{
+  "title": "The Breaking Ice",
+  "page": "page-10.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Fri 10 Nov",
+      "time": "18:30"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Fri 17 Nov",
+      "time": "16:00"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sat 18 Nov",
+      "time": "20:45"
+    }
+  ],
+  "countries": [
+    "China",
+    "Singapore"
+  ],
+  "year": 2023,
+  "runtime_minutes": 97,
+  "languages": [
+    "Chinese"
+  ],
+  "subtitles": "English",
+  "synopsis": "In cold wintry Yanji, a city on China's northern border, young urbanite Haofeng, visiting from Shanghai, feels lost and adrift. By chance, he goes on a tour led by Nana, a charming tour guide who instantly fascinates him. She introduces him to Xiao, a personable but frustrated restaurant worker. The three bond quickly over a drunken weekend. Confronting their individual traumas, their frozen desires slowly thaw as they seek to liberate themselves from an icy world. Singaporean filmmaker Anthony Chen's The Breaking Ice is a free-spirited and compelling portrait of modern Chinese youth.",
+  "directors": [
+    "Anthony Chen"
+  ]
+}

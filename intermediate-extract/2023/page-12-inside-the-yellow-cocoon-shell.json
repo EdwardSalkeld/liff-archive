@@ -1,0 +1,34 @@
+{
+  "title": "Inside the Yellow Cocoon Shell",
+  "page": "page-12.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sun 12 Nov",
+      "time": "13:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Wed 15 Nov",
+      "time": "13:00"
+    }
+  ],
+  "countries": [
+    "Vietnam",
+    "France",
+    "Singapore",
+    "Spain"
+  ],
+  "year": 2023,
+  "runtime_minutes": 182,
+  "subtitles": "English",
+  "synopsis": "Inside the Yellow Cocoon Shell is a mesmerising spiritual road movie haunted by the beautiful landscapes of rural Vietnam. The film begins in lively, chaotic Saigon as the brooding Thien witnesses a fatal motorcycle accident. His sister in law is one of the victims and Thien is tasked with childcare duties for his 5-year-old nephew Dao. The pair gradually form an awkward alliance as they head deep into the countryside in search of the boy's father. Director Pham Thien crafts a richly cinematic, multi-layered sensory experience and a moving meditation on loss and grief.",
+  "directors": [
+    "Thien An Pham"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Kim's Video",
+  "page": "page-35.pdf",
+  "section": "Cinema Amour",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen Two",
+      "date_text": "Wed 15 Nov",
+      "time": "18:00"
+    },
+    {
+      "venue": "Stockroom Cinema",
+      "date_text": "Sat 18 Nov",
+      "time": "18:00"
+    }
+  ],
+  "notes": "Free at Stockroom Cinema.",
+  "directors": [
+    "David Redmon",
+    "Ashley Sabin"
+  ],
+  "countries": [
+    "USA"
+  ],
+  "year": 2023,
+  "runtime_minutes": 85,
+  "languages": [
+    "English",
+    "Italian",
+    "Korean"
+  ],
+  "subtitles": "English",
+  "synopsis": "David Redmon and Ashley Sabin's playful documentary tells the strange story of the legendary New York Video Shop, Kim's Video. Playing with cinematic genres from cinema verite to heist movie, the filmmakers set out to track down its lost archive of 55,000 tapes ending up in the unlikely location of Salemi, a small village in Sicily. Despite an initial bid to use it to boost tourism, the collection's whereabouts are shrouded in mystery. A source of film education for scores of enthusiastic ex-members, the filmmakers use their quixotic quest to fashion an ode to the love of cinema."
+}

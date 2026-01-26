@@ -1,0 +1,38 @@
+{
+  "title": "Inshallah a Boy",
+  "page": "page-12.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Fri 3 Nov",
+      "time": "18:15"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Mon 6 Nov",
+      "time": "17:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Tue 7 Nov",
+      "time": "15:15"
+    }
+  ],
+  "countries": [
+    "Jordan",
+    "France",
+    "Saudi Arabia",
+    "Qatar"
+  ],
+  "year": 2023,
+  "runtime_minutes": 113,
+  "subtitles": "English",
+  "synopsis": "Nawal has just lost her husband but has no time to grieve. Under the laws of Jordan, she must give her dead husband's brother part of the inheritance, something that she cannot afford to do. And if Nawal had a son and not a daughter, she would have to do no such thing. Determined to find some other way around, Nawal fakes a pregnancy and becomes embroiled in a steely legal fight. A feisty slice of social cinema, this charts the everyday pressures on ordinary Jordanians with a gritty tension.",
+  "directors": [
+    "Amjad Al Rasheed"
+  ],
+  "languages": [
+    "Arabic"
+  ]
+}

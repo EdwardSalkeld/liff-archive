@@ -1,0 +1,30 @@
+{
+  "title": "Your Fat Friend",
+  "page": "page-19.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Tue 7 Nov",
+      "time": "20:30"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Wed 8 Nov",
+      "time": "13:30"
+    }
+  ],
+  "countries": [
+    "UK",
+    "USA"
+  ],
+  "year": 2023,
+  "runtime_minutes": 96,
+  "synopsis": "In 2016, Aubrey Gordon wrote a candid letter about living as a fat person. Posted online under the pseudonym Your Fat Friend, it resonated around the world, and so began the journey from anonymous blogger to inspirational queer fat activist. Shot over six years, Jeanie Finlay presents a warm portrait of her life and incredible rise through much success, and criticism. Winner of audience awards at film festivals around the world, Your Fat Friend is a funny, insightful and frank look at a unique voice challenging the perceptions of fat people in modern society and the capitalism of body positivity.",
+  "directors": [
+    "Jeanie Finley"
+  ],
+  "languages": [
+    "English"
+  ]
+}

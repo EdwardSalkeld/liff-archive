@@ -1,0 +1,30 @@
+{
+  "title": "The Train",
+  "page": "page-33.pdf",
+  "section": "Thrill Rides",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Mon 6 Nov",
+      "time": "13:00"
+    }
+  ],
+  "directors": [
+    "John Frankenheimer",
+    "Arthur Penn"
+  ],
+  "countries": [
+    "France",
+    "Italy",
+    "USA"
+  ],
+  "year": 1964,
+  "runtime_minutes": 133,
+  "languages": [
+    "English",
+    "German"
+  ],
+  "subtitles": "English",
+  "certification": "BBFC Cert U",
+  "synopsis": "France, 1944. Art lover and fanatical Nazi Colonel Von Waldheim has plundered a Paris museum for its masterpieces. His intention is to have them transported by rail to Berlin, but one man stands in his way. Aware that the Allied forces are fast approaching the French capital, Resistance fighter Labiche need only stall the train for a few more days, but he'll have to use all his wits and skills to do so. The Train combines star power - Burt Lancaster (Labiche), Paul Scofield (Von Waldheim), Jeanne Moreau and Michel Simon - with spectacular action sequences to produce a classic war movie."
+}

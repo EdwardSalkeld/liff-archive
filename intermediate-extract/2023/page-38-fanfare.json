@@ -1,0 +1,32 @@
+{
+  "title": "Fanfare",
+  "page": "page-38.pdf",
+  "section": "Rear View",
+  "program": "Dutch Discoveries",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sat 4 Nov",
+      "time": "10:30"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sun 5 Nov",
+      "time": "14:15"
+    }
+  ],
+  "countries": [
+    "Netherlands"
+  ],
+  "year": 1958,
+  "runtime_minutes": 86,
+  "languages": [
+    "Dutch"
+  ],
+  "subtitles": "English",
+  "certification": "BBFC Cert U",
+  "synopsis": "With slapstick hijinks and sabotage aplenty, this timeless classic comedy from 1958 is a gleeful delight. In an idyllic rural village, the local brass band is preparing to play the regional concert finals. When a feud between two musicians reaches breaking point, they split into rival factions and fiercely compete to gain the most members in their respective bands, with hilarious results. Documentarian Bert Haanstra's first foray into fiction is one of the most iconic and beloved Dutch films of all time, and deserves to be better known outside of its home country.",
+  "directors": [
+    "Bert Haanstra"
+  ]
+}

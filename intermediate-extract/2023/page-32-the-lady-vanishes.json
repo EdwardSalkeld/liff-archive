@@ -1,0 +1,30 @@
+{
+  "title": "The Lady Vanishes",
+  "page": "page-32.pdf",
+  "section": "Thrill Rides",
+  "venue_screenings": [
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Fri 3 Nov",
+      "time": "14:00"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Wed 8 Nov",
+      "time": "10:30"
+    }
+  ],
+  "directors": [
+    "Alfred Hitchcock"
+  ],
+  "countries": [
+    "UK"
+  ],
+  "year": 1938,
+  "runtime_minutes": 96,
+  "languages": [
+    "English"
+  ],
+  "certification": "BBFC Cert U",
+  "synopsis": "Alfred Hitchcock's second-to-last British film before setting sail for Hollywood, The Lady Vanishes is one of Hitchcock's most delightfully crafty thrillers. Travelling across Europe by train, Iris (Margaret Lockwood) meets a charming older passenger (Dame May Whitty), who then seems to disappear into thin air. Iris turns investigator and finds herself drawn into a complex web of intrigue and adventure on the rails. Also starring Michael Redgrave, The Lady Vanishes is one of the earliest Hitchcock films to relish in the dramatic constraints of train travel."
+}

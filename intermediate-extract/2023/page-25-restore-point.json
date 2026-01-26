@@ -1,0 +1,34 @@
+{
+  "title": "Restore Point",
+  "page": "page-25.pdf",
+  "section": "Fanomenon",
+  "program": "Fanorama / Sci-Fi Day",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Fri 3 Nov",
+      "time": "18:30"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sat 4 Nov",
+      "time": "13:15"
+    }
+  ],
+  "countries": [
+    "Czech Republic",
+    "Slovakia",
+    "Poland",
+    "Serbia"
+  ],
+  "year": 2023,
+  "runtime_minutes": 111,
+  "languages": [
+    "Czech"
+  ],
+  "subtitles": "English",
+  "synopsis": "Prague, 2041. Humanity has reached the stage where it can cheat death. Anyone who dies an unnatural death has the right to be brought back to life, as long as you create a backup of your personality - a restore point - at least every 48 hours. But there is an underground movement that wants to sabotage this right. Agent Em finds herself drawn into a case that is not as simple as it first seemed and its consequences are far reaching. Robert Hloz's first feature film is a captivating futuristic crime thriller and an exciting new addition to ambitious European sci-fi filmmaking.",
+  "directors": [
+    "Robert Hloz"
+  ]
+}

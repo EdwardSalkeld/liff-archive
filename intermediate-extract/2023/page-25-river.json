@@ -1,0 +1,36 @@
+{
+  "title": "River",
+  "page": "page-25.pdf",
+  "section": "Fanomenon",
+  "program": "Planet Japan / Sci-Fi Day",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sat 4 Nov",
+      "time": "11:00"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Mon 6 Nov",
+      "time": "20:45"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sun 12 Nov",
+      "time": "10:30"
+    }
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "year": 2023,
+  "runtime_minutes": 86,
+  "languages": [
+    "Japanese"
+  ],
+  "subtitles": "English",
+  "synopsis": "From the makers of cult festival hit Beyond the Infinite Two Minutes, River is another exhilarating and endlessly inventive time-looping sci-fi delight. The setting this time is the century-old Fujiya inn in Kyoto. Mikoto, a waitress at Fujiya, is taking a break in front of the Kibune river next to the inn when she is called back to work. But two minutes later, she finds herself back at the river again. Not only Mikoto, but also the other staff and the guests all begin to feel something strange is going on. They seem to be 'looping'. Every two minutes.",
+  "directors": [
+    "Junta Yamaguchi"
+  ]
+}

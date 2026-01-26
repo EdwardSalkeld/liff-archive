@@ -1,0 +1,38 @@
+{
+  "title": "Strangers on a Train",
+  "page": "page-33.pdf",
+  "section": "Thrill Rides",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sat 4 Nov",
+      "time": "11:15"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Wed 8 Nov",
+      "time": "12:45"
+    },
+    {
+      "venue": "Stockroom Cinema",
+      "date_text": "Sat 18 Nov",
+      "time": "13:45"
+    }
+  ],
+  "notes": "Free at Stockroom Cinema.",
+  "countries": [
+    "USA"
+  ],
+  "year": 1951,
+  "runtime_minutes": 101,
+  "languages": [
+    "English",
+    "French"
+  ],
+  "subtitles": "English",
+  "certification": "BBFC Cert 15",
+  "synopsis": "Adapted from Patricia Highsmith's novel released the year before, Strangers on a Train features some of Alfred Hitchcock's most iconic train sequences. The hook is ingenious: two strangers, Bruno and Guy (Farley Granger, Robert Walker), meet on a train and inadvertently agree to 'swap' murders to insure neither of them are implicated. As the plan quickly unravels, revealing startling and exhilarating consequences, Strangers on a Train turns into a breakneck ride of tense thrills that has remained unsurpassed. In fact, you might want to reconsider talking to fellow passengers the next time you journey on public transport.",
+  "directors": [
+    "Alfred Hitchcock"
+  ]
+}

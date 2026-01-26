@@ -1,0 +1,36 @@
+{
+  "title": "Apolonia, Apolonia",
+  "page": "page-17.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Mon 6 Nov",
+      "time": "20:30"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Tue 7 Nov",
+      "time": "15:30"
+    }
+  ],
+  "countries": [
+    "Denmark",
+    "Poland",
+    "France"
+  ],
+  "year": 2022,
+  "runtime_minutes": 116,
+  "languages": [
+    "Danish",
+    "French",
+    "Polish",
+    "Russian",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "In this mesmerising portrait of a young woman pursuing her art, Lea Glob follows painter Apolonia Sokol over the span of thirteen years, from her studies at the prestigious Beaux-Arts de Paris, through her struggles for recognition and financial stability. Growing up in a run-down Parisian theatre founded by her parents, the romanticism of Apolonia's early years brings her into contact with a variety of artists and activists, including Oksana Shachko, one of the founders of feminist activist group Femen. As the years pass, and the bond between the director and subject deepens, the film evolves into a complex and intimate view on creativity, loss and life.",
+  "directors": [
+    "Lea Glob"
+  ]
+}

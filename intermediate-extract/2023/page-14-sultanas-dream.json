@@ -1,0 +1,36 @@
+{
+  "title": "Sultana's Dream",
+  "page": "page-14.pdf",
+  "section": "Official Selection",
+  "program": "LIFF 2023 Competition",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Thu 9 Nov",
+      "time": "18:00"
+    },
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Sat 11 Nov",
+      "time": "15:45"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "Spain"
+  ],
+  "year": 2023,
+  "runtime_minutes": 80,
+  "languages": [
+    "Spanish",
+    "Hindi",
+    "Basque",
+    "Bengali",
+    "English"
+  ],
+  "subtitles": "English",
+  "synopsis": "Isabel Herguera's enchanting debut animation follows Ines, a young Spanish director on a voyage of self-discovery in India. After ending things with her casual lover, she discovers the famed 1905 feminist text Sultana's Dream, a sci-fi tale about the alternative world of 'Ladyland' where women live without violence. Setting out to find this fictional utopia, Ines encounters suppression and stigma, leading her to question how much has really changed in the last century. Watercolour backgrounds, cut-out animation and an animated ode to Mehndi tattoos blend together to create a visual odyssey on the transformative power of dreams.",
+  "directors": [
+    "Isabel Herguera"
+  ]
+}

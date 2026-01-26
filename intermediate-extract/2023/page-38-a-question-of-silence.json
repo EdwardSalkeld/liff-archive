@@ -1,0 +1,33 @@
+{
+  "title": "A Question of Silence",
+  "page": "page-38.pdf",
+  "section": "Rear View",
+  "program": "Dutch Discoveries",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sat 4 Nov",
+      "time": "14:45"
+    },
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Mon 6 Nov",
+      "time": "13:00"
+    }
+  ],
+  "countries": [
+    "Netherlands"
+  ],
+  "year": 1982,
+  "runtime_minutes": 92,
+  "languages": [
+    "Dutch",
+    "English"
+  ],
+  "subtitles": "English",
+  "certification": "BBFC Cert 15",
+  "synopsis": "In this powerful and provocative film from 1982, three women with no prior acquaintance brutally murder a male shop owner in broad daylight, as bystanders watch in silence. When the women are put on trial, the court-appointed psychiatrist tries to understand why, and her findings implicate the systemic misogyny present in every aspect of the women's lives, and men's refusal to see it. Balancing a realistic style with a sense of symbolism, Dutch director Marleen Gorris' debut film is a nuanced and thought-provoking feminist work that still has the power to shock.",
+  "directors": [
+    "Marleen Gorris"
+  ]
+}

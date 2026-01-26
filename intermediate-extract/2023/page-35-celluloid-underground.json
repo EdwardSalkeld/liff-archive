@@ -1,0 +1,31 @@
+{
+  "title": "Celluloid Underground",
+  "page": "page-35.pdf",
+  "section": "Cinema Amour",
+  "venue_screenings": [
+    {
+      "venue": "Everyman Screen 4",
+      "date_text": "Sat 11 Nov",
+      "time": "20:15"
+    },
+    {
+      "venue": "Hyde Park Screen Two",
+      "date_text": "Tue 14 Nov",
+      "time": "18:00"
+    }
+  ],
+  "countries": [
+    "UK"
+  ],
+  "year": 2023,
+  "runtime_minutes": 80,
+  "languages": [
+    "English",
+    "Persian"
+  ],
+  "subtitles": "English",
+  "synopsis": "A powerful documentary celebrating the liberating power of celluloid dreams. Director Ehsan Khoshbakht grew up in Iran after the 1979 revolution when most films were banned. As a film obsessed student, he met an underground film collector who had hidden thousands of 35mm prints from destruction by the fundamentalist fanatics, refusing to give up his hoard despite arrest and torture. They became partners in crime until Ehsan escaped to a new life in the west and became one of the world's leading film curators. Years later on hearing of his friend's death, he has crafted this elegiac, cinematic tribute.",
+  "directors": [
+    "Ehsan Khoshbakht"
+  ]
+}

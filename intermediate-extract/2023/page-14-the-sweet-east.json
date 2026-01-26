@@ -1,0 +1,34 @@
+{
+  "title": "The Sweet East",
+  "page": "page-14.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Fri 3 Nov",
+      "time": "20:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sun 5 Nov",
+      "time": "12:15"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Thu 9 Nov",
+      "time": "20:45"
+    }
+  ],
+  "countries": [
+    "USA"
+  ],
+  "year": 2023,
+  "runtime_minutes": 104,
+  "synopsis": "Talia Ryder, Jacob Elordi, Ayo Edibiri and an ensemble of up-and-coming talent star in this electric directorial debut from renowned cinematographer Sean Price Williams (Good Time, Funny Pages). Teenager Lillian gets separated from her classmates during a field trip to Washington DC after a local anarchist saves her from an active-shooter situation. From here, she embarks on a bizarre road trip across America, encountering smug pseudo-intellectuals, insufferable wannabe auteurs and a gang of Neo-Nazis. A scuzzy exploration of the dark side of American culture and contemporary radicalism, executed with a sharply witty script and dreamlike lens.",
+  "directors": [
+    "Sean Price Williams"
+  ],
+  "languages": [
+    "English"
+  ]
+}

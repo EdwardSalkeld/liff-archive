@@ -1,0 +1,29 @@
+{
+  "title": "Mutiny In Heaven: The Birthday Party",
+  "page": "page-18.pdf",
+  "section": "Cinema Versa",
+  "venue_screenings": [
+    {
+      "venue": "Howard Assembly Room",
+      "date_text": "Sun 12 Nov",
+      "time": "18:00"
+    },
+    {
+      "venue": "Hyde Park Screen One",
+      "date_text": "Tue 14 Nov",
+      "time": "20:30"
+    }
+  ],
+  "countries": [
+    "Australia"
+  ],
+  "year": 2023,
+  "runtime_minutes": 99,
+  "synopsis": "Mutiny in Heaven profiles one of the greatest cult rock bands of all time, Melbourne's The Birthday Party. Interviews with all the surviving members including famous frontman, Nick Cave, are spliced with unseen archive footage as the film traces the young band's roots in Australia, their initially ill fated defection to London and eventual chaotic success. Hair raising anecdotes testify to their reputation as one of the most incendiary live bands on the planet. They hit their creative peak in Berlin only to self-destruct soon afterwards, nonetheless influencing generations of other artists.",
+  "directors": [
+    "Ian White"
+  ],
+  "languages": [
+    "English"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "The Bikeriders",
+  "page": "page-10.pdf",
+  "section": "Official Selection",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Sun 5 Nov",
+      "time": "20:00"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Tue 7 Nov",
+      "time": "17:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Thu 9 Nov",
+      "time": "18:15"
+    }
+  ],
+  "countries": [
+    "USA"
+  ],
+  "year": 2023,
+  "runtime_minutes": 116,
+  "languages": [
+    "English"
+  ],
+  "synopsis": "Inspired by the work of renowned photographer Danny Lyon, Jeff Nichols' engrossing drama follows the rise and fall of a 1960s rebel motorcycle gang. Beginning as a refuge for outsiders, the gang, led by the levelheaded Johnny (Tom Hardy), takes a violent turn as Johnny loses control and his brooding, unpredictable right-hand man Benny (Austin Butler) becomes distracted. Featuring a star performance by Jodie Comer as straight-talking outsider Kathy, who finds herself both horrified and enamoured with the gang, The Bikeriders is an effortless blend of comedy, violence and romanticism set against a backdrop of sprawling Midwest America.",
+  "directors": [
+    "Jeff Nichols"
+  ]
+}

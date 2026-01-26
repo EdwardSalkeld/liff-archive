@@ -1,0 +1,29 @@
+{
+  "title": "Runaway Train",
+  "page": "page-33.pdf",
+  "section": "Thrill Rides",
+  "venue_screenings": [
+    {
+      "venue": "Vue Screen 11",
+      "date_text": "Wed 8 Nov",
+      "time": "17:45"
+    },
+    {
+      "venue": "Vue Screen 12",
+      "date_text": "Thu 16 Nov",
+      "time": "12:45"
+    }
+  ],
+  "countries": [
+    "USA"
+  ],
+  "year": 1985,
+  "runtime_minutes": 111,
+  "languages": [
+    "English"
+  ],
+  "synopsis": "Busting out of a maximum-security prison in Alaska, two hardened convicts - older, wilier Manny and young boxing champ Buck (John Voight and Eric Roberts, both nominated for Oscars) - head into the frozen tundra. They hop onto an Alaska Railroad EMD locomotive and are soon out of control, the brakes burned out and the train hurtling at increasing speed towards disaster. Produced by the 'none-more-'80s' Cannon Films but developed from a thoughtful Akira Kurosawa script that he wrote in the '60s, Runaway Train is a wild, teetering action cinema ride.",
+  "directors": [
+    "Andrey Konchalovskiy"
+  ]
+}
