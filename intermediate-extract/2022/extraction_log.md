@@ -60,4 +60,67 @@
 - Page 58 - extracted Dead Mint
 - Page 59 - extracted Dust and Metal
 - Page 60 - extracted Finite: The Climate of Change
+- Page 61 - extracted Geographies of Solitude
+- Page 62 - extracted God Said Give 'Em Drum Machines
+- Page 63 - extracted The Hamlet Syndrome
+- Page 64 - extracted Hello, Bookstore
+- Page 65 - extracted Loving Highsmith
+- Page 66 - extracted Matter Out of Place
+- Page 67 - extracted My Imaginary Country
+- Page 68 - extracted Myanmar Diaries
+- Page 69 - extracted On the Divide
+- Page 70 - extracted Rewind and Play
+- Page 71 - extracted Rookies
+- Page 72 - extracted Shove It: The Xero Slingsby Story
+- Page 73 - extracted The Star Wars Kid
+- Page 74 - extracted Belle River, Blind Spot, The Capacity for Adequate Anger
+- Page 75 - extracted Light Years, The Song of the Silenced
+- Page 76 - extracted Let's
+- Page 77 - skipped, single-title teaser page
+- Page 78 - skipped, section divider page
+- Page 79 - skipped, Fanomenon introduction page
+- Page 80 - extracted Anime Supremacy!
+- Page 81 - extracted Confession
+- Page 82 - extracted Daughters of Darkness
+- Page 83 - extracted Fast & Feel Love
+- Page 84 - extracted The Fifth Thoracic Vertebra
+- Page 85 - extracted Ganja & Hess
+- Page 86 - extracted Goodbye, Don Glees!
+- Page 87 - extracted The Harbinger
+- Page 88 - extracted Holy Spider
+- Page 89 - extracted Huesera
+- Page 90 - extracted Incredible But True
+- Page 91 - extracted La Pietà
+- Page 92 - extracted Medusa Deluxe
+- Page 93 - extracted New Normal
+- Page 94 - extracted Project Wolf Hunting
+- Page 95 - extracted Sadako DX
+- Page 96 - extracted Sick Of Myself
+- Page 97 - extracted The Uncle
+- Page 98 - extracted Unicorn Wars
+- Page 99 - extracted Viking
+- Page 100 - extracted Aves, Daylight Rules, Heartless
+- Page 101 - extracted Theatre, Time Tourists
+- Page 102 - extracted Cut, Deadline, Listen to Mother
+- Page 103 - extracted Mantis, Rise & Shine, The Rock of Ages
+- Page 104 - extracted South, Cashbag
+- Page 105 - skipped, single-title teaser page
+- Page 106 - skipped, section divider page
+- Page 107 - skipped, Leeds Short Film Awards introduction page
+- Page 108 - skipped, jury page
+- Page 109 - skipped, jury page
+- Page 110 - skipped, jury page
+- Page 111 - skipped, jury page
+- Page 112 - skipped, jury page
+- Page 113 - skipped, jury page
+- Page 114 - extracted Are You Still There?, Blue Note, Cherries
+- Page 115 - extracted Fairplay, Fire at the Lake, The Headhunter's Daughter
+- Page 116 - extracted The Invisible Border, Islands in the City, Joutel
+- Page 117 - extracted Khadiga, Live, Nest
 - Page 118 - extracted Not Today, The Patient and the Undersigned, Please Hold the Line
+- Page 119 - extracted Saboteur, Swan in the Centre, The Voice Actress
+- Page 120 - extracted The Water Murmurs, Tremor, Tsutsué
+- Page 121 - extracted What Remains, Why Does Helen Koch Commit Serious Vehicle Theft?
+- Page 122 - skipped, section divider page
+- Page 123 - extracted Above the Clouds, Bear Hug, The Bones
+- Page 124 - extracted Carnivorous Bean Sprout, Christopher at Sea, A Coconut Tree
