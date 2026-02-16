@@ -69,6 +69,7 @@ Read `references/field-mapping.md` for complete rules. Core mapping:
 - `languages` -> `language`
 - `section` -> `strand`
 - `program` -> `substrand`
+- short detection (`section` or `program` contains `short`, case-insensitive) -> `film-type = "short"`
 - `description` or `synopsis` -> markdown body
 
 Preserve additional useful keys (for example `screenwriter`, `producer`, `cast`, `premiere-status`, `original-title`, `print-source`, `notes`) when present.

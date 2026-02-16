@@ -30,6 +30,7 @@ Body text from description/synopsis.
 - `languages` -> `language` (join with `, `)
 - `section` -> `strand`
 - `program` -> `substrand`
+- if `section` or `program` contains `short` (case-insensitive) -> `film-type = "short"`
 - `description` or `synopsis` -> markdown body
 
 ## Additional Keys to Preserve

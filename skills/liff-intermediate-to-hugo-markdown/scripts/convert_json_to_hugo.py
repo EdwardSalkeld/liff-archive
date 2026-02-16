@@ -124,6 +124,12 @@ def format_quote_block(text: str) -> str:
     return "\n".join(out)
 
 
+def is_short_film(data: dict[str, Any]) -> bool:
+    section = str(data.get("section", "")).strip().lower()
+    program = str(data.get("program", "")).strip().lower()
+    return "short" in section or "short" in program
+
+
 def convert_one(data: dict[str, Any], source_filename: str) -> tuple[str, str, list[str]]:
     review_items: list[str] = []
 
@@ -154,6 +160,7 @@ def convert_one(data: dict[str, Any], source_filename: str) -> tuple[str, str, l
     mapped["premiere-status"] = str(data.get("premiere_status", "")).strip()
     mapped["strand"] = str(data.get("section", "")).strip()
     mapped["substrand"] = str(data.get("program", "")).strip()
+    mapped["film-type"] = "short" if is_short_film(data) else ""
     mapped["original-title"] = str(data.get("original_title", "")).strip()
     mapped["screenwriter"] = join_list(data.get("screenwriters")) or ""
     mapped["producer"] = join_list(data.get("producers")) or ""

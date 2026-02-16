@@ -7,6 +7,7 @@ country = "Netherlands"
 language = "English"
 strand = "Leeds Short Film Awards"
 substrand = "World Animation Competition"
+film-type = "short"
 print-source = "hiddewdevries@gmail.com"
 page-source = "page-126.pdf"
 +++

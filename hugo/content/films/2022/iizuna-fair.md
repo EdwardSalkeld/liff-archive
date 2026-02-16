@@ -7,6 +7,7 @@ country = "Japan"
 language = "No Dialogue"
 strand = "Leeds Short Film Awards"
 substrand = "World Animation Competition"
+film-type = "short"
 print-source = "info@sumitosakakibara.com"
 page-source = "page-125.pdf"
 +++

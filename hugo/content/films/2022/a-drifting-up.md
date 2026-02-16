@@ -6,6 +6,7 @@ production-year = "2022"
 country = "United Kingdom"
 strand = "Leeds Short Film Awards"
 substrand = "Leeds Screendance Competition"
+film-type = "short"
 print-source = "jacobjohnlee1@gmail.com"
 page-source = "page-144.pdf"
 +++
