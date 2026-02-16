@@ -112,6 +112,18 @@ def slug_from_json_name(filename: str) -> str:
     return slug
 
 
+def format_quote_block(text: str) -> str:
+    lines = text.strip().splitlines()
+    out: list[str] = []
+    for line in lines:
+        stripped = line.strip()
+        if stripped:
+            out.append(f"> {stripped}")
+        else:
+            out.append(">")
+    return "\n".join(out)
+
+
 def convert_one(data: dict[str, Any], source_filename: str) -> tuple[str, str, list[str]]:
     review_items: list[str] = []
 
@@ -159,14 +171,24 @@ def convert_one(data: dict[str, Any], source_filename: str) -> tuple[str, str, l
         else ""
     )
     mapped["screenings"] = build_screenings(data) or ""
-    mapped["quote"] = str(quote_text).strip() if isinstance(quote_text, str) else ""
-    mapped["quote-credit"] = str(quote_credit).strip() if isinstance(quote_credit, str) else ""
-
     body = ""
     if isinstance(data.get("description"), str) and data["description"].strip():
         body = data["description"].strip()
     elif isinstance(data.get("synopsis"), str) and data["synopsis"].strip():
         body = data["synopsis"].strip()
+
+    quote_text_value = str(quote_text).strip() if isinstance(quote_text, str) else ""
+    quote_credit_value = str(quote_credit).strip() if isinstance(quote_credit, str) else ""
+    if quote_text_value:
+        quote_block = format_quote_block(quote_text_value)
+        if body:
+            body = f"{body}\n\n{quote_block}"
+        else:
+            body = quote_block
+        if quote_credit_value:
+            body = f"{body}\n{quote_credit_value}"
+    elif quote_credit_value:
+        body = f"{body}\n\n{quote_credit_value}" if body else quote_credit_value
 
     handled = {
         "title",

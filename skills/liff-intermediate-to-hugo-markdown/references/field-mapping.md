@@ -45,8 +45,10 @@ Prefer preserving these as frontmatter when present:
 - `editors` -> `editor`
 - `cast` -> `cast`
 - `print_source` -> `print-source`
-- `quote.text` -> `quote`
-- `quote.credit` -> `quote-credit`
+- `quote.text` + `quote.credit` -> appended beneath body text as:
+  - blank line
+  - markdown blockquote line(s) for quote text
+  - plain credit line immediately after
 - `notes` -> `notes`
 - `page` -> `page-source`
 

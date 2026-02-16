@@ -71,7 +71,17 @@ Read `references/field-mapping.md` for complete rules. Core mapping:
 - `program` -> `substrand`
 - `description` or `synopsis` -> markdown body
 
-Preserve additional useful keys (for example `screenwriter`, `producer`, `cast`, `premiere-status`, `original-title`, `print-source`, `quote`, `quote-credit`, `notes`) when present.
+Preserve additional useful keys (for example `screenwriter`, `producer`, `cast`, `premiere-status`, `original-title`, `print-source`, `notes`) when present.
+
+Quote rendering rule:
+
+- If source has `quote.text`, append it below the blurb as a markdown blockquote.
+- If source has `quote.credit`, place it on the line immediately after the quote block.
+- Pattern:
+  - `blurb`
+  - blank line
+  - `> quote.text`
+  - `quote.credit`
 
 ### 4. Running Log Requirements
 
