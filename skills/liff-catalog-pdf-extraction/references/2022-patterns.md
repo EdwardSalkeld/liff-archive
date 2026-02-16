@@ -89,3 +89,14 @@ Language parsing:
 Cast parsing:
 
 - Map both `Leading Cast` and `Key Cast` to `cast`
+
+Crew parsing:
+
+- Map `Cinematographer` to `cinematographers`
+- Map `Editor` to `editors`
+
+Description parsing:
+
+- Capture the main film blurb as `description`
+- Preserve paragraph breaks where possible
+- Exclude director interview quotes from `description`; place them in `notes` when retained

@@ -84,7 +84,7 @@ Layout A (`feature_page`):
 
 - Usually one film per page.
 - Metadata labels in a right column (`Countries`, `Year`, `Running Time`, etc.).
-- Synopsis paragraph(s) on the left.
+- Main description paragraph(s) on the left.
 
 Layout B (`shorts_grid_page`):
 
@@ -122,11 +122,13 @@ Emit this schema (omit absent fields):
   "directors": ["Charlotte Wells"],
   "screenwriters": ["July Jung"],
   "producers": ["Dong-ha Kim", "Ji-yeon Kim"],
+  "cinematographers": ["Gregory Oke"],
+  "editors": ["Blair McClendon"],
   "cast": ["Paul Mescal", "Frankie Corio"],
   "premiere_status": "UK",
   "original_title": "Die unsichtbare Grenze",
   "print_source": "MUBI",
-  "synopsis": "Film summary text...",
+  "description": "Main blurb text with paragraph breaks preserved.",
   "notes": "Optional quote, presenter note, or unstructured remainder."
 }
 ```
@@ -140,10 +142,11 @@ Rules:
 - Parse runtime into integer minutes (`2hr 14min` => `134`, `95min` => `95`).
 - Parse language list into `languages`.
 - If `with subtitles` appears, put subtitle language in `subtitles` and remove that phrase from `languages`.
-- Parse `Director`, `Screenwriter`, `Producer`, `Leading Cast`/`Key Cast` into arrays.
+- Parse `Director`, `Screenwriter`, `Producer`, `Cinematographer`, `Editor`, and `Leading Cast`/`Key Cast` into arrays.
 - Keep `section` from page heading; infer from page range only when heading is missing.
 - Keep `program` for competition names (for example `International Short Film Competition`).
-- Keep `synopsis` as plain text only; do not include metadata labels in synopsis.
+- Keep `description` as plain text only; preserve paragraph breaks where possible.
+- Put only the main film blurb in `description`. Move director interview quotes or other secondary text to `notes` if captured.
 
 ### Pass 6: Write Deterministic Filenames
 
@@ -168,11 +171,11 @@ jq empty intermediate-extract/2022/*.json
 
 Run content checks and add failures to `review_queue.md`:
 
-- Missing `title`, `section`, or `synopsis`.
+- Missing `title`, `section`, or `description`.
 - `runtime_minutes` outside 1-400.
 - Year values outside 1888-2100.
-- Synopsis still contains obvious metadata tokens like `Running Time`, `Director`, `Print Source`.
-- Very short synopsis (`<40` chars) unless clearly valid.
+- Description still contains obvious metadata tokens like `Running Time`, `Director`, `Print Source`.
+- Very short description (`<40` chars) unless clearly valid.
 
 ### Pass 8: Log Outcome
 
