@@ -1,0 +1,22 @@
++++
+title = "We Might as Well Be Dead"
+director = "Natalia Sinelnikova"
+running-time = "93 mins"
+production-year = "2022"
+country = "Germany"
+language = "German"
+strand = "Official Selection"
+substrand = "New Directors Competition"
+screenwriter = "Viktor Gallandi, Natalia Sinelnikova"
+producer = "Charlene Gürntke, Ioana Iacob, Julia Wagner"
+cinematographer = "Jan Mayntz"
+editor = "Evelyn Rack"
+cast = "Ioana Iacob, Pola Geiger, Jörg Schüttauf"
+print-source = "Fortissimo"
+page-source = "page-49.pdf"
++++
+Natalia Sinelnikova's remarkable graduation film, is a razor-sharp dystopian satire set in a gated tower block. Inside, Anna works as a security officer for the residents who have a deep rooted fear of the outside world. The sudden disappearance of a dog causes panic and paranoia to spread around the community. When a newly formed vigilante group demands stricter security measures and a renewed vetting process, Anna begins to fear for her right to stay. Meanwhile Anna's daughter has locked herself in the bathroom, convinced she is possessed by an ancestral spirit.
+
+> It all started with the high-rise building that we picked for our location. I grew up in a high-rise myself, and those kinds of buildings really fascinate me. People live in close quarters but in total anonymity. It's quite exciting to observe how they behave and how they interact with each other in the lift or the staircase. So we had our location, and when we were developing the script with my co-writer, Viktor Gallandi, a story slowly emerged around the question of fear: fear of the unfamiliar, but also fear of others.
+
+Director Natalia Sinelnikova, from an interview with Cineuropa.

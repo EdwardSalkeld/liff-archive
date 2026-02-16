@@ -1,0 +1,194 @@
+# Extraction Log
+
+- Page 01 - skipped, no text content
+- Page 02 - skipped, cover/branding page
+- Page 03 - skipped, introduction and contents page
+- Page 04 - skipped, full-page section teaser/art image
+- Page 05 - skipped, partners page
+- Page 06 - skipped, team/credits page
+- Page 07 - skipped, team page
+- Page 08 - skipped, section divider page
+- Page 09 - skipped, Official Selection introduction page
+- Page 10 - extracted Aftersun
+- Page 11 - extracted Alcarràs
+- Page 12 - extracted America
+- Page 13 - extracted Baby Pyramid
+- Page 14 - extracted The Blue Caftan
+- Page 15 - extracted Blue Jean
+- Page 16 - extracted Brief Encounters
+- Page 17 - extracted Broker
+- Page 18 - extracted Casque d’Or
+- Page 19 - extracted Close
+- Page 20 - extracted Corsage
+- Page 21 - extracted Everybody Loves Jeanne
+- Page 22 - extracted Godland
+- Page 23 - extracted I Have Electric Dreams
+- Page 24 - extracted Joyland
+- Page 25 - extracted Karaoke
+- Page 26 - extracted The Kegelstatt Trio
+- Page 27 - extracted Living
+- Page 28 - extracted Love Dog
+- Page 29 - extracted Love Life
+- Page 30 - extracted Mediterranean Fever
+- Page 31 - extracted Metronom
+- Page 32 - extracted My Small Land
+- Page 33 - extracted Neptune Frost
+- Page 34 - extracted Next Sohee
+- Page 35 - extracted No Bears
+- Page 36 - extracted The Novelist's Film
+- Page 37 - extracted Pacifiction
+- Page 38 - extracted Pamfir
+- Page 39 - extracted A Piece of Sky
+- Page 40 - extracted The Plains
+- Page 41 - extracted Return to Dust
+- Page 42 - extracted Return to Seoul
+- Page 43 - extracted Rodeo
+- Page 44 - extracted Thunder
+- Page 45 - extracted Tommy Guns
+- Page 46 - extracted Tori and Lokita
+- Page 47 - extracted Under the Fig Trees
+- Page 48 - extracted Vera
+- Page 49 - extracted We Might as Well Be Dead
+- Page 50 - extracted Zuhal
+- Page 51 - skipped, jury page
+- Page 52 - skipped, section divider page
+- Page 53 - skipped, Cinema Versa introduction page
+- Page 54 - extracted All the Beauty and the Bloodshed
+- Page 55 - extracted A Bunch of Amateurs
+- Page 56 - extracted The Computer Accent
+- Page 57 - extracted De Humani Corporis Fabrica
+- Page 58 - extracted Dead Mint
+- Page 59 - extracted Dust and Metal
+- Page 60 - extracted Finite: The Climate of Change
+- Page 61 - extracted Geographies of Solitude
+- Page 62 - extracted God Said Give 'Em Drum Machines
+- Page 63 - extracted The Hamlet Syndrome
+- Page 64 - extracted Hello, Bookstore
+- Page 65 - extracted Loving Highsmith
+- Page 66 - extracted Matter Out of Place
+- Page 67 - extracted My Imaginary Country
+- Page 68 - extracted Myanmar Diaries
+- Page 69 - extracted On the Divide
+- Page 70 - extracted Rewind and Play
+- Page 71 - extracted Rookies
+- Page 72 - extracted Shove It: The Xero Slingsby Story
+- Page 73 - extracted The Star Wars Kid
+- Page 74 - extracted Belle River, Blind Spot, The Capacity for Adequate Anger
+- Page 75 - extracted Light Years, The Song of the Silenced
+- Page 76 - extracted Let's
+- Page 77 - skipped, single-title teaser page
+- Page 78 - skipped, section divider page
+- Page 79 - skipped, Fanomenon introduction page
+- Page 80 - extracted Anime Supremacy!
+- Page 81 - extracted Confession
+- Page 82 - extracted Daughters of Darkness
+- Page 83 - extracted Fast & Feel Love
+- Page 84 - extracted The Fifth Thoracic Vertebra
+- Page 85 - extracted Ganja & Hess
+- Page 86 - extracted Goodbye, Don Glees!
+- Page 87 - extracted The Harbinger
+- Page 88 - extracted Holy Spider
+- Page 89 - extracted Huesera
+- Page 90 - extracted Incredible But True
+- Page 91 - extracted La Pietà
+- Page 92 - extracted Medusa Deluxe
+- Page 93 - extracted New Normal
+- Page 94 - extracted Project Wolf Hunting
+- Page 95 - extracted Sadako DX
+- Page 96 - extracted Sick Of Myself
+- Page 97 - extracted The Uncle
+- Page 98 - extracted Unicorn Wars
+- Page 99 - extracted Viking
+- Page 100 - extracted Aves, Daylight Rules, Heartless
+- Page 101 - extracted Theatre, Time Tourists
+- Page 102 - extracted Cut, Deadline, Listen to Mother
+- Page 103 - extracted Mantis, Rise & Shine, The Rock of Ages
+- Page 104 - extracted South, Cashbag
+- Page 105 - skipped, single-title teaser page
+- Page 106 - skipped, section divider page
+- Page 107 - skipped, Leeds Short Film Awards introduction page
+- Page 108 - skipped, jury page
+- Page 109 - skipped, jury page
+- Page 110 - skipped, jury page
+- Page 111 - skipped, jury page
+- Page 112 - skipped, jury page
+- Page 113 - skipped, jury page
+- Page 114 - extracted Are You Still There?, Blue Note, Cherries
+- Page 115 - extracted Fairplay, Fire at the Lake, The Headhunter's Daughter
+- Page 116 - extracted The Invisible Border, Islands in the City, Joutel
+- Page 117 - extracted Khadiga, Live, Nest
+- Page 118 - extracted Not Today, The Patient and the Undersigned, Please Hold the Line
+- Page 119 - extracted Saboteur, Swan in the Centre, The Voice Actress
+- Page 120 - extracted The Water Murmurs, Tremor, Tsutsué
+- Page 121 - extracted What Remains, Why Does Helen Koch Commit Serious Vehicle Theft?
+- Page 122 - skipped, section divider page
+- Page 123 - extracted Above the Clouds, Bear Hug, The Bones
+- Page 124 - extracted Carnivorous Bean Sprout, Christopher at Sea, A Coconut Tree
+- Page 125 - extracted Ice Merchants, IDODO, Iizuna Fair
+- Page 126 - extracted It's Nice in Here, Once More With Feeling, The Queen of the Foxes
+- Page 127 - extracted RIM, Sisters, Steakhouse
+- Page 128 - extracted A Story for 2 Trumpets, A Tiny Man, Til We Meet Again
+- Page 129 - extracted Vitality, Zoon
+- Page 130 - extracted The Barber, The Bayview, Canvas 5
+- Page 131 - extracted The Electricity in Me, Let's Not Do This Tonight, Listen to Mother
+- Page 132 - extracted London's Forgotten, Look for the Diamonds, Love Languages
+- Page 133 - extracted A Moral Man, Photo Booth, Prosopagnosia
+- Page 134 - extracted Shelf Life, Your Mountain Is Waiting
+- Page 135 - skipped, single-title teaser page
+- Page 136 - extracted Apron or Hairdryer?, Hope You Fail, Incompatible
+- Page 137 - extracted Robin, Views from Sunk Island, Warm
+- Page 138 - extracted 100% USDA Certified Organic Homemade Tofu, Borderline, Changement
+- Page 139 - extracted Christian, Eliza, The Magentalman and The Gentlemint
+- Page 140 - extracted Mickey or Minnie, Minutes, Mom, If I were a Vampire
+- Page 141 - extracted Octopus, One Like Him, Puberty
+- Page 142 - extracted Punch Line, The Rainbow Dung Beetle, Supreme
+- Page 143 - extracted Tank Fairy, Thine Own Self
+- Page 144 - extracted A Body Is, A Drifting Up, amser/time
+- Page 145 - extracted Fragility of Language, Herbarium, I Fall
+- Page 146 - extracted Naari (Opening Student Film), Porch Light, Slit Drift
+- Page 147 - extracted STAVROPOL, What Are We Doing
+- Page 148 - skipped, music video listing page
+- Page 149 - skipped, music video listing page
+- Page 150 - skipped, section divider page
+- Page 151 - skipped, spotlights introduction page
+- Page 152 - extracted Above Water
+- Page 153 - extracted Adam
+- Page 154 - extracted The Blue Caftan
+- Page 155 - extracted Fig Tree
+- Page 156 - extracted Freda
+- Page 157 - extracted Neptune Frost
+- Page 158 - extracted No Simple Way Home
+- Page 159 - extracted One Take Grace
+- Page 160 - extracted Under the Fig Trees
+- Page 161 - extracted Youth
+- Page 162 - extracted Astel, Bazigaga, Ethereality
+- Page 163 - extracted Masquerade, My Love, Ethiopia, On the Surface
+- Page 164 - skipped, section divider page
+- Page 165 - skipped, spotlights introduction page
+- Page 166 - extracted Black Sun
+- Page 167 - extracted The Blind Man Who Did Not Want to See Titanic
+- Page 168 - extracted Eat Your Catfish
+- Page 169 - extracted I Didn't See You There
+- Page 170 - extracted Mafifa
+- Page 171 - extracted Robocop
+- Page 172 - extracted Stephen Dwoskin: Face of Our Fear
+- Page 173 - extracted Illuminating the Wilderness, The Mask, No Church in the Wild
+- Page 174 - extracted Tesselate, Modus Operandi
+- Page 175 - skipped, single-title teaser page
+- Page 176 - skipped, section divider page
+- Page 177 - skipped, spotlights introduction page
+- Page 178 - extracted Babylon
+- Page 179 - extracted Better Mus' Come
+- Page 180 - extracted The Harder They Come
+- Page 181 - extracted Inna de Yard: The Soul of Jamaica
+- Page 182 - extracted Rockers
+- Page 183 - extracted The Story of Lovers Rock
+- Page 184 - extracted Studio 17: The Lost Reggae Tapes
+- Page 185 - extracted Fever Dream, Flight, Hot Gyal
+- Page 186 - extracted Sink or Swim, Sugarcake
+- Page 187 - skipped, single-title teaser page
+- Page 188 - skipped, index page
+- Page 189 - skipped, index page
+- Page 190 - skipped, index page
+- Page 191 - skipped, single-title teaser page
+- Page 192 - skipped, blank page

@@ -9,7 +9,7 @@ const skipWebServer = process.env.PLAYWRIGHT_SKIP_WEB_SERVER === '1';
 const webServer = skipWebServer
   ? undefined
   : {
-      command: 'cd hugo && hugo serve -D',
+      command: 'cd hugo && hugo serve -D --bind 127.0.0.1 --port 1313',
       url: baseURL,
       reuseExistingServer: !process.env.CI,
       timeout: 120 * 1000,
@@ -53,7 +53,7 @@ module.exports = defineConfig({
     },
   ],
 
-  /* Run your local dev server before starting the tests */
   webServer,
+
   snapshotPathTemplate: '{testDir}/visual-regression.spec.js-snapshots/{projectName}/{arg}{ext}',
 });

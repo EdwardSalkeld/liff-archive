@@ -3,7 +3,7 @@
   {{ .Content }}
   <ul>
   {{ range .Pages }}
-    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if and (eq .Section "films") (eq (index .Params "film-type") "short") }} (short){{ end }}</li>
   {{ end }}
 </ul>
 {{ end }}

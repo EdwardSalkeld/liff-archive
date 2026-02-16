@@ -1,0 +1,17 @@
++++
+title = "Listen to Mother"
+director = "Jamie Gyngell"
+running-time = "18 mins"
+production-year = "2022"
+country = "United Kingdom"
+language = "English"
+strand = "Fanomenon"
+substrand = "Fanomenon Shorts 2: Horror Selection"
+film-type = "short"
+screenwriter = "Jamie Gyngell"
+producer = "Archie Johnston Stewart"
+cast = "Pippa Nixon, Tom Sweet"
+print-source = "archiejohnstonstewart@gmail.com"
+page-source = "page-102.pdf"
++++
+A grieving social worker is sent out on a call to a remote farmhouse. When she finds a young boy living there, seemingly alone, she begins to suspect something awful has happened.

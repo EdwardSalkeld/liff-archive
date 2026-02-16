@@ -5,17 +5,17 @@
     {{ if .Pages }}
     <details class="collapsible-section">
       <summary>
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if and (eq .Section "films") (eq (index .Params "film-type") "short") }} (short){{ end }}
       </summary>
       <ul>
         {{ range .Pages.ByTitle }}
-          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if and (eq .Section "films") (eq (index .Params "film-type") "short") }} (short){{ end }}</li>
         {{ end }}
       </ul>
     </details>
     {{ else }}
     <div class="section-link">
-      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if and (eq .Section "films") (eq (index .Params "film-type") "short") }} (short){{ end }}
     </div>
     {{ end }}
   {{ end }}

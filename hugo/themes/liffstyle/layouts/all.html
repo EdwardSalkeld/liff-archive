@@ -3,8 +3,9 @@
   {{ .Content }}
   <ul>
     {{ range (where site.RegularPages "Section" "films").ByTitle }}
-  <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ .CurrentSection.Title }})</a></li>
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ .CurrentSection.Title }})</a>{{ if and (eq .Section "films") (eq (index .Params "film-type") "short") }} (short){{ end }}
+  </li>
     {{ end }}
   </ul>
 {{ end }}
-

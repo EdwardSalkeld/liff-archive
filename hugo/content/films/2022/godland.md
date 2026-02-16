@@ -1,0 +1,22 @@
++++
+title = "Godland"
+director = "Hlynur Pálmason"
+running-time = "143 mins"
+production-year = "2022"
+country = "Denmark, Iceland, France, Sweden"
+language = "Danish, Icelandic"
+strand = "Official Selection"
+original-title = "Vanskabte land"
+screenwriter = "Hlynur Pálmason"
+producer = "Johnny Andersen, Birgitta Bjornsdottir, Didar Domehri"
+cinematographer = "Maria von Hausswolff"
+editor = "Julius Krebs Damsbo"
+cast = "Ingvar Sigurdsson"
+print-source = "Curzon"
+page-source = "page-22.pdf"
++++
+Being too pious can land us in all sorts of trouble. In the late 1800s, a Lutheran priest travelled from Denmark to remote coastal Iceland to establish a parish church. The idealist's journey was arduous but filled with extraordinary beauty; the changing seasons indicating God's power, or perhaps his indifference. Epic adventure Godland was inspired by a collection of photographs depicting this journey, which were the last known movements of the photographer on his fateful mission. A haunting film for the biggest of screens, laced with sly humour amidst doctrine-vs-nature hubris.
+
+> The film is written and developed for the area around where I live. The rotting horse was my father's horse and I filmed it for over a year on our neighbor's land. The seasonal images of the glacier are filmed for over two years at a place where we pick mushrooms during late summer. The first camp in the film is where we fish trout through ice during winter. Most of the locations are spaces that I've revisited many times and slowly they begin to reveal themselves in my writing. Some of them were also very hard to reach and it's impossible to drive there. So we had to carry all the equipment ourselves and travel only by horse.
+
+Director Hlynur Pálmason

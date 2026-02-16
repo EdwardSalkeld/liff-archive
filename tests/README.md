@@ -34,7 +34,7 @@ Each page is tested on:
 
 ### Running Tests
 
-To run the visual regression tests:
+To run the visual regression tests (requires a running Hugo server):
 ```bash
 npm test
 ```
@@ -47,7 +47,7 @@ This will:
 
 ### Updating Golden Images
 
-If you make intentional UI changes, you need to update the golden images:
+If you make intentional UI changes, you need to update the golden images (with Hugo running):
 
 ```bash
 npm run test:update

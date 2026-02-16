@@ -1,0 +1,4 @@
+interface:
+  display_name: "LIFF JSON to Hugo"
+  short_description: "Convert intermediate JSON into Hugo film markdown"
+  default_prompt: "Use $liff-intermediate-to-hugo-markdown to convert intermediate-extract/2022/page-*.json into hugo/content/films/2022/*.md, write conversion and review logs, and finish by running make build."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "LIFF PDF Extractor"
+  short_description: "Extract film JSON from LIFF catalog pages"
+  default_prompt: "Use $liff-catalog-pdf-extraction to extract film JSON from a single 2022 catalog page PDF and log whether the page was skipped or extracted."

@@ -1,0 +1,22 @@
++++
+title = "Everybody Loves Jeanne"
+director = "Céline Devaux"
+running-time = "95 mins"
+production-year = "2022"
+country = "France, Portugal"
+language = "French, Portuguese"
+strand = "Official Selection"
+substrand = "New Directors Competition"
+original-title = "Tout le monde aime Jeanne"
+screenwriter = "Céline Devaux"
+producer = "Genevieve Lemal, Sylvie Pialat, Benoît Quainon, Luís Urbano"
+cinematographer = "Olivier Boonjing"
+cast = "Blanche Gardin, Laurent Lafitte, Maxence Tual"
+print-source = "Elle Driver"
+page-source = "page-21.pdf"
++++
+Jeanne says she is fine but feels like crap. Her business dream is an embarrassing nightmare, she is broke, and worse still, mum just died, Jeanne must now sell mum's apartment in Lisbon, and finds that a weird guy seems determined to tag along. These stresses are the stuff of a thousand lesser rom-coms. But …Jeanne is several cuts above thanks to a wonderfully bittersweet script and performance, and droll animated inserts that show the gulf between an exterior self that is in control, and an interior that is falling apart. Very funny, very wise.
+
+> I wanted to write a comedy about depression and therefore talk about all the toxic thoughts that go through us when we're not feeling well. I had to find a way to portray them joyfully… [Jeanne's animated alter ego] probably came to me in a dream... It's a hairy creature, neither man nor woman, who pesters Jeanne all day long. A kind of reflection of shame. It is also the memory of all the voices that Jeanne has heard that accumulate in her brain. …It is also a huge comic element, because we can juggle between what she says and what she really thinks.
+
+Director Céline Devaux

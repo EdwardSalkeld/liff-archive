@@ -1,0 +1,22 @@
++++
+title = "The Kegelstatt Trio"
+director = "Rita Azevedo Gomes"
+running-time = "127 mins"
+production-year = "2022"
+country = "Portugal, Spain"
+language = "French, Spanish, Portuguese"
+strand = "Official Selection"
+original-title = "O trio em mi bemol"
+screenwriter = "Rita Azevedo Gomes, Eric Rohmer"
+producer = "Filipe Bessa Vieira"
+cinematographer = "Jorge Quintela"
+editor = "Rita Azevedo Gomes"
+cast = "Pierre Léon, Rita Durão, Ado Arrieta, Olivia Cabeza"
+print-source = "Portugal Film"
+page-source = "page-26.pdf"
++++
+The great French director Éric Rohmer wrote a single theatre play called 'Le Trio en Mi Bémol'. This has been inventively adapted for the screen by the Portuguese director Rita Azevedo Gomes as the poignant and graceful drama The Kegelstatt Trio, named after the famous Mozart composition. Former lovers Adélia and Paul meet up again and discuss their memories and shared love of classical music in a series of beautifully staged and acted dialogue scenes, all elegantly filmed on a minimalist set. Often imitated, this is the best tribute to Rohmer since his death.
+
+> Rohmer wrote a wonderful book, From Mozart to Beethoven: An Essay on the Notion of Profundity in Music, in which he talks about what makes the Trio special. It was the first time that these three instruments – the clarinet, viola and piano – were played together. It marked a new line in the evolution of music. Listening carefully to Mozart's trio I felt each instrument corresponds to a character. The viola is the man, the clarinet is the woman and the piano is Mozart. When you hear the piece, you sense the harmony and also the dissonance between the three instruments.
+
+Director Rita Azevedo Gomes, from an interview in Variety
