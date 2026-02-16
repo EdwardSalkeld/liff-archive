@@ -99,4 +99,9 @@ Description parsing:
 
 - Capture the main film blurb as `description`
 - Preserve paragraph breaks where possible
-- Exclude director interview quotes from `description`; place them in `notes` when retained
+- Exclude quote blocks from `description`
+
+Quote parsing:
+
+- Use `quote.text` for the quote body
+- Use `quote.credit` for plain-text attribution (for example `Director Li Ruijun, from an interview with Screen Daily`)

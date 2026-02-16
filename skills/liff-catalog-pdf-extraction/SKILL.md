@@ -129,7 +129,11 @@ Emit this schema (omit absent fields):
   "original_title": "Die unsichtbare Grenze",
   "print_source": "MUBI",
   "description": "Main blurb text with paragraph breaks preserved.",
-  "notes": "Optional quote, presenter note, or unstructured remainder."
+  "quote": {
+    "text": "Quoted text from the page.",
+    "credit": "Director Li Ruijun, from an interview with Screen Daily"
+  },
+  "notes": "Optional presenter note or unstructured remainder."
 }
 ```
 
@@ -146,7 +150,11 @@ Rules:
 - Keep `section` from page heading; infer from page range only when heading is missing.
 - Keep `program` for competition names (for example `International Short Film Competition`).
 - Keep `description` as plain text only; preserve paragraph breaks where possible.
-- Put only the main film blurb in `description`. Move director interview quotes or other secondary text to `notes` if captured.
+- Put only the main film blurb in `description`.
+- When a page includes a standalone quote block, store it in `quote`.
+- Use `quote.text` for the quote body text.
+- Use `quote.credit` for the plain-text attribution exactly as shown (for example `Director Li Ruijun, from an interview with Screen Daily`).
+- Keep quote text out of `description` to avoid mixing editorial voice and film blurb.
 
 ### Pass 6: Write Deterministic Filenames
 
@@ -176,6 +184,7 @@ Run content checks and add failures to `review_queue.md`:
 - Year values outside 1888-2100.
 - Description still contains obvious metadata tokens like `Running Time`, `Director`, `Print Source`.
 - Very short description (`<40` chars) unless clearly valid.
+- If `quote` exists, ensure both `quote.text` and `quote.credit` are present.
 
 ### Pass 8: Log Outcome
 
