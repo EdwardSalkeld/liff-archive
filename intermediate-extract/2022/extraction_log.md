@@ -1,4 +1,24 @@
 # Extraction Log
 
+- Page 01 - skipped, no text content
+- Page 02 - skipped, cover/branding page
+- Page 03 - skipped, introduction and contents page
+- Page 04 - skipped, full-page section teaser/art image
+- Page 05 - skipped, partners page
+- Page 06 - skipped, team/credits page
+- Page 07 - skipped, team page
+- Page 08 - skipped, section divider page
+- Page 09 - skipped, Official Selection introduction page
+- Page 10 - extracted Aftersun
+- Page 11 - extracted Alcarràs
+- Page 12 - extracted America
+- Page 13 - extracted Baby Pyramid
+- Page 14 - extracted The Blue Caftan
+- Page 15 - extracted Blue Jean
+- Page 16 - extracted Brief Encounters
+- Page 17 - extracted Broker
+- Page 18 - extracted Casque d’Or
+- Page 19 - extracted Close
+- Page 20 - extracted Corsage
 - Page 41 - extracted Return to Dust
 - Page 118 - extracted Not Today, The Patient and the Undersigned, Please Hold the Line
