@@ -19,4 +19,5 @@ A tender tale about the transformative nature of love, Return to Dust-the sixth 
 In the face of much adversity, an unexpected bond begins to blossom, as both Ma and Cao, uniting with Earth's cycles, create a precious haven for themselves.
 
 > We shot by following the seasonal changes, the life cycle of the crops and even the migratory bird season. We spent almost six months in pre-production to map out a detailed shooting plan and schedule. I used to tend to my family's farm when I was young. With the help of the main actor Wu Renlin, who is my uncle, his son who plays the second nephew, my brother and my father, we were all involved in building the farmhouse and growing the crops until harvest time. We worked like peasants the whole time and dedicated our lives to the land, just like them.
+
 Director Li Ruijun, from an interview with Screen Daily

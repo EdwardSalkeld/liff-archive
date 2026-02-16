@@ -21,4 +21,5 @@ Returning once again to LIFF is Queer Fear, which aims to chart queer communitie
 We are delighted to welcome its director and co-writer Harry Kümel to discuss its enduring impact and legacy of LGBTQIA+ representation and female empowerment within horror, as well as its iconic brand of European erotica.
 
 > My favourite vampire films? Dark Shadows by Tim Burton. Bram Stoker's Dracula by Francis Ford Coppola. I don't understand why Coppola himself doesn't like that film. What else? Et mourir de plaisir by Roger Vadim and starring Annette Stroyberg, Mel Ferrer, and Elsa Martinelli as lesbian vampires. Claude Renoir's cinematography is especially magnificent... More than anything, you need to trust the director's ambition to make a film that stands the test of time. That is a normal human ambition: you give birth to a child, you create an artwork and you hope that it lives and thrives. But the only way to fulfil that ambition is to approach reality in a different way, to say this is true and this is not true simultaneously.
+
 Director Harry Kümel, from an interview with BRUZZ Magazine

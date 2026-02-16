@@ -186,7 +186,7 @@ def convert_one(data: dict[str, Any], source_filename: str) -> tuple[str, str, l
         else:
             body = quote_block
         if quote_credit_value:
-            body = f"{body}\n{quote_credit_value}"
+            body = f"{body}\n\n{quote_credit_value}"
     elif quote_credit_value:
         body = f"{body}\n\n{quote_credit_value}" if body else quote_credit_value
 
