@@ -1,0 +1,4 @@
+interface:
+  display_name: "LIFF Playwright Goldens"
+  short_description: "Refresh visual regression snapshots"
+  default_prompt: "Use $liff-playwright-golden-refresh with Docker Hugo (`make dev` + `PLAYWRIGHT_SKIP_WEB_SERVER=1`) to update Playwright goldens, verify tests pass, and summarize changed snapshot files."
