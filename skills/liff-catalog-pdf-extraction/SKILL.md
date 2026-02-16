@@ -118,7 +118,6 @@ Emit this schema (omit absent fields):
   "years": [2021, 2022],
   "runtime_minutes": 96,
   "languages": ["English", "German"],
-  "subtitles": "English",
   "directors": ["Charlotte Wells"],
   "screenwriters": ["July Jung"],
   "producers": ["Dong-ha Kim", "Ji-yeon Kim"],
@@ -145,7 +144,7 @@ Rules:
 - Use `years` when multiple years exist.
 - Parse runtime into integer minutes (`2hr 14min` => `134`, `95min` => `95`).
 - Parse language list into `languages`.
-- If `with subtitles` appears, put subtitle language in `subtitles` and remove that phrase from `languages`.
+- Ignore subtitle metadata entirely (for example `with subtitles`); do not emit a `subtitles` field.
 - Parse `Director`, `Screenwriter`, `Producer`, `Cinematographer`, `Editor`, and `Leading Cast`/`Key Cast` into arrays.
 - Keep `section` from page heading; infer from page range only when heading is missing.
 - Keep `program` for competition names (for example `International Short Film Competition`).
@@ -155,7 +154,7 @@ Rules:
 - Use `quote.text` for the quote body text.
 - Use `quote.credit` for the plain-text attribution exactly as shown (for example `Director Li Ruijun, from an interview with Screen Daily`).
 - Keep quote text out of `description` to avoid mixing editorial voice and film blurb.
-- Use `notes` to capture uncertainty or ambiguity (for example missing subtitle language, unclear names, uncertain segmentation).
+- Use `notes` to capture uncertainty or ambiguity (for example unclear names, uncertain segmentation).
 - Prefix uncertainty notes with `UNCERTAIN:` so they can be found in a post-extraction review pass.
 
 ### Pass 6: Write Deterministic Filenames

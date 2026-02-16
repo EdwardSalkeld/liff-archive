@@ -84,7 +84,7 @@ Year parsing:
 Language parsing:
 
 - Keep language names only in `languages`
-- Move subtitle info to `subtitles`
+- Ignore subtitle info (for example `with subtitles`)
 
 Cast parsing:
 
