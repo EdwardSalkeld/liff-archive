@@ -1,0 +1,21 @@
++++
+title = "Thunder"
+director = "Carmen Jaquier"
+running-time = "92 mins"
+production-year = "2022"
+country = "Switzerland"
+language = "French"
+strand = "Official Selection"
+substrand = "New Directors Competition"
+original-title = "Foudre"
+screenwriter = "Carmen Jaquier"
+producer = "Joëlle Bertossa, Flavia Zanon"
+cinematographer = "Marine Atlan"
+editor = "Xavier Sirven"
+cast = "Lilith Grasmug, Sabine Timoteo, Mermoz Melchior"
+print-source = "WTFilms"
+page-source = "page-44.pdf"
+quote = "Some family archives were a first source of inspiration. The words of my great-grandmother that I discovered in her notebooks. I did not use her words in the film, those belong to her — but her thoughts offered me many questions, such as: What if God was 'desire'? Then, as I progressed in my research and I immersed myself in this poor, peasant Switzerland of the late 19th century, I felt the need to give body and voice to certain courageous people who had not been retained by history and who can inspire us today, particularly in our relationship with our sexual behavior… Desire is transformative and one can make links between sexual behavior and social protest."
+quote-credit = "Director Carmen Jacquier, from an interview for Women and Hollywood"
++++
+Carmen Jacquier's debut feature is a fiercely independent coming of age tale and a transcendent allegory of the power of female sexuality. Set in 1900, in a beautiful Alpine valley in Southern Switzerland, the story follows 17 year old Elisabeth, who is about to take her vows when the sudden death of her older sister forces her to leave the convent and return to the family farm. Stifled by the suffocating and strict rules of the village and obsessed by the mysteries surrounding her sister's disappearance, she fights for her right to experiment.

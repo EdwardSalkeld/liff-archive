@@ -1,0 +1,21 @@
++++
+title = "Love Dog"
+director = "Bianca Lucas"
+running-time = "84 mins"
+production-year = "2022"
+country = "Poland"
+language = "English"
+strand = "Official Selection"
+substrand = "New Directors Competition"
+screenwriter = "John Dicks, Bianca Lucas"
+producer = "Joaquin del Paso, Bianca Lucas"
+cinematographer = "Jozefina Gocman"
+editor = "Ernie SchaefferI, Anais Vignal"
+cast = "Becca Begnaud, Corinne Bordelon, Brooke Keel Bullock"
+print-source = "Lights On"
+page-source = "page-28.pdf"
+notes = "UNCERTAIN: Editor name extracted as 'Ernie SchaefferI' due source typography; verify if 'Ernie Schaeffer'."
+quote = "For me the strength of cinema is to create an experience, a sensorial experience, and that was my first goal with the film. I wanted to capture a feeling I was going through myself. I wanted to look closer at the process of grieving and give justice to it in a more realistic way. Moreover, there is a very particular atmosphere in this region of Mississippi we were traveling to at that time that I liked and wanted to show as well. I felt that a lot of things, the fantasies and the illusions about an unrealistic idea of success, were falling apart. I felt that there is a real feeling of grief among the American people."
+quote-credit = "Director Bianca Lucas, from an interview with Cineuropa"
++++
+Bianca Lucas's haunting narrative debut follows John, a drifter returning to his Mississippi hometown to deal with recent trauma. Originally intended as a documentary on disillusions of the American Dream, the narrative of Love Dog came naturally as Lucas was forced to lockdown with a local community as the pandemic hit. Featuring non-actors playing fictionalised versions of themselves, Love Dog realistically portrays personal loss set within a community that has lost hope in America. Through small but meaningful encounters with strangers online, lost acquaintances and an unwanted dog, John searches for redemption and slowly learns to live again.

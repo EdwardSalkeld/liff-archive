@@ -1,0 +1,20 @@
++++
+title = "The Hamlet Syndrome"
+director = "Elwira Niewiera, Piotr Rosolowski"
+running-time = "85 mins"
+production-year = "2022"
+country = "Ukraine"
+language = "Ukrainian"
+strand = "Cinema Versa"
+substrand = "UK/Ukraine Season of Culture"
+screenwriter = "Elwira Niewiera, Piotr Rosolowski"
+producer = "Andreas Banz, Magdalena Kaminska, Matthias Miegel"
+cinematographer = "Piotr Rosolowski"
+editor = "Agata Cierniak"
+cast = "Oksana Cherkashyna"
+print-source = "Krakowska Fundacja Filmowa"
+page-source = "page-63.pdf"
+quote = "We had two intentions. The first one was to draw attention to this ongoing conflict, and the second and more general one was to show what it means to be at war and what havoc war leaves behind, how difficult it is to return to one's life. Our protagonists are examples that it can take years to build a normal life again. Our film plays now an important role in keeping the debate going regarding what impact the war has had on Ukrainian people. The world's engagement in the beginning of the invasion was tremendous, and now they slowly want to go back to normal."
+quote-credit = "Co-Director Elwira Niewiera, from an interview with Cineuropa"
++++
+The Hamlet Syndrome is a life affirming documentary, revealing of a group of young Ukrainians who are finding constructive ways to deal with years of war and upheaval. The film's starting point is the preparation for a play based on Hamlet, and as we get to know the personal lives of the actors, it becomes clear that engaging with Shakespeare's characters creates a therapeutic way of processing trauma. This helps them put their lives back in order despite the Russian invasion of their country escalating the problems and prolonging their struggle.

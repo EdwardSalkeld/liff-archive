@@ -1,0 +1,20 @@
++++
+title = "Rookies"
+director = "Thierry Demaizière, Alban Teurlai"
+running-time = "110 mins"
+production-year = "2022"
+country = "France"
+language = "French"
+strand = "Cinema Versa"
+original-title = "Allons enfants"
+screenwriter = "Thierry Demaizière, Elsa Le Peutrec, Alban Teurlai"
+producer = "Thierry Demaizière, Romain Icard, Stéphanie Schorter, Alban Teurlai"
+cinematographer = "Alban Teurlai"
+editor = "Matthieu Choux, Olivier Ranquet"
+cast = "Charlotte Saudrais, Erwan Schamaneche, Michelle Kibebe"
+print-source = "Le Pacte"
+page-source = "page-71.pdf"
+quote = "Paris is historically a city where hip-hop has been well established since the 1980s. France has hip-hop dancers and choreographers who perform all over the world who have danced for Michael Jackson, Madonna and Beyoncé. These dancers almost all come from the suburbs of Paris. Paris is a very dense and concentrated city and has a strong urban culture. Hip-hop is the perfect way to portray a generation of young French people and enter the halls and classrooms of a Parisian high school - this educational project in France immediately appealed to us because it spoke of diversity."
+quote-credit = "Co-Director Alban Teurlai, from an interview with Cineuropa"
++++
+In the heart of Paris, a prestigious high school takes an audacious challenge: integrate students from working-class districts and make them break the circle of school failure through dance and hip hop. Wonderfully poised between the exciting world of hip hop, the pressure of the academy, and a whole host of small, special moments shared by the pupils, Rookies revels in its authentic portrait of the many virtues of a compassionate, empathetic and socially diverse school environment, bursting with joyous energy and an insatiable passion for dance.

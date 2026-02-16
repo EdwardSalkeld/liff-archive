@@ -1,0 +1,20 @@
++++
+title = "The Blind Man Who Did Not Want to See Titanic"
+director = "Teemu Nikki"
+running-time = "82 mins"
+production-year = "2021"
+country = "Finland"
+language = "Finnish"
+strand = "LIFF 2022 Spotlights: Disability Futures"
+original-title = "Sokea mies joka ei halunnut nähdä Titanicia"
+screenwriter = "Teemu Nikki"
+producer = "Pasi Hakki, Teemu Nikki, Tuula Nikkola"
+cinematographer = "Sari Aaltonen"
+editor = "Jussi Sandhu"
+cast = "Petri Poikolainen, Marjaana Maijala, Samuli Jaskio"
+print-source = "Intramovies"
+page-source = "page-167.pdf"
+quote = "I was thinking that if we are doing this blind person's perspective, it would be easy to make it all black, so that we wouldn't see anything. But then I thought the character also feels and can smell things, and if we want to show his feelings, we have to show his face. I decided to talk with Sari Aaltonen, [the cinematographer] and she was against the idea. She said, \"It won't work to have it all in close up throughout the film.\" And I said, \"Trust me, it will work.\" So we decided to try to find the kind of angles that the audience can sense what is happening, but not see much about what is happening."
+quote-credit = "Director Teemu Nikki"
++++
+In this original romantic comedy turned thriller, Jaakko (Petri Poikolainen), who has MS, uses a wheelchair and has sight loss, spends his days talking to Sirpa on the phone about cinema and television. When Sirpa's illness takes a turn for the worse, Jaakko decides to take a spur-of-the-moment trip alone across the city to visit her, encountering obstacles and danger along the way. Shot in shallow focus, with Jaakko the only character we can clearly see, Poikolainen gives a compelling performance in this inventive piece of filmmaking.
