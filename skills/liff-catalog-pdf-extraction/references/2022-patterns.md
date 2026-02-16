@@ -105,3 +105,8 @@ Quote parsing:
 
 - Use `quote.text` for the quote body
 - Use `quote.credit` for plain-text attribution (for example `Director Li Ruijun, from an interview with Screen Daily`)
+
+Uncertainty notes:
+
+- Use `notes` for extraction uncertainty and prefix with `UNCERTAIN:`
+- Add a corresponding line to `review_queue.md` for each `UNCERTAIN:` note

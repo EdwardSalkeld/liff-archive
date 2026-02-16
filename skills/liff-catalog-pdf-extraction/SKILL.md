@@ -133,7 +133,7 @@ Emit this schema (omit absent fields):
     "text": "Quoted text from the page.",
     "credit": "Director Li Ruijun, from an interview with Screen Daily"
   },
-  "notes": "Optional presenter note or unstructured remainder."
+  "notes": "Optional presenter note, ambiguity note, or unstructured remainder."
 }
 ```
 
@@ -155,6 +155,8 @@ Rules:
 - Use `quote.text` for the quote body text.
 - Use `quote.credit` for the plain-text attribution exactly as shown (for example `Director Li Ruijun, from an interview with Screen Daily`).
 - Keep quote text out of `description` to avoid mixing editorial voice and film blurb.
+- Use `notes` to capture uncertainty or ambiguity (for example missing subtitle language, unclear names, uncertain segmentation).
+- Prefix uncertainty notes with `UNCERTAIN:` so they can be found in a post-extraction review pass.
 
 ### Pass 6: Write Deterministic Filenames
 
@@ -185,6 +187,7 @@ Run content checks and add failures to `review_queue.md`:
 - Description still contains obvious metadata tokens like `Running Time`, `Director`, `Print Source`.
 - Very short description (`<40` chars) unless clearly valid.
 - If `quote` exists, ensure both `quote.text` and `quote.credit` are present.
+- If `notes` contains `UNCERTAIN:`, add a matching item to `review_queue.md`.
 
 ### Pass 8: Log Outcome
 
