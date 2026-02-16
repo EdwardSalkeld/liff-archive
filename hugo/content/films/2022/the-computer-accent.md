@@ -10,7 +10,8 @@ producer = "Sebastian Pardo, Riel Roch Decter"
 editor = "Alexandra Brown, Matt Hollis, Brandon Winters"
 print-source = "Memory Productions"
 page-source = "page-56.pdf"
-quote = "As we went through the process of really understanding AI, I realized how much exists outside the technology and how much it's shaped by humans. A theme that emerged in the film is AI is mirror. Not only is it trained on everything we've made and who we are and what we value, you also see in it what we recognize as useful, so it is a symbiote and to ignore the humans that are engaging with it would be to not tell the complete story, so that's where we really started to say it's a two-hander. That technology is human and needs to include the human perspective and work for humans."
-quote-credit = "Co-Director Sebastian Pardo, from an interview with The Moveable Fest."
 +++
 The ever forward-thinking electronic pop band YACHT set out to write and record an album using Artificial Intelligence technology, in a documentary that is truly of the moment. Having begun in 2002 as a design studio before progressing through multiple line-ups and musical styles with releases on DFA Records and Downtown Records, YACHT are no strangers to creative challenges. When they feed their back catalogue into a computer for it to assist in composing their seventh album, frustrations increase and a refreshingly honest evaluation of the creative process plays out in realtime.
+
+> As we went through the process of really understanding AI, I realized how much exists outside the technology and how much it's shaped by humans. A theme that emerged in the film is AI is mirror. Not only is it trained on everything we've made and who we are and what we value, you also see in it what we recognize as useful, so it is a symbiote and to ignore the humans that are engaging with it would be to not tell the complete story, so that's where we really started to say it's a two-hander. That technology is human and needs to include the human perspective and work for humans.
+Co-Director Sebastian Pardo, from an interview with The Moveable Fest.
