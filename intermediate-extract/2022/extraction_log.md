@@ -20,5 +20,44 @@
 - Page 18 - extracted Casque d’Or
 - Page 19 - extracted Close
 - Page 20 - extracted Corsage
+- Page 21 - extracted Everybody Loves Jeanne
+- Page 22 - extracted Godland
+- Page 23 - extracted I Have Electric Dreams
+- Page 24 - extracted Joyland
+- Page 25 - extracted Karaoke
+- Page 26 - extracted The Kegelstatt Trio
+- Page 27 - extracted Living
+- Page 28 - extracted Love Dog
+- Page 29 - extracted Love Life
+- Page 30 - extracted Mediterranean Fever
+- Page 31 - extracted Metronom
+- Page 32 - extracted My Small Land
+- Page 33 - extracted Neptune Frost
+- Page 34 - extracted Next Sohee
+- Page 35 - extracted No Bears
+- Page 36 - extracted The Novelist's Film
+- Page 37 - extracted Pacifiction
+- Page 38 - extracted Pamfir
+- Page 39 - extracted A Piece of Sky
+- Page 40 - extracted The Plains
 - Page 41 - extracted Return to Dust
+- Page 42 - extracted Return to Seoul
+- Page 43 - extracted Rodeo
+- Page 44 - extracted Thunder
+- Page 45 - extracted Tommy Guns
+- Page 46 - extracted Tori and Lokita
+- Page 47 - extracted Under the Fig Trees
+- Page 48 - extracted Vera
+- Page 49 - extracted We Might as Well Be Dead
+- Page 50 - extracted Zuhal
+- Page 51 - skipped, jury page
+- Page 52 - skipped, section divider page
+- Page 53 - skipped, Cinema Versa introduction page
+- Page 54 - extracted All the Beauty and the Bloodshed
+- Page 55 - extracted A Bunch of Amateurs
+- Page 56 - extracted The Computer Accent
+- Page 57 - extracted De Humani Corporis Fabrica
+- Page 58 - extracted Dead Mint
+- Page 59 - extracted Dust and Metal
+- Page 60 - extracted Finite: The Climate of Change
 - Page 118 - extracted Not Today, The Patient and the Undersigned, Please Hold the Line
