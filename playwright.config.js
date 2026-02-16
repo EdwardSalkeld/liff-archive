@@ -5,6 +5,15 @@ const { defineConfig, devices } = require('@playwright/test');
  * @see https://playwright.dev/docs/test-configuration
  */
 const baseURL = process.env.PLAYWRIGHT_BASE_URL || 'http://localhost:1313';
+const skipWebServer = process.env.PLAYWRIGHT_SKIP_WEB_SERVER === '1';
+const webServer = skipWebServer
+  ? undefined
+  : {
+      command: 'cd hugo && hugo serve -D --bind 127.0.0.1 --port 1313',
+      url: baseURL,
+      reuseExistingServer: !process.env.CI,
+      timeout: 120 * 1000,
+    };
 
 module.exports = defineConfig({
   testDir: './tests',
@@ -43,6 +52,8 @@ module.exports = defineConfig({
       use: { ...devices['Desktop Chrome'] },
     },
   ],
+
+  webServer,
 
   snapshotPathTemplate: '{testDir}/visual-regression.spec.js-snapshots/{projectName}/{arg}{ext}',
 });
