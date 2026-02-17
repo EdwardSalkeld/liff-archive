@@ -1,4 +1,4 @@
-.PHONY: help dev build build-local install install-hugo install-playwright test test-update test-html ci-build ci-test clean
+.PHONY: help dev build build-local install check-hugo install-playwright test test-update test-html ci-build ci-test clean
 
 # Default target - show help
 .DEFAULT_GOAL := help
@@ -23,12 +23,11 @@ build-local: ## Build Hugo site locally (requires Hugo installed)
 
 ##@ Dependencies
 
-install: install-hugo install-playwright ## Install all dependencies (Hugo and Playwright)
+install: check-hugo install-playwright ## Install all dependencies (Hugo and Playwright)
 
-install-hugo: ## Install Hugo (for CI environments)
-	@echo "Hugo installation should be done via system package manager or GitHub Actions"
-	@echo "See: https://gohugo.io/installation/"
-	@which hugo > /dev/null 2>&1 && echo "✓ Hugo is already installed: $$(hugo version)" || echo "✗ Hugo is not installed"
+check-hugo: ## Check if Hugo is installed
+	@echo "Checking Hugo installation..."
+	@which hugo > /dev/null 2>&1 && echo "✓ Hugo is already installed: $$(hugo version)" || (echo "✗ Hugo is not installed. Install via system package manager or GitHub Actions." && echo "See: https://gohugo.io/installation/" && exit 1)
 
 install-playwright: ## Install Playwright browsers
 	npm ci
