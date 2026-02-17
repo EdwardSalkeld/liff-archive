@@ -23,16 +23,38 @@ Each page is tested on:
 ### Prerequisites
 
 1. Install Node.js (version 20 or higher)
-2. Install dependencies:
+2. Install Hugo (extended version 0.147.6 or compatible)
+3. Install dependencies:
    ```bash
    npm install
+   # or use make
+   make install-playwright
    ```
-3. Install Playwright browsers:
+4. Install Playwright browsers:
    ```bash
    npx playwright install chromium --with-deps
    ```
 
 ### Running Tests
+
+#### Using Make (Recommended)
+
+To run the visual regression tests:
+```bash
+make test
+```
+
+To run all tests (HTML validation + Playwright):
+```bash
+make ci-test
+```
+
+To see all available make targets:
+```bash
+make help
+```
+
+#### Using npm directly
 
 To run the visual regression tests (requires a running Hugo server):
 ```bash
@@ -51,6 +73,8 @@ If you make intentional UI changes, you need to update the golden images (with H
 
 ```bash
 npm run test:update
+# or use make
+make test-update
 ```
 
 This will:
@@ -68,6 +92,23 @@ npx playwright show-report
 ## CI/CD Integration
 
 The tests run automatically on every pull request via GitHub Actions. See `.github/workflows/ci.yml` for the workflow configuration.
+
+### Using Make in CI
+
+The Makefile now provides targets that can replace CI workflow commands:
+
+```bash
+# Build the Hugo site
+make ci-build
+
+# Run all CI tests (HTML validation + Playwright)
+make ci-test
+
+# Clean build artifacts
+make clean
+```
+
+These commands provide a consistent interface for both local development and CI/CD environments.
 
 ### What Happens on CI
 
