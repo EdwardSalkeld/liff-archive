@@ -22,15 +22,10 @@ jobs:
           hugo-version: '0.147.6'
           extended: true
           
-      - name: Build Hugo site
+      - name: Build and test
         run: |
-          cd hugo
-          hugo
-          
-      - name: Run HTML validation tests
-        run: |
-          chmod +x .github/workflows/test-html.sh
-          .github/workflows/test-html.sh
+          make ci-build
+          make test-html
 
   visual-regression-tests:
     runs-on: ubuntu-latest
@@ -54,13 +49,10 @@ jobs:
           node-version: '20'
           
       - name: Install dependencies
-        run: npm ci
-        
-      - name: Install Playwright browsers
-        run: npx playwright install --with-deps chromium
+        run: make install-playwright
         
       - name: Run Playwright tests
-        run: npm test
+        run: make test
         
       - name: Upload test results
         if: always()
@@ -123,7 +115,7 @@ jobs:
             commentBody += '\n### What to do:\n';
             commentBody += '1. Download the test artifacts from the workflow run\n';
             commentBody += '2. Review the diff images to see what changed\n';
-            commentBody += '3. If the changes are intentional, update the golden images by running: `npm run test:update`\n';
+            commentBody += '3. If the changes are intentional, update the golden images by running: `make test-update`\n';
             commentBody += '4. Commit the updated snapshots to your branch\n';
             
             // Post comment
