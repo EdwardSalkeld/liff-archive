@@ -42,6 +42,9 @@
   ],
   "print_source": "MUBI",
   "description": "Manimal freakishness is in plain, matter-of-fact sight in Lamb, a dark\nScandi tall tale evoked with stark clarity. Maria and Ingvar toil away\non their mist-shrouded farm in almost total solitude, a grieving silence\nbetween them long since taken for granted. In the lamb birthing barn,\na miracle arrives, and she is named Ada. Ada is adored, though\nperhaps only these isolated and damaged surrogate parents could\naccept her for what she is. And as an outsider arrives, we discover\nthe limits of that acceptance...",
-  "program": "Fanorama",
-  "notes": "UNCERTAIN: Standalone quote has no reliably separable credit."
+  "quote": {
+    "text": "When we were writing the script and also when we were shooting, we were talking about so many elements, like acceptance, family, and how you don’t have to be blood-related to someone to find that kind of family connection with them. I think we had something like three months where we stayed out at the farm together planning everything. In the beginning, I did storyboards for the whole film, so when production began, we knew nearly everything that we wanted to do and wanted to achieve. And we also knew what we wanted to hold back on. So it was interesting to see just how more impactful her character became even when you weren’t seeing her.",
+    "credit": "Director Valdimar Jóhannsson, from an interview with Daily Dead."
+  },
+  "program": "Fanorama"
 }

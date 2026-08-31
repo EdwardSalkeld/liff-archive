@@ -34,7 +34,6 @@
 - page-47-funky-forest-the-first-contact.json: UNCERTAIN: Standalone quote has no reliably separable credit.
 - page-48-the-haunting.json: UNCERTAIN: Standalone quote has no reliably separable credit.
 - page-49-junk-head.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-51-lamb.json: UNCERTAIN: Standalone quote has no reliably separable credit.
 - page-52-the-man-who-stole-the-sun.json: UNCERTAIN: Standalone quote has no reliably separable credit.
 - page-53-medusa.json: UNCERTAIN: Standalone quote has no reliably separable credit.
 - page-53-murder-bury-win.json: UNCERTAIN: Standalone quote has no reliably separable credit.
