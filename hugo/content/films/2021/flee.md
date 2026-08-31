@@ -11,7 +11,6 @@ producer = "Signe Byrge Sørensen"
 editor = "Janus Billeskov Jansen"
 print-source = "Curzon"
 page-source = "page-32.pdf"
-notes = "UNCERTAIN: Standalone quote has no reliably separable credit."
 +++
 Flee is one of the film highlights of the year, a documentary
 which innovatively blends animation and archive footage to tell
@@ -23,3 +22,7 @@ to Denmark. Heartfelt interviews with his friend, director Jonas Poher
 Rasmussen and animated storytelling combine to create the perfect
 medium, both protecting Amin’s real identity and revealing his most
 intimate experiences.
+
+> ‘[The main character’s sexuality and background] are really related to each other. Him being a refugee and being gay – he has always been running away from something. When he was a kid in Afghanistan, being gay wasn’t acceptable, so he kept that hidden. In Denmark, he kept his past hidden. This film is called Flee, and it’s really about fleeing from who you are, more than a physical journey. I guess that’s part of why people can relate to this story. Most of us, at some point in our lives, are trying to figure out where we can be who we are, and what it entails.’
+
+Director Jonas Poher Rasmussen, from an interview with Cineuropa.

@@ -141,11 +141,17 @@ def parse_body(items: list[str]) -> tuple[str, dict[str, str] | None]:
     if not quote_parts:
         return description, None
     quote_text = " ".join(quote_parts).strip()
-    credit_match = re.search(r"(?:’|\.)\s*((?:Director|[A-Z][\w’'\-]+(?:\s+[A-Z][\w’'\-]+){1,3}),?.*)$", quote_text)
+    # Credits often wrap across lines in the PDF.  Flattening them before
+    # matching makes the delimiter between the quote and attribution reliable.
+    flat_quote = " ".join(quote_text.split())
+    credit_match = re.search(
+        r"(?:[.’”])\s+(?P<credit>(?:(?:Co-)?Director\b|[A-Z][^,.]{1,80},\s*(?:Co-)?Director\b).*)$",
+        flat_quote,
+    )
     credit = ""
     if credit_match:
-        credit = credit_match.group(1).strip()
-        quote_text = quote_text[: credit_match.start() + 1].strip()
+        credit = credit_match.group("credit").strip()
+        quote_text = flat_quote[: credit_match.start() + 1].strip()
     return description, {"text": quote_text, "credit": credit}
 
 

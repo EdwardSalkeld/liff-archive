@@ -25,5 +25,8 @@
   "print_source": "GAGA corporation",
   "description": "Junk Head takes place in a future where humans have achieved\nimmortality, but at the price of infertility and environmental ruin.\nOne immortal, inside a mechanical suit, goes on a mission deep\nunderground to retrieve reproductive material from the cavernous\nindustrial depths. When his mission goes awry and he’s decapitated,\nsome helpful creatures, who view him as God, place his brain into a\nrobot body made of junk. 12 years in gestation, Takahide Hori’s eye-\nbogglingly detailed stop-motion sci-fi/horror passion project joins\nthat exclusive world of truly unique, independent anime.",
   "program": "Planet Japan",
-  "notes": "UNCERTAIN: Standalone quote has no reliably separable credit."
+  "quote": {
+    "text": "‘I’ve never had too many friends and I suppose it’s never been easy for me to ask other people for help. Even so, I couldn’t hold back my creative impulse and so I decided to strike out on my own path even if I was alone. Of course I knew about things like CG and 2D animation, but to do CG you need a deep understanding of the right computer software. I had made some puppets before, but if I could just string their movements together, I would have a movie, right? That’s how I started doing stop motion animation, with hardly any knowledge at all.’",
+    "credit": "Director Hori Takahide, from an interview with NHK World – Japan."
+  }
 }
