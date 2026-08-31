@@ -1,7 +1,7 @@
 FROM golang:1.25-trixie
 
 ARG VARIANT=hugo_extended
-ARG VERSION=0.147.6
+ARG VERSION=0.165.0
 RUN apt-get update && apt-get install -y ca-certificates openssl git curl
 
 RUN rm -rf /var/lib/apt/lists/*
