@@ -1,0 +1,21 @@
++++
+title = "Ali & Ava"
+director = "Clio Barnard"
+running-time = "95 mins"
+production-year = "2021"
+country = "UK"
+language = "English"
+strand = "Official Selection"
+screenwriter = "Clio Barnard"
+producer = "Ameenah Ayub Allen, Tracy O’Riordan"
+cinematographer = "Ole Bratt Birkeland"
+editor = "Maya Maffioli"
+cast = "Adeel Akhtar, Claire Rushbrook, Ellora Torchia, Shaun Thomas, Natalie Gavin"
+print-source = "Altitude"
+page-source = "page-05.pdf"
++++
+A forbidden love story on the lived-in streets of Bradford. Ali is many things: part-time DJ, caring landlord, surrogate dad. Mostly he’s a live-wire who listens and cares, ever-able to improve moods and get the most from folk. Ava, a woman left to care for her taxing home life by a long-departed spouse, comes into Ali’s sparky orbit, meeting his natural compassion with her own easy fondness. An arresting, yearning romantic drama by Clio Barnard that’s laced through with deep feeling for all of love’s – and Bradford’s – complexity.
+
+> It really came from both of the characters first and those people back when I was making my other films. And it’s about celebrating the lives of people that you don’t normally see and their internal lives on the big screen. They meet through the shared affection and care for a girl Sofia (Ariana Bodorova) who immigrated to the U.K. and both Ava and Ali are second-generation immigrants – her of Irish descent and him of Pakistani descent – and though that side of the story isn’t particularly dominant within the narrative it’s certainly there as part of it. It’s sort of much more about what’s going on internally for both of them I would say.
+
+Director Clio Barnard, from an interview with The Playlist
