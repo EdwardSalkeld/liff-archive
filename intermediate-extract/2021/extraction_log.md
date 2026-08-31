@@ -1,0 +1,107 @@
+# 2021 Catalogue Extraction Log
+
+- Page 001 - skipped, introduction and contents
+- Page 002 - skipped, partners
+- Page 003 - skipped, team
+- Page 004 - skipped, Official Selection introduction
+- Page 005 - extracted 200 Meters, Ali & Ava
+- Page 006 - extracted Ane is Missing, Azor
+- Page 007 - extracted Between Two Worlds, The Card Counter
+- Page 008 - extracted Clara Sola, Compartment no. 6
+- Page 009 - extracted Do Not Hesitate, Drive My Car
+- Page 010 - extracted Evolution, The Exam
+- Page 011 - extracted Fabian Going to the Dogs, The Eyes of Tammy Faye
+- Page 012 - extracted Great Freedom, The Hand of God
+- Page 013 - extracted Hit the Road, Hope
+- Page 014 - extracted Întregalde, The Justice of Bunny King
+- Page 015 - extracted La Mif, La Traviata, My Brothers and I
+- Page 016 - extracted Lingui, The Sacred Bonds, Looking for Venera
+- Page 017 - extracted Luzzu, Magnetic Beats
+- Page 018 - extracted Memoria, Mothering Sunday
+- Page 019 - extracted Natural Light, Paris, 13th District
+- Page 020 - extracted Petite Maman, Playground
+- Page 021 - extracted Queen of Glory, The Power of the Dog
+- Page 022 - extracted Reflection, The Sacred Spirit
+- Page 023 - extracted Spencer, The Souvenir: Part II
+- Page 024 - extracted Valentina, What Do We See When We Look at the Sky?
+- Page 025 - extracted You Resemble Me, Zahorí
+- Page 026 - skipped, Cinema Versa introduction
+- Page 027 - extracted 1970 + Liberation Radio, The Ants and the Grasshopper
+- Page 028 - extracted Ascension, Beijing Spring
+- Page 029 - extracted Cow, Dear Future Children
+- Page 030 - extracted A Distant Thud in the Jungle, Dear Mr Brody
+- Page 031 - extracted Faya Dayi, Final Account
+- Page 032 - extracted Flee, I Get Knocked Down
+- Page 033 - extracted In My Own Time: A Portrait of Karen Dalton, Luchadoras
+- Page 034 - extracted Miguel’s War, Mr Bachmann and His Class
+- Page 035 - extracted Narcissus Off Duty, The New Corporation: The Unfortunately Necessary Sequel
+- Page 036 - extracted No Straight Lines: The Rise of Queer Comics, The Nowhere Inn
+- Page 037 - extracted On Our Doorstep, So Which Band is Your Boyfriend in?
+- Page 038 - extracted SOA, The Story of Film: A New Generation
+- Page 039 - extracted Transform!, Unapologetic
+- Page 040 - extracted Ali and His Miracle Sheep, Listen To the Beat of our Images, Love, Dad, Same/Different/ Both/Neither, Some Kind of Intimacy, VO
+- Page 041 - extracted Liberation Radio Presented with 1970, Pripyat Piano Presented with SOA
+- Page 042 - skipped, Fanomenon introduction
+- Page 043 - extracted Absolute Denial, Alien on Stage
+- Page 044 - extracted A Banquet, Angel’s Egg
+- Page 045 - extracted Coffin Homes, Cube
+- Page 046 - extracted Fortune Favours Lady Nikuko, Frank & Zed
+- Page 047 - extracted Funky Forest: The First Contact, The Great Yokai War: Guardians
+- Page 048 - extracted The Haunting, The Innocents
+- Page 049 - extracted Junk Head, King Car
+- Page 050 - extracted Knocking, Kratt
+- Page 051 - extracted Lamb, Lapwing
+- Page 052 - extracted Last Survivors, The Man Who Stole the Sun
+- Page 053 - extracted Medusa, Murder Bury Win
+- Page 054 - extracted The Old Dark House, The Pink Cloud
+- Page 055 - extracted See For Me, The Sadness
+- Page 056 - extracted Sing a Bit of Harmony, Summer Ghost
+- Page 057 - extracted Summer Time Machine Blues, Sweetie, You Won’t Believe It
+- Page 058 - extracted Symbol, The Town of Headcounts
+- Page 059 - extracted This Game’s Called Murder, Tiong Bahru Social Club
+- Page 060 - extracted Titane, Tokyo Revengers
+- Page 061 - extracted Dark Passage, Eye Exam, Fellow Creatures, Wool 100%
+- Page 062 - extracted Life In a Box, Red, Special Delivery, The Last Marriage, The Light, The Thing That Ate The Birds
+- Page 063 - extracted Algorithm, Aria, Body of the Mined, While We Stayed Home
+- Page 064 - extracted Edicius, Flip, Floaters, I’m Not a Robot, Killing Time, Moonkeeper
+- Page 065 - extracted Cicada Presented with Knocking, Good Girl Presented with Murder Bury Win, Visitors Presented with The Sadness, Yeast Presented with Frank & Zed
+- Page 066 - skipped, Leeds Short Film Awards introduction
+- Page 067 - skipped, jury page
+- Page 068 - skipped, jury page
+- Page 069 - skipped, jury page
+- Page 070 - extracted Al-Sit, All the Crows in the World, Apallou, Astel, August Sky, Bill and Joe Go Duck Hunting
+- Page 071 - extracted Burros, Chiatura, Dad’s Sneakers, Displaced, Do.Solo.Pin, The Chick
+- Page 072 - extracted Esther in Wonderland, Europe, Farewell to the Wind, Georgia, Gotta Fabricate Your Own Gifts, How to Die Young in Manila
+- Page 073 - extracted Kaolin, LATA, Like the Ones I Used to Know, Lili Alone, The Infernal Machine, The Longest Dream that I Remember
+- Page 074 - extracted A Quiet Man, Neon Phantom, Orthodontics, Play Schengen, Sideral, Stories Keep Me Awake at Night
+- Page 075 - extracted Affairs of the Art, Amayi, Butterfly Jam, What We Don’t Know About Mariam, Zonder Meer
+- Page 076 - extracted Careful – Jo Goes Huntin’, Crumbs of Life, Dad is Gone, Death and the Lady, Dissolution, The Cat In The Art Park
+- Page 077 - extracted Easter Eggs, Film About a Pudding, Ghost Dogs, Green, Hakkori, The Fourth Wall
+- Page 078 - extracted darkly comedic but oddly uplifting tale about Love is Just a Death Away A Steve, a parasite, who lives inside a skeleton in, Hide, Leaf, Life’s a Bitch, My Friend Who Shines in The Night, Needs
+- Page 079 - extracted Opera, Pearl Diver, Prince in a Pastry Shop, Selection Process, shapes.colours.people. and floating down, The Shaman’s Apprentice
+- Page 080 - extracted Stationary Peaceful Protest, Terminal B, Urban Sphinx, What Resonates in Silence, WhateverTree
+- Page 081 - extracted Children’s Children, Culling, Diseased and Disorderly, Don vs Lightning, The Black Cop, The Clearing
+- Page 082 - extracted An Irish Goodbye, Finding Dad, Hanging On, Jamie, Know The Grass, The Man From Tormentor
+- Page 083 - extracted Play It Safe, Ropey, Salt Water Town, Stuffed, Tom Cat, Village Hours
+- Page 084 - extracted Little Grasses Crack Through Stone, Mushy Peas to Green Tea Kulfi, Ruth & Safiya, Skate, Rattle and Roll, Standing Woman, The Branches are Hope; The Roots are Memory
+- Page 085 - extracted Stratum Deep, Takeaway
+- Page 086 - extracted DISCONNECTED: The Musical, Eden, Habib & The Thief, Have You Ever Thought Why, Lonely Cowgirl, Memoirs of the (Non) Existent Me
+- Page 087 - extracted My Neighbor, Miguel, Neither Here, Nor There, Octavia’s Visions, Pardesan, Pistachio, Pomegranate with Teeth
+- Page 088 - extracted Princess, Step of Two, The Queen’s Heart, The Wash (In Love)
+- Page 089 - extracted [At the Wall of the Sea], Before We Collide, Bellydance Vogue
+- Page 090 - extracted Cocktail Party, Enclosure, Fibonacci, O Before I, Salidas, The Kitchen
+- Page 091 - extracted Smokestack Lightning, Terra
+- Page 092 - extracted Alexis Marshall — Open Mouth, Blake Mills — Money Is The One True God, Brotech — Dis House, Gola — The Line, Golden Ears — Fortaleza, GusGus & Bjarki — Chernobyl, Hak Baker — Irrelevant Elephant, Jordan Adetunji — Angel, Jordan Klassen — Identivacation, Kuba Kawalec — I Died, Mary Ocher — For All We Know, Naomi Alligator — Concession Stand Girl, So Loki — West, The Line — Heads, Tova Gertner — Good and Better, Twin Atlantic — Asynchronous
+- Page 093 - skipped, Rear View introduction
+- Page 094 - extracted Alice Cares, The Afterlight (on 35mm)
+- Page 095 - extracted Chameleon Street, The Crowd with Live Score from Matthew Bourne
+- Page 096 - extracted De Cierta Manera, The Discreet Charm of the Bourgeoisie
+- Page 097 - extracted Funeral Parade of Roses, Invasión
+- Page 098 - extracted Pilot Pirx’s Inquest, The Parallel Street
+- Page 099 - extracted Seven Samurai, The Shop on the Main Street
+- Page 100 - extracted Solaris, Throne of Blood
+- Page 101 - extracted The Witness, Tokyo Story
+- Page 102 - extracted 11 Preliminatory Orbits Around Planet Lem, Maska, Roly Poly, Xala (on 35mm)
+- Page 103 - skipped, index
+- Page 104 - skipped, index
+- Page 105 - skipped, index
