@@ -2,7 +2,7 @@
 title = "About"
 url = "about"
 layout = "plain"
-[_build]
+[build]
   list = "never"
 +++
 
