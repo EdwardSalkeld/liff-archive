@@ -1,22 +1,5 @@
 # Hugo Conversion Review Queue
 
-- page-100-throne-of-blood.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-101-the-witness.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-101-tokyo-story.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-28-beijing-spring.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-31-final-account.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-35-narcissus-off-duty.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-35-the-new-corporation-the-unfortunately-necessary-sequel.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-36-the-nowhere-inn.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-37-on-our-doorstep.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-38-soa.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-45-cube.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-47-funky-forest-the-first-contact.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-48-the-haunting.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-56-summer-ghost.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-57-summer-time-machine-blues.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-58-the-town-of-headcounts.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-60-tokyo-revengers.json: UNCERTAIN: Standalone quote has no reliably separable credit.
 - page-92-alexis-marshall-open-mouth.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
 - page-92-blake-mills-money-is-the-one-true-god.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
 - page-92-brotech-dis-house.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
@@ -33,7 +16,3 @@
 - page-92-the-line-heads.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
 - page-92-tova-gertner-good-and-better.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
 - page-92-twin-atlantic-asynchronous.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
-- page-94-the-afterlight-on-35mm.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-96-de-cierta-manera.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-97-funeral-parade-of-roses.json: UNCERTAIN: Standalone quote has no reliably separable credit.
-- page-99-seven-samurai.json: UNCERTAIN: Standalone quote has no reliably separable credit.

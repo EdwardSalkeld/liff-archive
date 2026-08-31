@@ -34,5 +34,8 @@
   ],
   "print_source": "Andy Cohen",
   "description": "At Beijing’s Democracy Wall in 1978, the “Stars”, a group of self-\ntaught artists (including a young Ai Weiwei) challenged propaganda\nby showing provocative new art that championed free expression,\noften exposing the inhumanity of the Cultural Revolution. Beijing Spring\nrecounts the experiences of artists and activists who flourished in this\nbrief period of reform, before crackdowns saw many imprisoned or\nexiled. Recording it all was a daring young filmmaker, Chi Xiaoning,\nwhose astonishing, long-hidden 16mm film footage is revealed here\nfor the first time in 40 years.",
-  "notes": "UNCERTAIN: Standalone quote has no reliably separable credit."
+  "quote": {
+    "text": "‘There has been very little written about [this movement]. The Beijing Spring was erased. [But] there is so much joy in the story. The only rule they had was: Create what you want, how you want. [the artists in the Beijing Spring] are rock stars that never got their deal. It was reminiscent of what is happening in Hong Kong today. This is a story about underground film-making, radical art and fighting censorship. A modern-day David- and-Goliath story.’",
+    "credit": "Co-director Andy Cohen, from an interview with the Jerusalem Post."
+  }
 }

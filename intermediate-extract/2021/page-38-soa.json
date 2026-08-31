@@ -25,5 +25,8 @@
   ],
   "print_source": "Crim Produções",
   "description": "SOA is an extraordinary film about listening and sound. Director and\nsound artist Raquel Castro spent several years accumulating interviews\nwith various specialists who all have a thoughtful relationship with\nthe sonic environment: soundwalkers, sound artists and theorists, field\nrecordists, scientists and architects. Each has a fascinating perspective\nand the film’s aural collage makes you hear anew. Screening with the\nshort film Pripyat Piano, exploring abandoned pianos in the Chernobyl\nradiation zone, the only inhabitants who can maintain its sounds even if\nthe surrounding walls collapse.",
-  "notes": "UNCERTAIN: Standalone quote has no reliably separable credit."
+  "quote": {
+    "text": "‘Sounds are ecological properties of our surroundings, and affect our perception of space and our relationship with activities occurring within cities. Different places have identifiable sonic identities relating to their specific locations and the auditory culture of the place. We are influenced by the environments we live in, but mostly not aware of them. There is a need for a more activated way of listening to our environment, which can lead to greater awareness of what’s around us. Artists can help with this. Works [like SOA] help us to experience sound deeply, making us aware of our ears and bodies which listen all the time, are more necessary than ever.’",
+    "credit": "KMRU, sound artist."
+  }
 }

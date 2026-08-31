@@ -14,7 +14,6 @@ editor = "Ernest Walter"
 cast = "Julie Harris, Claire Bloom, Richard Johnson, Russ Tamblyn, Fay Compton"
 print-source = "Park Circus"
 page-source = "page-48.pdf"
-notes = "UNCERTAIN: Standalone quote has no reliably separable credit."
 +++
 For those only familiar with the 2018 TV series The Haunting of Hill House,
 this ground-breaking 1963 adaptation of the Shirley Jackson novel is a
@@ -25,3 +24,7 @@ One of the investigators, Theodora (Claire Bloom in dazzling Mary Quant
 outfits) isn’t predatory or deranged like many queer characters of the
 genre. Instead, she’s a well-rounded, sympathetic protagonist, paving the
 way for Kate Siegel’s recent portrayal in the popular Netflix reimagining.
+
+> ‘The picture originally opened with a scene featuring Theo yelling angrily from the window of her Greenwich Village apartment as her female companion speeds away. Theo then uses a lipstick to write a message on a mirror: “I hate you.” Wise says that ‘when we viewed the first cut, we realised that this scene labelled [the film’s lesbian angle] too heavily, so we dropped it.’ […] Notably, Theo is not depicted as villainous. Although sometimes confrontational, she proves to be a strong and courageous ally.’
+
+George E. Turner, American Cinematographer magazine.

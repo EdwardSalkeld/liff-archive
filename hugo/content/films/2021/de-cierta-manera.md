@@ -13,7 +13,6 @@ editor = "Iván Arocha"
 cast = "Mario Balmaseda, Bobby Carcases, Yolanda Cuéllar, Guillermo Díaz, Bárbara Hernández, Berta Hernandez"
 print-source = "Arsenal"
 page-source = "page-96.pdf"
-notes = "UNCERTAIN: Standalone quote has no reliably separable credit."
 +++
 Newly restored, De Cierta Manera by Afro-Cuban director
 Sara Gómez is a fascinating docu-romance-drama and critical
@@ -25,3 +24,7 @@ the film with a factual narrative that contextualises the relationship,
 the community, and the tensions of life in a new socialist society. This
 screening is followed by a pre-recorded discussion with Cuban and
 UK-based film academics and experts.
+
+> ‘The cinema of Sara Gómez identifies the masks of colonialism, particularly worn by previously marginalized communities (black people, women, poor, religious and young people) who, unaware of the possibility of a better future, were about to turn a revolutionary utopia into a reality, but only if they could become, first of all themselves, subjects of social change. Gómez shows the difficulty of this change, exposing the roots of the world that had to be left behind and demanding the arrival of the future: her mission was to allow these communities to understand the process of what was happening in their lives, their needs and possible departures.’
+
+Roberto Zurbano Torres: Essayist and cultural critic, Havana in conversation with Havana Glasgow Film Festival.

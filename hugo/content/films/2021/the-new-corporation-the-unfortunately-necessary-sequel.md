@@ -13,7 +13,6 @@ editor = "Adam MacKay, Peter Roeck"
 cast = "Anjali Appadurai, Chris Barrett, Heidi Boghosian, Wendy Brown, Ada Colau"
 print-source = "The Film Collaborative"
 page-source = "page-35.pdf"
-notes = "UNCERTAIN: Standalone quote has no reliably separable credit."
 +++
 A startling investigation into how the corporate takeover of society
 is being justified by the sly rebranding of corporations as socially
@@ -25,3 +24,7 @@ hollowing out of democracy The New Corporation is an urgent cry for
 social justice, democracy, and transformative solutions. A sequel and
 update to the hit 2003 documentary The Corporation that also works
 brilliantly as a standalone film.
+
+> ‘With The (New) Corporation films, one of our broadest objectives is to expose what seems “normal” and “natural” as being socially constructed. While it seems to many like “just the way it is,” corporate capitalism came into being and is maintained through a series of deliberate and well-calculated decisions. If that’s the case…we can make different decisions. We can create different economic systems and different institutions. We can evolve. We can change through reflection, greater understanding and thoughtful action, we can create institutions and systems that are more equitable, more just, more compassionate and more livable. If our films open up some imaginative space to do that, then I’ll feel we’ve done something worthwhile.’
+
+Co-director Jennifer Abbott, from an interview with Filmmaker Magazine.
