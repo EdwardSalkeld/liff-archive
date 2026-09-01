@@ -1,0 +1,20 @@
++++
+title = "The Shift"
+director = "Laura Carreira"
+running-time = "9 mins"
+production-year = "2020"
+country = "Portugal, UK"
+language = "English"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+screenwriter = "Laura Carreira"
+producer = "Maeve McMahon, Mhairi Valentine"
+editor = "Florian Nonnenmacher"
+cast = "Anna Russell- Martin"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-68.pdf"
+music = "Laura Carreira For Jak, the bathroom is a refuge, but when their feelings of loneliness threaten to overwhelm them, Jak invites a new hookup into this sanctuary – opening up to all the pleasure, embarrassment and self-discovery that comes with queer intimacy."
+sound = "John Cobban"
++++
+Anna, an agency worker, takes her dog for a morning walk before doing her shopping. Searching through the discounted items, Anna wanders through the supermarket trying to find the most affordable necessities. As her groceries edge towards the checkout, her agency calls; she has lost her shift.

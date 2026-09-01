@@ -1,0 +1,21 @@
++++
+title = "Edna – One of Many"
+director = "Vuk Mitevski"
+running-time = "11 mins"
+production-year = "2019"
+country = "North Macedonia, Belgium"
+language = "English"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+original-title = "Edna"
+screenwriter = "Teona Strugar Mitevska"
+producer = "Labina Mitevska, Sebastien Delloye"
+editor = "Vuk Mitevski"
+cast = "Teona Strugar Mitevska"
+print-source = "s.leegeeuropeanfilmacademy.org"
+page-source = "page-65.pdf"
+music = "Olivier Samouillan"
+sound = "Emil Klotzsch"
++++
+Edna is an animation which was inspired by the refugee crisis, where Macedonia played the unfortunate role of a transit country; in essence it is a love story set in very unusual circumstances, told in a very poetic way.

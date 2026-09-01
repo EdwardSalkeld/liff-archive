@@ -1,0 +1,21 @@
++++
+title = "Homeless Home"
+director = "Alberto Vázquez"
+running-time = "15 mins"
+production-year = "2020"
+country = "France"
+language = "Spanish"
+premiere-status = "Yorkshire"
+strand = "Leeds Short Film Awards"
+substrand = "World Animation Competition"
+film-type = "short"
+screenwriter = "Alberto Vázquez"
+producer = "Nicolas Schmerkin, Iván Miñambres"
+editor = "Laurent Blot"
+cast = "Sonia Méndez, David Perdomo, Alberto Rolán, Kandido Uranga, Sandra Lesta, Ramón Barea, Alberto Vázquez, Miguel Canalejo Animation Khris Cembe, MCarmen Cambrils, Pamela Poltronieri, Diego Porral, Roc Espinet"
+print-source = "festivals@autourdeminuit.com"
+page-source = "page-44.pdf"
+music = "Víctor García"
+sound = "Dorine Le Lay"
++++
+A witch, an awk and an ogre are entwined in a doomed love triangle. Galician illustrator Alberto Vázquez says he invented a medieval fantasy world in order to tell an allegorical tale about the socio-psychological problems he sees in rural Spain today. It’s an unsettling watch for sure.

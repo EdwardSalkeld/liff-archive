@@ -1,0 +1,20 @@
++++
+title = "Nina"
+director = "Hristo Simeonov"
+running-time = "19 mins"
+production-year = "2019"
+country = "Bulgaria"
+language = "Bulgarian"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+screenwriter = "Konstantin Bojanov"
+producer = "Poli Angelova, Nikolay Todorov"
+editor = "Hristo Simeonov"
+cast = "Plamena Stefanova, Margita Gosheva, Borislav Rusev"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-67.pdf"
+music = "Goran Andrich Fedor is a young locksmith in Murmansk, a frozen city in the obscurity of the Russian Arctic. Client after client, he roams through the alleys of concrete animated by a fantasy that isolates him from the city and its population. His dreams corrode his relation to reality and open the door to a phantasmagoric universe; a second sun is rising above the Russian Arctic."
+sound = "Ivan Andreev, Veselin Zografov"
++++
+13-year-old Nina is feeling trapped in her relationship with the bossy Vassil, who is preparing her to be a skilled pickpocket in Spain. There are days when she is almost ready to run away from him.

@@ -1,0 +1,21 @@
++++
+title = "Memorable"
+director = "Bruno Collet"
+running-time = "12 mins"
+production-year = "2019"
+country = "France"
+language = "French"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+original-title = "Mémorable"
+screenwriter = "Bruno Collet"
+producer = "Jean-Fran ois Le Corre, Mathieu Courtois"
+editor = "Jean- Marie Le Rest"
+cast = "André Wilms, Dominique Reymond"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-67.pdf"
+music = "Nicolas"
+sound = "Léon Rousseau"
++++
+Recently, painter Louis is experiencing strange events. His world seems to be mutating. Slowly, furniture, objects, and people become less real. They deconstruct, disintegrate. A poignant stop motion about Alzheimer’s disease which was nominated for an Academy Award.

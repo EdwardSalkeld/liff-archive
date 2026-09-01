@@ -1,0 +1,20 @@
++++
+title = "The Land of Whim"
+director = "Betina Bozek"
+running-time = "8 mins"
+production-year = "2019"
+country = "Poland"
+language = "No Dialogue"
+premiere-status = "UK"
+strand = "Leeds Short Film Awards"
+substrand = "Polish Animation Focus"
+film-type = "short"
+original-title = "Kaprysia"
+screenwriter = "Betina Bozek"
+producer = "Jan Matejko Academy of Fine Arts"
+editor = "Betina Bozek"
+print-source = "marta.swiatek@kff.com.pl"
+page-source = "page-63.pdf"
+sound = "Michal Fojcik, Wojciech Iskierka At a glance, it seems that Square lives among chaos and endless changes. But the systems in which he functions are constantly repeated, introducing a routine, hypnotizing without allowing any movement. When a new element sneaks into the pattern, it will allow Square to see reality a little differently for a moment."
++++
+In The Land of Whim, the main character is a planet invented by the director. Everything that exists on the planet is unobvious, chaotic, and changes its shapes and properties. Mutual penetration and transformation of forms. The inhabitants are preparing for a big party. It’s all joy and pleasure until the arrival of blue and geometric characters from another planet.

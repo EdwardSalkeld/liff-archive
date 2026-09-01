@@ -1,0 +1,21 @@
++++
+title = "Invisible Hero"
+director = "Cristèle Alves Meira"
+running-time = "20 mins"
+production-year = "2019"
+country = "Portugal"
+language = "Portuguese"
+strand = "Leeds Short Film Awards"
+substrand = "Louis le Prince International Short Film Competition"
+film-type = "short"
+original-title = "Invisível Herói"
+screenwriter = "Cristèle Alves Meira"
+producer = "Gaëlle Mareschi"
+editor = "Pierre Deschamps"
+cast = "Duarte Pina Lucília Raimundo"
+print-source = "pf@portugalfilm.org"
+page-source = "page-39.pdf"
+music = "Teofilo Chantre Sabrina D. Marques Three days in the life of a young mother, her mother, and her son, Luther, living in the postcolonial, matriarchal culture of rural Jamaica. As the narrative unfolds, a simmering conflict over Luther and his femininity surfaces and we are offered insight into two mothers with conflicting notions about love and protection."
+sound = "Pedro Melo Vincent Pateau Simon Apostolou"
++++
+Duarte, a blind man in his fifties, is looking for his friend Leandro, a Cape Verdean immigrant who mysteriously disappeared. Despite his disability and Lisbon’s summer heat, Duarte walks miles in his neighborhood, but no one seems to even remember Leandro…until he finds a photograph Leandro took of a woman in front of a disco.

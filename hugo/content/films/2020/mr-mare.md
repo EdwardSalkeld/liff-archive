@@ -1,0 +1,20 @@
++++
+title = "Mr. Mare"
+director = "Luca Tóth"
+running-time = "19 mins"
+production-year = "2019"
+country = "Hungary"
+language = "No Dialogue"
+strand = "Leeds Short Film Awards"
+substrand = "World Animation Competition"
+film-type = "short"
+original-title = "Lidérc úr"
+screenwriter = "Luca Tóth"
+producer = "Gábor Osváth, Péter Benjámin Lukács, Ron Dyens"
+editor = "Luca Tóth"
+print-source = "zsofi@daazo.com"
+page-source = "page-45.pdf"
+music = "Csaba Kalotás Imagine discovering by email that you have a twin in a neighbouring galaxy who needs your help to fight evil forces? Sasha Svirsky narrates his character’s concerns and motivations in a wild reflexive mash up of colour, glitch and movement. “I like to improvise, ” he says. Handsome Cezar has fine taste and lives a bachelor life in a sumptuous flat. When a troublesome lump on his chest turns out to be a small figure growing next to his heart, he is alarmed, but strangely unmoved. A beautiful film about the vulnerability of love and co-dependence."
+sound = "Péter Benjámin Lukács Tamás Beke"
++++
+Form Animation – Narrative Original Title Lidérc úr Country Hungary Year 2019 Running Time 19min Language No Dialogue Director Luca Tóth Screenwriter Luca Tóth Producer Gábor Osváth, Péter Benjámin Lukács, Ron Dyens Editor Luca Tóth Sound Péter Benjámin Lukács Tamás Beke Music Csaba Kalotás Imagine discovering by email that you have a twin in a neighbouring galaxy who needs your help to fight evil forces? Sasha Svirsky narrates his character’s concerns and motivations in a wild reflexive mash up of colour, glitch and movement. “I like to improvise,” he says. Handsome Cezar has fine taste and lives a bachelor life in a sumptuous flat. When a troublesome lump on his chest turns out to be a small figure growing next to his heart, he is alarmed, but strangely unmoved. A beautiful film about the vulnerability of love and co-dependence.

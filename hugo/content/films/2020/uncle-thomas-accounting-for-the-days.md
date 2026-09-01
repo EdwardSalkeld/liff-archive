@@ -1,0 +1,20 @@
++++
+title = "Uncle Thomas, Accounting For The Days"
+director = "Regina Pessoa"
+running-time = "13 mins"
+production-year = "2019"
+country = "Portugal, France, Canada"
+language = "Portuguese, English"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+original-title = "Tio Tomás, A Contabilidade Dos Dias"
+screenwriter = "Regina Pessoa"
+producer = "Abi Feijó, Julie Roy, Reginald de Guillebon Animation Regina Pessoa, André Marques, Alexandre Braga, Sylvie Trouvé, Dale Hayward, Marc Robinet, Soukaïna Najjaranne, Nils Delot"
+editor = "Abi Feijó"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-68.pdf"
+music = "Normand Roger A tribute to the"
+sound = "Normand Roger"
++++
+Form Animation – Documentary Original Title Tio Tomás, A Contabilidade Dos Dias Country Portugal, France, Canada Year 2019 Running Time 13min Language Portuguese, English Director Regina Pessoa Screenwriter Regina Pessoa Producer Abi Feijó, Julie Roy, Reginald de Guillebon Animation Regina Pessoa, André Marques, Alexandre Braga, Sylvie Trouvé, Dale Hayward, Marc Robinet, Soukaïna Najjaranne, Nils Delot Editor Abi Feijó Sound Normand Roger Music Normand Roger A tribute to the director’s uncle Thomas, a humble man with a simple and anonymous life. This is her acknowledgment how one does not have to be “somebody” to become exceptional in other’s eyes. Professional weightlifter Petro is preparing for an important competition. But before the competition, he receives tragic news that forces him to make a difficult decision. Petro’s inner conflict makes him into more than just a mechanical bundle of muscles.

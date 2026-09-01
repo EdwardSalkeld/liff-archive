@@ -1,0 +1,20 @@
++++
+title = "Navigation"
+director = "Marlene Millar"
+running-time = "14 mins"
+production-year = "2020"
+country = "Canada"
+language = "No Dialogue"
+premiere-status = "English"
+strand = "Leeds Short Film Awards"
+substrand = "Leeds Screendance Competition"
+film-type = "short"
+screenwriter = "Marlene Millar, Sandy Silva"
+producer = "Marlene Millar, Sandy Silva"
+editor = "Jules de Niverville"
+cast = "Bobby Thompson, Andrew Bathory, Sonia Clarke, David Cronkite, Dominic Desrochers, Afia Douglas, Isaac Endo, Hélène Lemay, Kimberly Robin, Sandy Silva"
+print-source = "marlenemillar@gmail.com"
+page-source = "page-56.pdf"
+music = "Jean Fréchette, The Lismorahaun Singers Sandy Silva Choreography Sandy Silva This film considers the daily struggle of street workers in Senegal. The endless gestures of these everyday warriors are sublimated by the Krump dance, whose tension is expressed in the ‘battle’."
++++
+Navigation explores the current humanitarian crisis of displacement and dislocation. Using the land itself to explore how we navigate through unknown terrain, themes of survival and perseverance, departure and renewal emerge.

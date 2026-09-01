@@ -1,0 +1,10 @@
++++
+title = "Garrett Kato ft Julia Stone — Breathe It In"
+director = "Emily Dynes"
+strand = "Leeds Short Film Awards"
+substrand = "Leeds Music Video Competition"
+film-type = "short"
+page-source = "page-57.pdf"
+notes = "UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided."
++++
+Music video for Breathe It In by Garrett Kato ft Julia Stone.

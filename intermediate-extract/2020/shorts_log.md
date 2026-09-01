@@ -1,0 +1,42 @@
+# 2020 Shorts Extraction Log
+
+- Page 020 - extracted Cell 364, Charlie Surfer, Home, and a Distant Archive
+- Page 021 - extracted Kachalka, Motherland, RIP. Rebirth and Throbbing, The Unknown
+- Page 029 - extracted Hungry Joe, NOM, None of the Above
+- Page 030 - extracted Reflection, Seek, Under the Lather, Who Goes There?, A Better You
+- Page 031 - extracted Carmentis, Eject, It’s Okay, The Recycling Man, The Speed of Time, You Will Never Be Back
+- Page 037 - extracted Anja, Are You Hungry?, Bella, Bird’s Song, Border Crossing
+- Page 038 - extracted Cloudy Days, David, Dustin, En Route, Epilog, Good Night
+- Page 039 - extracted Henet Ward, Invisible Hero, Mada (Mother), The Manila Lover, Mountain Cat, The News
+- Page 040 - extracted Omé, Paola Makes a Wish, The Present, Red Ants Bite, The School Bus, Sër Bi
+- Page 041 - extracted The Smell Of Coffee, So What If The Goats Die, Summer Fasting, Take it and End It, The Technique, The Tongues
+- Page 042 - extracted Virago, White Eye, Witness, Woman Without a Child
+- Page 043 - extracted Beyond Noh, Blue Fear, Catgot, Cha, Chado, The Chimney Swift
+- Page 044 - extracted Cosmonaut, Don’t Know What, Empty Places, Freeze Frame, Genius Loci, Homeless Home
+- Page 045 - extracted The Land of Whim, Little Miss Fate, Mascot, Mr. Mare, My Galactic Twin Galaction, Night Shift
+- Page 046 - extracted Purpleboy, Salmon Men, Serial Parallels, Something to Remember, Sura, There Were Four of Us
+- Page 047 - extracted Trauma Chameleon, A Devil in the Pocket, Wade, We Have One Heart, Wood Child & Hidden Forest Mother, The Zillas have a Picnic
+- Page 048 - extracted Ballast, Bench, The Birth of Valerie Venus, Good Thanks You?, Keratin, Lasagne
+- Page 049 - extracted Little Dog, Big Dog, O Black Hole!, Our Sister, Princess, Queens, Ratking
+- Page 050 - extracted The Song of a Lost Boy, Sudden Light, A Club On The Edge of Town, City of Children, Human Cockleshells
+- Page 051 - extracted In Good Company, Media Intrusion, Scrum, Songs From Next Door, Special Education Needs? (S.E.N), The White Fox – Charlie Leeds
+- Page 052 - extracted Tyresome, 1-1, Bonde, Freed
+- Page 053 - extracted In Your Hands, Ishtar, Must Be Painful, The Name of The Son, One Milagro, Playback
+- Page 054 - extracted Pretty Girl, Saturnrania, Sylvie, Three Times, We Are Not Who They Say We Are
+- Page 055 - extracted About Face, Canis Major, De-Eschatology, Floor Falls, Forest Floor, Lazarus
+- Page 056 - extracted My Other Self, Navigation, PROTEST !, Zombies
+- Page 058 - extracted Any Instant Whatever, Black, Catgot, Don’t Know What, Just a Small, Lursaguak. Scenes from life
+- Page 059 - extracted Serial Parallels, Trauma Chameleon, Wong Ping’s Fables 2, Xylem
+- Page 060 - extracted Arachind, Artist, Act of Love, Dolápo is Fine, Good Night, Henet Ward, ìFÉ
+- Page 061 - extracted My Love, Ethiopia, Tab, The Trap, What Did You Dream
+- Page 062 - extracted Bernard, Bless you!, Creatures, Evening, Fences, III
+- Page 063 - extracted The Land of Whim, Squaring the Circle, Story, Three Women On a Bench, XOXO — hugs and kisses
+- Page 064 - extracted A Demonstration of Brilliance in Four Acts, Entropia, The Little Soul, SH_T HAPPENS, Soma, SPACES
+- Page 065 - extracted 12 K Marx Street, The Best City Is No City At All, The Bite, Black Sheep, Community Gardens, Edna – One of Many
+- Page 066 - extracted Egg, Excess Will Save Us, Favourites, Flesh, (Fool Time) Job, In Between
+- Page 067 - extracted It wasn’t the Right Mountain, Mohammad, Lake of Happiness, Memorable, Nha Mila, Nina, Sun Dog
+- Page 068 - extracted The Shift, Things That Happen In The Bathroom, To The Dusty Sea, Uncle Thomas, Accounting For The Days, Weightlifter
+- Page 069 - extracted Death & The Knight, Havana Cuba, Unripe Fruits, When it Snows
+- Page 070 - extracted Affection, Doggerland, Liverpool Ferry, She Lives Alone, Sweet Mother
+- Page 057 - extracted Monster Rally — Adventure, The Real Tuesday Weld — Bathwell in Clerkentime, Joya Mooi — Bitter Parts, Idles — Never Fight A Man with a Perm, Heart Bones — Open Relations, Max Cooper — Repetition, Garrett Kato ft Julia Stone — Breathe It In, Black Pumas — Colors, Solo Ansamblis — Dansingas, Peejay — Seoul Sori, Yola — Shady Grove, The Cool Greenhouse — The Sticks, Marika Hackman — Hand Solo, Justin Lacy — I Don’t Need Another, Onoe Caponoe — The Message, Harry Hanson — Tinnies with The Reaper, The Breeders — Walking with a Killer, Heinrich Himalaya — Wückis Zam, Dynoro — Zver
+- Page 057 - extracted Monster Rally — Adventure, The Real Tuesday Weld — Bathwell in Clerkentime, Joya Mooi — Bitter Parts, Idles — Never Fight A Man with a Perm, Heart Bones — Open Relations, Max Cooper — Repetition, Garrett Kato ft Julia Stone — Breathe It In, Black Pumas — Colors, Solo Ansamblis — Dansingas, Peejay — Seoul Sori, Yola — Shady Grove, The Cool Greenhouse — The Sticks, Marika Hackman — Hand Solo, Justin Lacy — I Don’t Need Another, Onoe Caponoe — The Message, Harry Hanson — Tinnies with The Reaper, The Breeders — Walking with a Killer, Heinrich Himalaya — Wückis Zam, Dynoro — Zver, Sins of a Werewolf

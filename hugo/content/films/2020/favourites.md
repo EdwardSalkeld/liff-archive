@@ -1,0 +1,20 @@
++++
+title = "Favourites"
+director = "Martin Monk"
+running-time = "18 mins"
+production-year = "2019"
+country = "Austria, Germany"
+language = "German"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+original-title = "Favouriten"
+screenwriter = "Martin Monk"
+producer = "Michaela Finis"
+editor = "Felix Kalaivanan"
+cast = "Lia Wilfing, Christian Dolezal"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-66.pdf"
+sound = "Julia Willi, Bernhard Maisch"
++++
+After falling out with her mother, juvenile Sofia hitchhikes southwards in search of the father she never had. When she meets grumpy engineer Michael, who reluctantly agrees to give her a lift, the two strangers develop an unlikely friendship on their shared journey through the Austrian south.

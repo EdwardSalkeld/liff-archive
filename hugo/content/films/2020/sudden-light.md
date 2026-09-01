@@ -1,0 +1,20 @@
++++
+title = "Sudden Light"
+director = "Sophie Littman"
+running-time = "15 mins"
+production-year = "2019"
+country = "United Kingdom"
+language = "English"
+premiere-status = "Yorkshire"
+strand = "Leeds Short Film Awards"
+substrand = "British Short Film Competition"
+film-type = "short"
+screenwriter = "Sophie Littman"
+producer = "Tom Wood"
+editor = "Paco Sweetman"
+cast = "Esme Creed-Miles, Sam Spruell, Millie Ashford"
+print-source = "sophielittman@gmail.com"
+page-source = "page-50.pdf"
+music = "Tim Morrish"
++++
+A seemingly ordinary dog walk for two sisters in the fields near their home, quickly descends into a powerless limbo in the face of oncoming grief, as the landscape begins to morph and trick them, eventually leading towards a strange man lurking at the edge of a dark wood.

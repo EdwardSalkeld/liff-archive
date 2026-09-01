@@ -1,0 +1,21 @@
++++
+title = "The Best City Is No City At All"
+director = "Christoph Schwarz"
+running-time = "15 mins"
+production-year = "2020"
+country = "Austria"
+language = "German"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+original-title = "Die Beste Stadt ist Keine Stadt"
+screenwriter = "Christoph Schwarz"
+producer = "Christoph Schwarz"
+editor = "Christoph Schwarz"
+cast = "Natalie Kuzmich"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-65.pdf"
+music = "Matthias Peyker"
+sound = "Matthias Peyker"
++++
+Christoph Schwarz mixes multiple perspectives on Vienna’s largest urban expansion area. They share a sentimental criticism of growth and a romantic refusal to progress while facing imminent ecological collapse, which seems more credible to us than any happy ending. Between a house in the Atlantic forest and a genetically-modified mosquito factory near São Paulo, a poly-amorous, non-binary relationship struggles to survive an epidemic spreading across Brazil. While in the factory millions of mosquitoes are born daily inside test tubes, the power dynamics between Helmut, Calixto, and Tao only intensify.

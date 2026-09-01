@@ -1,0 +1,28 @@
+# Hugo Conversion Review Queue
+
+- page-57-black-pumas-colors.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-dynoro-zver.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-garrett-kato-ft-julia-stone-breathe-it-in.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-harry-hanson-tinnies-with-the-reaper.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-heart-bones-open-relations.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-heinrich-himalaya-w-ckis-zam.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-idles-never-fight-a-man-with-a-perm.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-joya-mooi-bitter-parts.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-justin-lacy-i-don-t-need-another.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-marika-hackman-hand-solo.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-max-cooper-repetition.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-monster-rally-adventure.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-onoe-caponoe-the-message.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-peejay-seoul-sori.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-solo-ansamblis-dansingas.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-the-breeders-walking-with-a-killer.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-the-cool-greenhouse-the-sticks.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-the-real-tuesday-weld-bathwell-in-clerkentime.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57-yola-shady-grove.json: UNCERTAIN: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-58-catgot.json: slug collision on 'catgot', wrote 'catgot-2.md'.
+- page-58-don-t-know-what.json: slug collision on 'don-t-know-what', wrote 'don-t-know-what-2.md'.
+- page-59-serial-parallels.json: slug collision on 'serial-parallels', wrote 'serial-parallels-2.md'.
+- page-59-trauma-chameleon.json: slug collision on 'trauma-chameleon', wrote 'trauma-chameleon-2.md'.
+- page-60-good-night.json: slug collision on 'good-night', wrote 'good-night-2.md'.
+- page-60-henet-ward.json: slug collision on 'henet-ward', wrote 'henet-ward-2.md'.
+- page-63-the-land-of-whim.json: slug collision on 'the-land-of-whim', wrote 'the-land-of-whim-2.md'.

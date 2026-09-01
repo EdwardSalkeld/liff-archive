@@ -1,0 +1,20 @@
++++
+title = "12 K Marx Street"
+director = "Irine Jordania"
+running-time = "15 mins"
+production-year = "2019"
+country = "Georgia"
+language = "Georgian"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+original-title = "Marksis Kucha 12"
+screenwriter = "Irine Jordania"
+producer = "Suliko Tsulukidze"
+editor = "Levan Butkhuzi"
+cast = "Tina Lagidze, David Ujmajuridze"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-65.pdf"
+sound = "Paata Godziashvili Christoph Schwarz mixes multiple perspectives on Vienna’s largest urban expansion area. They share a sentimental criticism of growth and a romantic refusal to progress while facing imminent ecological collapse, which seems more credible to us than any happy ending."
++++
+A woman pours herself a cup of coffee and sits in the same place, at the same time, every day, calling the same number on her phone. One day, her call is unexpectedly answered.

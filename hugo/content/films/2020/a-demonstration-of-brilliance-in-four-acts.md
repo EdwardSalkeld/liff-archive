@@ -1,0 +1,20 @@
++++
+title = "A Demonstration of Brilliance in Four Acts"
+director = "Morten Tšinakov, Lucija Mrzljak"
+running-time = "15 mins"
+production-year = "2018"
+country = "Estonia, Croatia"
+language = "No Dialogue"
+strand = "Leeds Short Film Awards"
+substrand = "CEE Animation Talents"
+film-type = "short"
+original-title = "Briljantsuse demonstratsioon neljas vaatuses"
+screenwriter = "Morten Tšinakov"
+producer = "Kalev Tamm, Draško Ivezic Animation Marko Dješka, Ülle Metsur, Lucija Mrzljak, Chloe Roux, Maiken Silla, Morten Tšinakov"
+editor = "Morten Tšinakov, Lucija Mrzljak"
+print-source = "talents@ceeanimation.eu"
+page-source = "page-64.pdf"
+music = "Kaspar Jancis Three women, three lives in parallel worlds, until the moment a fly causes a bug in the system. The universe collapses, sex is in the air, bras are overrated and the stars twinkle!"
+sound = "Horret Kuus"
++++
+Four storylines are intertwined in this ode to absurdity that begins with the birth of an adult man in a suit. He is acclaimed by the people who are waiting for someone special, but at the first mistake they turn their backs on him.

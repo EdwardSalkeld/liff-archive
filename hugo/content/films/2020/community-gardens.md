@@ -1,0 +1,20 @@
++++
+title = "Community Gardens"
+director = "Vytautas Katkus"
+running-time = "15 mins"
+production-year = "2019"
+country = "Lithuania"
+language = "Lithuanian"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+original-title = "Kolektyviniai Sodai"
+screenwriter = "Vytautas Katkus"
+producer = "Viktorija Seniut"
+editor = "Laurynas Bareisa"
+cast = "Vygantas Bachmackij, Arvydas Dapsys, Aiste Zabotkaite, Jelena Juscenko"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-65.pdf"
+sound = "Julius Grigelionis Edna is an animation which was inspired by the refugee crisis, where Macedonia played the unfortunate role of a transit"
++++
+Patriarchal masculinity seems to catch its last breath in the sun. A story about a cold relationship between a father and his son. Their bond, plagued by indifference, disintegrates completely.

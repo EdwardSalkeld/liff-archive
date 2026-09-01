@@ -1,0 +1,20 @@
++++
+title = "Purpleboy"
+director = "Alexandre Siqueira"
+running-time = "14 mins"
+production-year = "2019"
+country = "Portugal"
+language = "English, French, Portuguese"
+premiere-status = "Yorkshire"
+strand = "Leeds Short Film Awards"
+substrand = "World Animation Competition"
+film-type = "short"
+screenwriter = "Alexandre Siqueira"
+producer = "Rodrigo Areias, Mickaël Carton, Thierry Zamparutti, Serge Kestemont Animation Miguel Lima, Nicolas Fong, David Chambolle, Alexandre Siqueira, Jeanne Boukraa"
+editor = "Nicolas Dufresne"
+print-source = "patrick2carvalho@gmail.com"
+page-source = "page-46.pdf"
+music = "Christophe Petchanatz Five colourful female figures swim a fertility dance, while downstream five flippered frogmen power through the pondweed to reach them. “The film addresses the meaning of manhood in a world of fully emancipated women” say the directors, although they add “we do not take this subject too seriously”."
+sound = "Laurent Martin"
++++
+Purpleboy is a story full of symbolism. A fable based on personal memory. An elegantly realised and warming tale of self-discovery, acceptance and familial love. Born with an improbable bouffant in his parents garden, Oscar is on a search for identity in an authoritarian and parochial society.
