@@ -1,7 +1,18 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
 
-  {{ if ne .Section "films" }}
+  {{ if eq .Section "films" }}
+    <nav class="film-pills" aria-label="Film listings">
+      {{ with .CurrentSection }}
+        <a class="film-pill film-pill--year" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+      {{ with .GetTerms "strand" }}
+        {{ range . }}
+          <a class="film-pill film-pill--strand" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      {{ end }}
+    </nav>
+  {{ else }}
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
     {{ $dateHuman := .Date | time.Format ":date_long" }}
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>

@@ -35,3 +35,12 @@ for (const page of pages) {
     });
   });
 }
+
+test('Film detail pills link to the year and strand listings', async ({ page }) => {
+  await page.goto('/films/2023/kims-video/');
+
+  await expect(page.locator('.film-pill--year')).toHaveText('2023');
+  await expect(page.locator('.film-pill--year')).toHaveAttribute('href', '/films/2023/');
+  await expect(page.locator('.film-pill--strand')).toHaveText('Cinema Amour');
+  await expect(page.locator('.film-pill--strand')).toHaveAttribute('href', '/strand/cinema-amour/');
+});
