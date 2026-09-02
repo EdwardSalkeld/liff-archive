@@ -1,0 +1,20 @@
++++
+title = "Cell 364"
+director = "Mathilde Babo, Zoé Rossion"
+running-time = "4 mins"
+production-year = "2020"
+country = "France"
+language = "German"
+premiere-status = "Yorkshire"
+strand = "Leeds Short Film Awards"
+substrand = "Where Were We?: Documentary Shorts"
+film-type = "short"
+screenwriter = "Mathilde Babo, Zoé Rossion"
+producer = "Fran ois Morisset"
+editor = "Mathilde Babo"
+cast = "Hans-Jochen Scheidler"
+print-source = "festival@salaudmorisset.com"
+page-source = "page-20.pdf"
+sound = "Zoé Rossion, Clément Chaubet 10-year-old Charlie is proud of his Asperger’s diagnosis, though he sometimes feels different and left out. But he has found two things he loves to do: surfing and dancing. We follow Charlie through ups and downs as he sets himself a very specific goal."
++++
+A former Stasi prisoner revisits his cell, reflecting on life under dictatorship and democracy.

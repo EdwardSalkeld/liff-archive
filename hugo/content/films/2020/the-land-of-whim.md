@@ -1,0 +1,20 @@
++++
+title = "The Land of Whim"
+director = "Betina Bozek"
+running-time = "8 mins"
+production-year = "2019"
+country = "Poland"
+language = "No Dialogue"
+premiere-status = "UK"
+strand = "Leeds Short Film Awards"
+substrand = "World Animation Competition"
+film-type = "short"
+original-title = "Kaprysia"
+screenwriter = "Betina Bozek"
+producer = "Jan Matejko Academy of Fine Arts"
+editor = "Betina Bozek"
+print-source = "marta.swiatek@kff.com.pl"
+page-source = "page-45.pdf"
+sound = "Michal Fojcik, Wojciech Iskierka Towering above us, the great hand of fate is playing the tunes of our lives. But everyone needs a break once in a while. What is unexpected however, is the chaos and debauchery unleashed when a few small innocent interventions are made. An extreme satire on love, destiny and chance."
++++
+We’re big fans of Betina Bożek’s brand of queasy brilliance (Oh God! LIFF32) and we’re excited to present her latest short. It’s another example of the whimsical freedom offered by the animated form. Sensuous, chaotic and deeply surreal, there is yet a liberating exuberance in a land where anything goes.

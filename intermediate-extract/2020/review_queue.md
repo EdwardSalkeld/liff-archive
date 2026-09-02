@@ -1,0 +1,21 @@
+# 2020 Catalogue Extraction Review Queue
+
+- page-57.pdf - Black Pumas — Colors: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Dynoro — Zver: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Garrett Kato ft Julia Stone — Breathe It In: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Harry Hanson — Tinnies with The Reaper: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Heart Bones — Open Relations: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Heinrich Himalaya — Wückis Zam: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Idles — Never Fight A Man with a Perm: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Joya Mooi — Bitter Parts: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Justin Lacy — I Don’t Need Another: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Marika Hackman — Hand Solo: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Max Cooper — Repetition: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Monster Rally — Adventure: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Onoe Caponoe — The Message: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Peejay — Seoul Sori: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Solo Ansamblis — Dansingas: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - The Breeders — Walking with a Killer: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - The Cool Greenhouse — The Sticks: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - The Real Tuesday Weld — Bathwell in Clerkentime: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.
+- page-57.pdf - Yola — Shady Grove: The catalogue lists only artist, track, and director; no synopsis or production metadata is provided.

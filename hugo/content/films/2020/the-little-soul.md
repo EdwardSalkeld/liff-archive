@@ -1,0 +1,20 @@
++++
+title = "The Little Soul"
+director = "Barbara Rupik"
+running-time = "9 mins"
+production-year = "2019"
+country = "Poland"
+language = "No Dialogue"
+strand = "Leeds Short Film Awards"
+substrand = "CEE Animation Talents"
+film-type = "short"
+original-title = "Duszyczka"
+screenwriter = "Barbara Rupik"
+producer = "Agata Golańska"
+editor = "Barbara Rupik"
+print-source = "talents@ceeanimation.eu"
+page-source = "page-64.pdf"
+music = "Maurycy Raczyński"
+sound = "Barbara Rupik"
++++
+A dead body becomes stuck by a riverbank. Its decaying insides still hide a human soul – a miniature of the deceased. Rotting organs part and a tiny creature gets out. Standing on the river bank, it says goodbye to the corpse and sets off on a journey through the post-mortem land.

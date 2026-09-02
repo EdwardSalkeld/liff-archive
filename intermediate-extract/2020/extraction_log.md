@@ -1,0 +1,83 @@
+# 2020 Catalogue Extraction Log
+
+- Page 001 - skipped, blank cover
+- Page 002 - skipped, introduction
+- Page 003 - skipped, festival team
+- Page 004 - skipped, Official Selection introduction
+- Page 005 - extracted And Tomorrow the Entire World, Anne at 13,000 ft
+- Page 006 - extracted Arracht, Balloon
+- Page 007 - extracted Black Milk, Curveball — A True Story, Unfortunately
+- Page 008 - extracted Dear Comrades, High Ground
+- Page 009 - extracted Honey Cigar, Kill It and Leave This Town
+- Page 010 - extracted Love Affair(s), One Day in the Life of Noah Piugattuk
+- Page 011 - extracted One of These Days, Quo Vadis, Aida?
+- Page 012 - extracted Sun Children, The Trouble with Nature
+- Page 013 - extracted The Whaler Boy, Two of Us
+- Page 014 - skipped, Cinema Versa introduction
+- Page 015 - extracted 76 Days, Andrey Tarkovsky. A Cinema Prayer
+- Page 016 - extracted Bring Down the Walls, Collective
+- Page 017 - extracted Downstream to Kinshasa, Kubrick by Kubrick
+- Page 018 - extracted Meanwhile on Earth, Mind the Gap: Democracy Ltd
+- Page 019 - extracted Sisters with Transistors, The Mole Agent
+- Page 020 - extracted Cell 364, Charlie Surfer, Home, and a Distant Archive, The Republics
+- Page 021 - extracted Kachalka, Motherland, RIP. Rebirth and Throbbing, The Unknown
+- Page 022 - skipped, Fanomenon introduction
+- Page 023 - extracted Asylum, Beauty Water
+- Page 024 - extracted Caveat, Chop Chop
+- Page 025 - extracted Detention, The Columnist
+- Page 026 - extracted Dune Drifter, Get the Hell Out
+- Page 027 - extracted The Old Man Movie, The Reckoning
+- Page 028 - extracted The Skin, The Twentieth Century
+- Page 029 - extracted Hungry Joe, NOM, None of the Above, Wolfwalkers
+- Page 030 - extracted A Better You, Reflection, Seek, Under the Lather, Who Goes There?
+- Page 031 - extracted Carmentis, Eject, It’s Okay, The Recycling Man, The Speed of Time, You Will Never Be Back
+- Page 032 - extracted Sins of a Werewolf
+- Page 033 - skipped, short-film awards introduction
+- Page 034 - skipped, jury page
+- Page 035 - skipped, jury page
+- Page 036 - skipped, jury page
+- Page 037 - extracted Anja, Are You Hungry?, Bella, Bird’s Song, Border Crossing
+- Page 038 - extracted Cloudy Days, David, Dustin, En Route, Epilog, Good Night
+- Page 039 - extracted Henet Ward, Invisible Hero, Mada (Mother), Mountain Cat, The Manila Lover, The News
+- Page 040 - extracted Omé, Paola Makes a Wish, Red Ants Bite, Sër Bi, The Present, The School Bus
+- Page 041 - extracted So What If The Goats Die, Summer Fasting, Take it and End It, The Smell Of Coffee, The Technique, The Tongues
+- Page 042 - extracted Virago, White Eye, Witness, Woman Without a Child
+- Page 043 - extracted Beyond Noh, Blue Fear, Catgot, Cha, Chado, The Chimney Swift
+- Page 044 - extracted Cosmonaut, Don’t Know What, Empty Places, Freeze Frame, Genius Loci, Homeless Home
+- Page 045 - extracted Little Miss Fate, Mascot, Mr. Mare, My Galactic Twin Galaction, Night Shift, The Land of Whim
+- Page 046 - extracted Purpleboy, Salmon Men, Serial Parallels, Something to Remember, Sura, There Were Four of Us
+- Page 047 - extracted A Devil in the Pocket, The Zillas have a Picnic, Trauma Chameleon, Wade, We Have One Heart, Wood Child & Hidden Forest Mother
+- Page 048 - extracted Ballast, Bench, Good Thanks You?, Keratin, Lasagne, The Birth of Valerie Venus
+- Page 049 - extracted Little Dog, Big Dog, O Black Hole!, Our Sister, Princess, Queens, Ratking
+- Page 050 - extracted A Club On The Edge of Town, City of Children, Human Cockleshells, Sudden Light, The Song of a Lost Boy
+- Page 051 - extracted In Good Company, Media Intrusion, Scrum, Songs From Next Door, Special Education Needs? (S.E.N), The White Fox – Charlie Leeds
+- Page 052 - extracted 1-1, Bonde, Freed, Tyresome
+- Page 053 - extracted In Your Hands, Ishtar, Must Be Painful, One Milagro, Playback, The Name of The Son
+- Page 054 - extracted Pretty Girl, Saturnrania, Sylvie, Three Times, We Are Not Who They Say We Are
+- Page 055 - extracted About Face, Canis Major, De-Eschatology, Floor Falls, Forest Floor, Lazarus
+- Page 056 - extracted My Other Self, Navigation, PROTEST !, Zombies
+- Page 057 - extracted Black Pumas — Colors, Dynoro — Zver, Garrett Kato ft Julia Stone — Breathe It In, Harry Hanson — Tinnies with The Reaper, Heart Bones — Open Relations, Heinrich Himalaya — Wückis Zam, Idles — Never Fight A Man with a Perm, Joya Mooi — Bitter Parts, Justin Lacy — I Don’t Need Another, Marika Hackman — Hand Solo, Max Cooper — Repetition, Monster Rally — Adventure, Onoe Caponoe — The Message, Peejay — Seoul Sori, Solo Ansamblis — Dansingas, The Breeders — Walking with a Killer, The Cool Greenhouse — The Sticks, The Real Tuesday Weld — Bathwell in Clerkentime, Yola — Shady Grove
+- Page 058 - extracted Any Instant Whatever, Black, Catgot, Don’t Know What, Just a Small, Lursaguak. Scenes from life
+- Page 059 - extracted Serial Parallels, Trauma Chameleon, Wong Ping’s Fables 2, Xylem
+- Page 060 - extracted Arachind, Artist, Act of Love, Dolápo is Fine, ìFÉ, Good Night, Henet Ward
+- Page 061 - extracted My Love, Ethiopia, Tab, The Trap, What Did You Dream
+- Page 062 - extracted Bernard, Bless you!, Creatures, Evening, Fences, III
+- Page 063 - extracted Squaring the Circle, Story, The Land of Whim, Three Women On a Bench, XOXO — hugs and kisses
+- Page 064 - extracted A Demonstration of Brilliance in Four Acts, Entropia, SH_T HAPPENS, Soma, SPACES, The Little Soul
+- Page 065 - extracted 12 K Marx Street, Black Sheep, Community Gardens, Edna – One of Many, The Best City Is No City At All, The Bite
+- Page 066 - extracted Egg, Excess Will Save Us, Favourites, Flesh, (Fool Time) Job, In Between
+- Page 067 - extracted It wasn’t the Right Mountain, Mohammad, Lake of Happiness, Memorable, Nha Mila, Nina, Sun Dog
+- Page 068 - extracted The Shift, Things That Happen In The Bathroom, To The Dusty Sea, Uncle Thomas, Accounting For The Days, Weightlifter
+- Page 069 - extracted Death & The Knight, Havana Cuba, Unripe Fruits, When it Snows
+- Page 070 - extracted Affection, Doggerland, Liverpool Ferry, She Lives Alone, Sweet Mother
+- Page 071 - skipped, Leeds Young Film Festival introduction
+- Page 072 - extracted 2040, The Arctic Camels
+- Page 073 - extracted Captain Sabertooth and the Magic Diamond, The Bears’ Famous Invasion of Sicily
+- Page 074 - extracted Cattle Hill, The Club of Ugly Children
+- Page 075 - extracted Rocca Changes the World, The Lunnis and the Great Fairytale Adventure
+- Page 076 - extracted Romy’s Salon, Sheep and Wolves: Pig Deal
+- Page 077 - extracted Snow White and the Magic of the Dwarfs, Sune: Best Man
+- Page 078 - skipped, feature index
+- Page 079 - skipped, short-film index
+- Page 080 - skipped, short-film index
+- Page 081 - skipped, blank back cover

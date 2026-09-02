@@ -1,0 +1,21 @@
++++
+title = "Border Crossing"
+director = "Agnieszka Chmura"
+running-time = "15 mins"
+production-year = "2019"
+country = "Poland"
+language = "Polish"
+premiere-status = "Yorkshire"
+strand = "Leeds Short Film Awards"
+substrand = "Louis le Prince International Short Film Competition"
+film-type = "short"
+original-title = "Przejście Graniczne"
+screenwriter = "Agnieszka Chmura"
+producer = "Piotr Lenar"
+editor = "Przemysław Kopacz, Agnieszka Chmura"
+cast = "Pola Galica Galoch, Agnieszka Koscielniak, Andrzej Rozmus, Andrzej Franczyk"
+print-source = "agnchm@gmail.com"
+page-source = "page-37.pdf"
+sound = "Adriano Mantova, Bartosz Idzi"
++++
+Summer 1989: a little girl is traveling with her parents, enjoying the summer, the holidays and her childhood. But as the family approaches the border, the girl senses unspecified fear and anxiety. She enters the world of adults which she doesn’t understand.

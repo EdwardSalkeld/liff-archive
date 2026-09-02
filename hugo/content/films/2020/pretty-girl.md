@@ -1,0 +1,20 @@
++++
+title = "Pretty Girl"
+director = "Megan K Fox"
+running-time = "11 mins"
+production-year = "2019"
+country = "Ireland"
+language = "English, Irish"
+premiere-status = "UK"
+strand = "Leeds Short Film Awards"
+substrand = "Leeds Queer Short Film Competition"
+film-type = "short"
+original-title = "Cailín Álainn"
+screenwriter = "Megan K Fox"
+producer = "Hazel Cullen"
+editor = "Oisin O’Connell A feminist sci-fi adventure documentary following an experimental physicist on her quest to have a baby."
+cast = "Levi O’Sullivan"
+print-source = "hazelhcullen@gmail.com"
+page-source = "page-54.pdf"
++++
+A tender drama about a transgender teen who comes out for the first time at a cross-dress disco at the Gaeltacht.

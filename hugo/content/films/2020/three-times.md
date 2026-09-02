@@ -1,0 +1,22 @@
++++
+title = "Three Times"
+director = "Paco Ruiz"
+running-time = "20 mins"
+production-year = "2020"
+country = "Spain"
+language = "English, Spanish"
+premiere-status = "UK"
+strand = "Leeds Short Film Awards"
+substrand = "Leeds Queer Short Film Competition"
+film-type = "short"
+original-title = "Tres Veces"
+screenwriter = "Paco Ruiz"
+producer = "Elamedia Estudios, Roberto Butragueño"
+editor = "Andrés Federico"
+cast = "Koldo Olabarri, Frank Feys"
+print-source = "info@distributionwithglasses.com"
+page-source = "page-54.pdf"
+music = "Luis Hernáiz The story of Arcoiris, a group of LGBTQI+ human rights defenders in Honduras, revealing both the severity of the risks they face and their determination to further their struggle."
+sound = "Roberto Fernández"
++++
+An online hookup goes terribly wrong.

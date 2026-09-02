@@ -1,0 +1,21 @@
++++
+title = "RIP. Rebirth and Throbbing"
+director = "Rafa G. Sánchez"
+running-time = "12 mins"
+production-year = "2019"
+country = "Spain"
+language = "Spanish"
+premiere-status = "UK"
+strand = "Leeds Short Film Awards"
+substrand = "Where Were We?: Documentary Shorts"
+film-type = "short"
+original-title = "RIP. Renaix i Palpita"
+screenwriter = "Rafa G. Sánchez"
+producer = "Rafa G. Sánchez"
+editor = "Alex Cuellar"
+print-source = "curts_ivac@gva.es"
+page-source = "page-21.pdf"
+music = "wakes the neighbourhood of Carolinas in Alicante. Neighbors dressed in mourning carry a coffin and flowers through its streets. But no death is commemorated, not yet. The neighbours of Carolinas will fight and cause their home to be reborn and to throb."
+sound = "Alex Cuellar"
++++
+Funeral music wakes the neighbourhood of Carolinas in Alicante. Neighbors dressed in mourning carry a coffin and flowers through its streets. But no death is commemorated, not yet. The neighbours of Carolinas will fight and cause their home to be reborn and to throb.

@@ -1,0 +1,20 @@
++++
+title = "Lake of Happiness"
+director = "Aliaksei Paluyan"
+running-time = "29 mins"
+production-year = "2019"
+country = "Germany, Belarus, Spain"
+language = "Belarusian"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+screenwriter = "Aliaksei Paluyan"
+producer = "Aliaksei Paluyan, Jörn Möllenkamp, Eduardo M. Escribano Solera"
+editor = "Aliaksei Paluyan"
+cast = "Anastasiya Plyats, Igar Sigau, Sviatlana Anikei"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-67.pdf"
+music = "Siarhei Douhushau Recently, painter Louis is experiencing strange events. His world seems to be mutating. Slowly, furniture, objects, and people become less real. They deconstruct, disintegrate. A poignant stop motion about Alzheimer’s disease which was nominated for an Academy Award."
+sound = "Vensan Mazmanyan"
++++
+In a small Belarusian village where time seems to stand still, Jasja, a 9-year-old girl, has to deal with her mother‘s death. Her father decides to send her to an orphanage. But one day she decides to run away home.

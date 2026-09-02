@@ -1,0 +1,21 @@
++++
+title = "The Bite"
+director = "Pedro Neves Marques"
+running-time = "26 mins"
+production-year = "2019"
+country = "Portugal, Brazil"
+language = "Portuguese"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+original-title = "A Mordida"
+screenwriter = "Pedro Neves Marques"
+producer = "Catarina de Sousa, Pedro Neves Marques"
+editor = "Pedro Neves Marques"
+cast = "Alina Dörzbacher, Ana Flávia Cavalcanti, Kelner Macedo"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-65.pdf"
+music = "Pedro Neves Marques"
+sound = "Tales Manfrinato"
++++
+Between a house in the Atlantic forest and a genetically-modified mosquito factory near São Paulo, a poly-amorous, non-binary relationship struggles to survive an epidemic spreading across Brazil. While in the factory millions of mosquitoes are born daily inside test tubes, the power dynamics between Helmut, Calixto, and Tao only intensify.

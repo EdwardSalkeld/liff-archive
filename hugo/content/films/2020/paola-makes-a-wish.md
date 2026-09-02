@@ -1,0 +1,18 @@
++++
+title = "Paola Makes a Wish"
+director = "Zhannat Alshanova"
+running-time = "8 mins"
+production-year = "2019"
+country = "Switzerland"
+language = "Italian"
+premiere-status = "UK"
+strand = "Leeds Short Film Awards"
+substrand = "Louis le Prince International Short Film Competition"
+film-type = "short"
+screenwriter = "Zhannat Alshanova"
+producer = "Zhannat Alshanova"
+cast = "Christina Proserpio, Ana Shametaj, Valentina Manzoni On his wedding anniversary, Yusef and his daughter, Yasmine, set out across the West Bank to buy his wife a gift. Between the soldiers, segregated roads and checkpoints, how easy can it be to go shopping?"
+print-source = "festival@travellingdistribution.com"
+page-source = "page-40.pdf"
++++
+On an ordinary day at work, Paola starts to feel that she is missing out on something exciting in her life, particularly considering the candid and explicit nature of her workmates’ conversations about men and sex.

@@ -1,0 +1,21 @@
++++
+title = "Seek"
+director = "Aaron Morgan"
+running-time = "6 mins"
+production-year = "2020"
+country = "United States"
+language = "English"
+premiere-status = "Yorkshire"
+strand = "Leeds Short Film Awards"
+substrand = "Fanomenon Shorts"
+film-type = "short"
+screenwriter = "Aaron Morgan, Eric Vespe"
+producer = "Michaela Morgan, Paul Gandersman, Peter Hall, Eric Vespe, Aaron Morgan"
+editor = "Greg MacLennan"
+cast = "Allisyn Snyder Clare Grant Steve Agee Sarah Anne Williams"
+print-source = "krisaaron.morgan@gmail.com"
+page-source = "page-30.pdf"
+music = "Troy Robertson, Jonas Wikstrand"
+sound = "Jeffery A Pitts"
++++
+Five year-old Ivan is forced to take a bath by his babysitter. Once in the water he discovers a terrible creature hiding under the soapy lather. Alone in the tub he must use all his wits to stave off the monster. Let battle commence! Two sisters have been driving all night when they come across a dilapidated roadside rest-stop. Horrific events follow when one of them stumbles upon a strange message and a mischievous resident that wants to play a terrifying game.

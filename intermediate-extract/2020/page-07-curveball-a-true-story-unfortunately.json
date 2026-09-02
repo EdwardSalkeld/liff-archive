@@ -1,0 +1,47 @@
+{
+  "countries": [
+    "Germany"
+  ],
+  "year": 2020,
+  "runtime_minutes": 108,
+  "languages": [
+    "German",
+    "Arabic",
+    "English"
+  ],
+  "directors": [
+    "Johannes Naber"
+  ],
+  "screenwriters": [
+    "Oliver Keidel",
+    "Johannes Naber"
+  ],
+  "producers": [
+    "Amir Hamz",
+    "Christian Springer",
+    "Fahri Yardim"
+  ],
+  "cast": [
+    "Sebastian Blomberg",
+    "Dar Salim",
+    "Virginia Kull",
+    "Michael Wittenborn",
+    "Thorsten Merten",
+    "Franziska Brandmeier"
+  ],
+  "cinematographers": [
+    "Sten Mende"
+  ],
+  "editors": [
+    "Anne Jünemann"
+  ],
+  "print_source": "Arri Media",
+  "title": "Curveball — A True Story, Unfortunately",
+  "page": "page-07.pdf",
+  "section": "Official Selection",
+  "description": "A sharply written and bitterly funny political satire from Germany\nbased on an obscure true story that became one of the main catalysts\nfor the Iraq War. Hapless bioweapons expert Wolf is obsessed with\nthe idea that Iraq is producing anthrax. His superior assigns him as case\nofficer for Iraqi asylum seeker Rafid Alwan who claims to have worked\nfor Saddam Hussein’s bioweapons programme. Despite the shaky\nprovenance, Rafid, nicknamed ‘Curveball’ becomes a valuable asset\nin an increasingly absurd chain of events driven by political advantage\nrather than the truth.",
+  "quote": {
+    "text": "‘The BND [German Secret Service]’s story is very much about inferiority complexes in regard to the CIA and the other secret services. During the Cold War, the BND was always the lousiest of them all. The CIA and the others could do things that were beyond the norm, but the BND had strict rules about acting in accordance with German laws. They also had bad budgets and didn’t have great recruits. It was never cool to work for the BND. I can’t think of a single one of the famous spy films or books where they are mentioned…To be true to the story and then not to bore the audience is my aim – that and making the world a better place.’",
+    "credit": "Johannes Naber, Director"
+  }
+}

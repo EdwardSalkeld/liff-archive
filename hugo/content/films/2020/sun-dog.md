@@ -1,0 +1,20 @@
++++
+title = "Sun Dog"
+director = "Dorian Jespers"
+running-time = "20 mins"
+production-year = "2020"
+country = "Belgium, Russia"
+language = "Russian"
+strand = "Leeds Short Film Awards"
+substrand = "European Film Academy Focus"
+film-type = "short"
+screenwriter = "Dorian Jespers"
+producer = "Dorian Jespers"
+editor = "Omar Guzman"
+cast = "Alexander Pronkin"
+print-source = "s.leege@europeanfilmacademy.org"
+page-source = "page-67.pdf"
+music = "Felix Casaer"
+sound = "Thomas Becka"
++++
+Fedor is a young locksmith in Murmansk, a frozen city in the obscurity of the Russian Arctic. Client after client, he roams through the alleys of concrete animated by a fantasy that isolates him from the city and its population. His dreams corrode his relation to reality and open the door to a phantasmagoric universe; a second sun is rising above the Russian Arctic.

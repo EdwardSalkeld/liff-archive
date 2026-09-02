@@ -1,0 +1,20 @@
++++
+title = "Keratin"
+director = "Andrew Butler, James Wilson"
+running-time = "8 mins"
+production-year = "2020"
+country = "United Kingdom"
+language = "No Dialogue"
+premiere-status = "Yorkshire"
+strand = "Leeds Short Film Awards"
+substrand = "British Short Film Competition"
+film-type = "short"
+screenwriter = "Andrew Butler, James Wilson"
+producer = "Laurie Mahon"
+editor = "Alex Marshall"
+cast = "Jason Thorpe, Robert Nairne"
+print-source = "hello@backbonefilms.co.uk"
+page-source = "page-48.pdf"
+music = "James Warburton Hector and Betty’s relationship is struggling. But they may have found the ingredients to a perfect marriage, when they discover an unlikely addition to their evening meal. Starring Felicity Montagu and Matthew Kelly, this tasty comedy recently won the York Youth Award at Aesthetica Film Festival. Dig in!"
++++
+A peculiar and unnerving atmospheric short about isolation, obsession and creation, which follows an isolated man’s ritualistic compulsions in the pursuit of survival, even if it means he must part with his own flesh and blood. Though absent of dialogue, Keratin retains a powerful voice through a haunting score.
