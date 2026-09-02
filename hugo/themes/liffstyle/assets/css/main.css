@@ -51,7 +51,7 @@ body {
 }
 
 .container {
-  padding: 0 2rem;
+  padding: 2rem 2rem 0;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -112,20 +112,13 @@ blockquote p:first-child {
   gap: 1.25rem;
 }
 
-.home-intro,
-.news-card {
+.home-intro {
   margin-bottom: 1.25rem;
 }
 
-.news-card h2 {
-  font-size: 1.35rem;
+.news-updates h2,
+.news-card h3 {
   margin: 0;
-}
-
-.news-card time {
-  display: block;
-  font-size: 0.9rem;
-  margin-top: 0.25rem;
 }
 
 .news-card p:last-child,
@@ -172,7 +165,7 @@ nav li {
 
 @media (max-width: 600px) {
   .container {
-    padding: 0 1rem 1rem;
+    padding: 1rem 1rem;
   }
 
   .header-container {

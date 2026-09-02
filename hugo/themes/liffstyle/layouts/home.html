@@ -5,11 +5,11 @@
     </section>
   {{ end }}
 
-  <section class="news-updates" aria-label="Site updates">
+  <section class="news-updates" aria-labelledby="site-updates-heading">
+    <h2 id="site-updates-heading">Site updates</h2>
   {{ range ( where site.RegularPages "Section" "news" ) }}
     <article class="content-card news-card">
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+      <h3>{{ .Date.Format "2006-01-02" }}: {{ .LinkTitle }}</h3>
       {{ .Summary }}
     </article>
   {{ end }}
