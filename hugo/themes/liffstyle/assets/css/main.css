@@ -93,11 +93,6 @@ blockquote p:first-child {
 }
 
 @media (prefers-color-scheme: dark) {
-  header {
-    background-color: var(--surface-dark);
-    border-bottom-color: var(--divider-dark);
-  }
-
   .content-card {
     background-color: var(--surface-dark);
     border-color: var(--divider-dark);
@@ -141,6 +136,13 @@ blockquote p:first-child {
 header {
   background-color: var(--surface-light);
   border-bottom: 1px solid var(--divider-light);
+}
+
+@media (prefers-color-scheme: dark) {
+  header {
+    background-color: var(--surface-dark);
+    border-bottom-color: var(--divider-dark);
+  }
 }
 
 .header-container {
