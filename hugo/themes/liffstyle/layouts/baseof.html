@@ -10,7 +10,7 @@
     </div>
   </header>
   <div class="container">
-    <main>
+    <main{{ if not .IsHome }} class="content-card"{{ end }}>
       {{ block "main" . }}{{ end }}
     </main>
     <footer>

@@ -4,11 +4,13 @@
   --primary-light: #007bff;
   --divider-light: #d6dce3;
   --quote-border-light: #c7d3df;
+  --surface-light: #f1f3f5;
   --background-dark: #2a2a2a;
   --text-dark: #fdfdfd;
   --primary-dark: #007bff;
   --divider-dark: #4b5460;
   --quote-border-dark: #5f6b78;
+  --surface-dark: #35353b;
 }
 
 @media (prefers-color-scheme: light) {
@@ -44,9 +46,16 @@ body {
 
 .container {
   padding: 0 2rem 0 2rem;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
 }
 
-main {
+.content-card {
+  background-color: var(--surface-light);
+  border: 1px solid var(--divider-light);
+  border-radius: 0.75rem;
+  padding: 1.5rem;
 }
 
 p {
@@ -54,7 +63,7 @@ p {
 }
 
 footer {
-  margin-top: 2.25rem;
+  margin-top: auto;
   padding-top: 1.1rem;
   border-top: 1px solid var(--divider-light);
 }
@@ -78,6 +87,11 @@ blockquote p:first-child {
 }
 
 @media (prefers-color-scheme: dark) {
+  .content-card {
+    background-color: var(--surface-dark);
+    border-color: var(--divider-dark);
+  }
+
   blockquote {
     border-left-color: var(--quote-border-dark);
   }
@@ -85,6 +99,32 @@ blockquote p:first-child {
   footer {
     border-top-color: var(--divider-dark);
   }
+}
+
+.news-updates {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.home-intro,
+.news-card {
+  margin-bottom: 1.25rem;
+}
+
+.news-card h2 {
+  font-size: 1.35rem;
+  margin: 0;
+}
+
+.news-card time {
+  display: block;
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+}
+
+.news-card p:last-child,
+.home-intro p:last-child {
+  margin-bottom: 0;
 }
 
 header {
@@ -119,6 +159,10 @@ nav li {
 @media (max-width: 600px) {
   .container {
     padding: 0 1rem 1rem;
+  }
+
+  .content-card {
+    padding: 1rem;
   }
 
   header {
