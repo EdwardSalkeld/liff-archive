@@ -21,7 +21,12 @@ jobs:
         with:
           hugo-version: '0.147.6'
           extended: true
-          
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Build and test
         run: |
           make ci-build

@@ -126,6 +126,26 @@ blockquote p:first-child {
   margin-bottom: 0;
 }
 
+#search {
+  --pagefind-ui-border-radius: 0.5rem;
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-primary: var(--primary-light);
+  --pagefind-ui-text: var(--text-light);
+  --pagefind-ui-background: var(--background-light);
+  --pagefind-ui-border: var(--divider-light);
+  --pagefind-ui-tag: var(--surface-light);
+}
+
+@media (prefers-color-scheme: dark) {
+  #search {
+    --pagefind-ui-primary: var(--primary-dark);
+    --pagefind-ui-text: var(--text-dark);
+    --pagefind-ui-background: var(--background-dark);
+    --pagefind-ui-border: var(--divider-dark);
+    --pagefind-ui-tag: var(--surface-dark);
+  }
+}
+
 header {
   background-color: var(--surface-light);
   border-bottom: 1px solid var(--divider-light);

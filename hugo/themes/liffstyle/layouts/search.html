@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div id="search" aria-label="Search results"></div>
+  <script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
+  <script>
+    new PagefindUI({
+      element: "#search",
+      showImages: false,
+      showSubResults: true,
+      translations: {
+        placeholder: "Search films",
+        clear_search: "Clear search",
+        load_more: "Load more results",
+        searching: "Searching…",
+        zero_results: "No films found for [SEARCH_TERM]"
+      }
+    });
+  </script>
+{{ end }}

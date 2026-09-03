@@ -28,3 +28,6 @@
 
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
+{{ if eq .Layout "search" }}
+<link href="{{ "pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
+{{ end }}
