@@ -1,7 +1,17 @@
 {{ define "main" }}
-  {{ .Content }}
-  {{ range ( where site.RegularPages "Section" "news" ) }}
-    <h3>{{ .Date.Format "2006-01-02" }}: {{ .LinkTitle }}</h3>
-    {{ .Summary }}
+  {{ with .Content }}
+    <section class="content-card home-intro">
+      {{ . }}
+    </section>
   {{ end }}
+
+  <section class="news-updates" aria-labelledby="site-updates-heading">
+    <h2 id="site-updates-heading">Site updates</h2>
+  {{ range ( where site.RegularPages "Section" "news" ) }}
+    <article class="content-card news-card">
+      <h3>{{ .Date.Format "2006-01-02" }}: {{ .LinkTitle }}</h3>
+      {{ .Summary }}
+    </article>
+  {{ end }}
+  </section>
 {{ end }}
