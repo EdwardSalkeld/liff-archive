@@ -18,6 +18,11 @@ weight = 30
 name = 'By Title'
 pageRef = '/all'
 weight = 30
+
+[[menus.main]]
+name = 'Search'
+pageRef = '/search'
+weight = 40
 [module]
 [module.hugoVersion]
 extended = false

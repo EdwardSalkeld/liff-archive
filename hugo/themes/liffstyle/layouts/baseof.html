@@ -10,7 +10,9 @@
     </div>
   </header>
   <div class="container">
-    <main{{ if not .IsHome }} class="content-card"{{ end }}>
+    {{ $isFilmPage := and (eq .Section "films") (eq .Kind "page") }}
+    <main{{ if $isFilmPage }} data-pagefind-body{{ else }} data-pagefind-ignore{{ end }}{{ if not .IsHome }} class="content-card"{{ end }}>
+      {{ if $isFilmPage }}<span data-pagefind-meta="title" hidden>{{ .Title }}</span>{{ end }}
       {{ block "main" . }}{{ end }}
     </main>
     <footer>

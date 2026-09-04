@@ -1,4 +1,4 @@
-.PHONY: help dev build build-local install check-hugo install-playwright test test-update test-html ci-build ci-test clean
+.PHONY: help dev build build-local web-build search-preview install check-hugo install-node install-playwright test test-update test-html ci-build ci-test clean
 
 # Default target - show help
 .DEFAULT_GOAL := help
@@ -21,6 +21,12 @@ build: ## Build Hugo site with Docker
 build-local: ## Build Hugo site locally (requires Hugo installed)
 	cd hugo && hugo
 
+web-build: build-local ## Build the deployable site and its static search index
+	npx pagefind --site hugo/public
+
+search-preview: build ## Build the site, create its search index, and serve it locally
+	npx pagefind --site hugo/public --serve
+
 ##@ Dependencies
 
 install: check-hugo install-playwright ## Install all dependencies (Hugo and Playwright)
@@ -29,8 +35,10 @@ check-hugo: ## Check if Hugo is installed
 	@echo "Checking Hugo installation..."
 	@which hugo > /dev/null 2>&1 && echo "✓ Hugo is already installed: $$(hugo version)" || (echo "✗ Hugo is not installed. Install via system package manager or GitHub Actions." && echo "See: https://gohugo.io/installation/" && exit 1)
 
-install-playwright: ## Install Playwright browsers
+install-node: ## Install pinned Node dependencies
 	npm ci
+
+install-playwright: install-node ## Install Playwright browsers
 	npx playwright install --with-deps chromium
 
 ##@ Testing
@@ -47,7 +55,7 @@ test-html: build-local ## Run HTML validation tests (requires local build)
 
 ##@ CI/CD
 
-ci-build: build-local ## Build for CI (same as build-local)
+ci-build: install-node web-build ## Build for CI and Cloudflare Pages
 
 ci-test: test-html test ## Run all tests for CI (HTML validation + Playwright)
 
